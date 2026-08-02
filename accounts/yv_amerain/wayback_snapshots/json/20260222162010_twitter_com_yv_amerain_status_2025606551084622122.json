@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025606551084622122",
+    "created_at": "2026-02-22T16:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025606551084622122"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025606551084622122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明我一路上可以有现在这样，如果只是靠吃雌二醇这个标签早就卡在1000粉了，都谢谢二文让我开始讨厌这些人虽然我也不怎么喜欢他，后来我开始玩cos从3月到现在才3000fo，这个置顶直接又涨快1000，上次置顶涨了500，全靠两次置顶，照片还有之前出皆守后的自拍“我是不是长得不太适合出男角色”，好烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025606551084622122",
+        "created_at": "2026-02-22T16:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025606551084622122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025606551084622122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明我一路上可以有现在这样，如果只是靠吃雌二醇这个标签早就卡在1000粉了，都谢谢二文让我开始讨厌这些人虽然我也不怎么喜欢他，后来我开始玩cos从3月到现在才3000fo，这个置顶直接又涨快1000，上次置顶涨了500，全靠两次置顶，照片还有之前出皆守后的自拍“我是不是长得不太适合出男角色”，好烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 551,
+          "like_count": 7273,
+          "listed_count": 9,
+          "media_count": 310,
+          "tweet_count": 3675
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2051012854988591594",
+    "created_at": "2026-05-04T06:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051194223882621137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738107522459082752",
+          "start": 0,
+          "username": "cuzhnx278792"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051194223882621137",
+    "in_reply_to_user_id": "1738107522459082752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051193530660552957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuzhnx278792 说白了男娘药娘他们的行为明明很奇怪很诡异吧，大部分女生还是男生都挺讨厌的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2051012854988591594",
+        "created_at": "2026-05-04T06:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051194223882621137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738107522459082752",
+              "start": 0,
+              "username": "cuzhnx278792"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051194223882621137",
+        "in_reply_to_user_id": "1738107522459082752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051193530660552957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuzhnx278792 说白了男娘药娘他们的行为明明很奇怪很诡异吧，大部分女生还是男生都挺讨厌的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738107522459082752",
+        "conversation_id": "2051012854988591594",
+        "created_at": "2026-05-04T06:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051193530660552957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051193530660552957",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051012854988591594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 左右互搏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface///亚文化//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4410,
+          "following_count": 445,
+          "like_count": 8334,
+          "listed_count": 7,
+          "media_count": 327,
+          "tweet_count": 4028
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T08:02:51.000Z",
+        "description": "成就我的难道真的只是鸿运齐天蛊吗？",
+        "id": "1738107522459082752",
+        "name": "马鸿运",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036104243275501568/px7VBjsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 391
+        },
+        "username": "cuzhnx278792",
+        "verified": false
+      }
+    ]
+  }
+}

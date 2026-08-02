@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063189156332007425"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2063189158815056064",
+    "created_at": "2026-06-06T09:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063189158815056064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uoc9mvYEim",
+          "end": 67,
+          "expanded_url": "https://x.com/yv_amerain/status/2063189158815056064/photo/1",
+          "media_key": "3_2063189156332007425",
+          "start": 44,
+          "url": "https://t.co/Uoc9mvYEim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063189158815056064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以后我将使用这个号正常更新东西谢谢，这个号发了太多戾气太重的东西了，对不起...... https://t.co/Uoc9mvYEim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063189156332007425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHrmz-bcAEUWB4.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063189156332007425"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2063189158815056064",
+        "created_at": "2026-06-06T09:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063189158815056064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uoc9mvYEim",
+              "end": 67,
+              "expanded_url": "https://x.com/yv_amerain/status/2063189158815056064/photo/1",
+              "media_key": "3_2063189156332007425",
+              "start": 44,
+              "url": "https://t.co/Uoc9mvYEim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063189158815056064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后我将使用这个号正常更新东西谢谢，这个号发了太多戾气太重的东西了，对不起...... https://t.co/Uoc9mvYEim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4832,
+          "following_count": 488,
+          "like_count": 9264,
+          "listed_count": 8,
+          "media_count": 360,
+          "tweet_count": 4218
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

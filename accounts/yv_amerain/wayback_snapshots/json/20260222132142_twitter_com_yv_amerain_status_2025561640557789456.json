@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025561332838465995",
+    "created_at": "2026-02-22T13:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025561640557789456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025561640557789456",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025561332838465995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 唉，我卖惨确实没圈到钱啊，我什么时候卖惨圈钱了，我自己圈钱的时候，我怎么不知道我是卖惨圈的，卖惨反而掉粉，还圈不到钱好吗？唉，我就是说我卖惨发那些卖惨推的，你所谓的卖惨推的那些时候，我们看看我有没有收到打赏？还有我最近反而是置顶还有别的收到了，为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025561332838465995",
+        "created_at": "2026-02-22T13:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025561640557789456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025561640557789456",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025561332838465995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 唉，我卖惨确实没圈到钱啊，我什么时候卖惨圈钱了，我自己圈钱的时候，我怎么不知道我是卖惨圈的，卖惨反而掉粉，还圈不到钱好吗？唉，我就是说我卖惨发那些卖惨推的，你所谓的卖惨推的那些时候，我们看看我有没有收到打赏？还有我最近反而是置顶还有别的收到了，为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2025561332838465995",
+        "created_at": "2026-02-22T13:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025561332838465995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yv_amerain/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/yv_amerain/status/2025555304528966079",
+              "start": 40,
+              "url": "https://t.co/FgRhrDRfwB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025561332838465995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025555304528966079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人就是干了又不让说，又当又立的🙂‍↔️对不起我再也不说你卖惨了，你是对的🤓 https://t.co/FgRhrDRfwB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3951,
+          "following_count": 553,
+          "like_count": 7315,
+          "listed_count": 8,
+          "media_count": 330,
+          "tweet_count": 3744
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "🚪9999999999999999999999.99",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2019103377612063033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019070778399248384/k14HPoiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 94,
+          "like_count": 3102,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1525
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

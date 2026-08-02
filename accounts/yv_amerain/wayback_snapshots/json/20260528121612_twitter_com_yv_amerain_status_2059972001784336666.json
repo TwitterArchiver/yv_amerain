@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059971999167025152"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2059972001784336666",
+    "created_at": "2026-05-28T12:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059972001784336666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gJ2omgVgEv",
+          "end": 41,
+          "expanded_url": "https://x.com/yv_amerain/status/2059972001784336666/photo/1",
+          "media_key": "3_2059971999167025152",
+          "start": 18,
+          "url": "https://t.co/gJ2omgVgEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059972001784336666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没什么钱了，求资助，唉...... https://t.co/gJ2omgVgEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2059971999167025152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ9nnmaEAALP7S.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059971999167025152"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2059972001784336666",
+        "created_at": "2026-05-28T12:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059972001784336666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJ2omgVgEv",
+              "end": 41,
+              "expanded_url": "https://x.com/yv_amerain/status/2059972001784336666/photo/1",
+              "media_key": "3_2059971999167025152",
+              "start": 18,
+              "url": "https://t.co/gJ2omgVgEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059972001784336666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没什么钱了，求资助，唉...... https://t.co/gJ2omgVgEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058158079544627200/Fqgf3dCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779,
+          "following_count": 472,
+          "like_count": 9120,
+          "listed_count": 8,
+          "media_count": 358,
+          "tweet_count": 4216
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

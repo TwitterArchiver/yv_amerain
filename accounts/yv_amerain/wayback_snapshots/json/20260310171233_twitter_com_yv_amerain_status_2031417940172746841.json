@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031417936632754177",
+        "3_2031417937224151041"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031417940172746841",
+    "created_at": "2026-03-10T17:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031417940172746841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M6dyiDuUrS",
+          "end": 102,
+          "expanded_url": "https://x.com/yv_amerain/status/2031417940172746841/photo/1",
+          "media_key": "3_2031417936632754177",
+          "start": 79,
+          "url": "https://t.co/M6dyiDuUrS"
+        },
+        {
+          "display_url": "pic.x.com/M6dyiDuUrS",
+          "end": 102,
+          "expanded_url": "https://x.com/yv_amerain/status/2031417940172746841/photo/1",
+          "media_key": "3_2031417937224151041",
+          "start": 79,
+          "url": "https://t.co/M6dyiDuUrS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031417940172746841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了一套了质量很好的乃依cos大家会喜欢我吗，可以期待一下我出这个，之后我会拍个小视频，主播不会伪音，不过我的声音感觉跟乃依差不多的感觉，我声音有点很温柔都 https://t.co/M6dyiDuUrS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1403,
+        "media_key": "3_2031417936632754177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEL2bdaMAE275o.jpg",
+        "width": 1219
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031417937224151041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEL2dqaMAEQaNO.jpg",
+        "width": 1465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031417936632754177",
+            "3_2031417937224151041"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031417940172746841",
+        "created_at": "2026-03-10T17:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031417940172746841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6dyiDuUrS",
+              "end": 102,
+              "expanded_url": "https://x.com/yv_amerain/status/2031417940172746841/photo/1",
+              "media_key": "3_2031417936632754177",
+              "start": 79,
+              "url": "https://t.co/M6dyiDuUrS"
+            },
+            {
+              "display_url": "pic.x.com/M6dyiDuUrS",
+              "end": 102,
+              "expanded_url": "https://x.com/yv_amerain/status/2031417940172746841/photo/1",
+              "media_key": "3_2031417937224151041",
+              "start": 79,
+              "url": "https://t.co/M6dyiDuUrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031417940172746841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了一套了质量很好的乃依cos大家会喜欢我吗，可以期待一下我出这个，之后我会拍个小视频，主播不会伪音，不过我的声音感觉跟乃依差不多的感觉，我声音有点很温柔都 https://t.co/M6dyiDuUrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//我爱做饭//不混厕所//月亮计划 东方project  gal 日恐还有一些老ip///cos//碎碎念//偶尔有情绪和负能//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2029948294454206627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870032251838464/ufY7iT9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4036,
+          "following_count": 450,
+          "like_count": 7523,
+          "listed_count": 8,
+          "media_count": 298,
+          "tweet_count": 3768
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

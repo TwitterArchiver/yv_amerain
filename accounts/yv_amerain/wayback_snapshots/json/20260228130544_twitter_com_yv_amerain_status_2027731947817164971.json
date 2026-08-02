@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2027731947817164971",
+    "created_at": "2026-02-28T13:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027731947817164971"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027731947817164971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讲个笑话我上学初二那会好希望带所有人回归天空，我当时还不是男娘。。。间宫卓司人格被现在的我打败了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2027731947817164971",
+        "created_at": "2026-02-28T13:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027731947817164971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027731947817164971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲个笑话我上学初二那会好希望带所有人回归天空，我当时还不是男娘。。。间宫卓司人格被现在的我打败了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕//月亮计划 东方project  十二神器 魂系游戏 日恐还有一些老ip///🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ //小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3947,
+          "following_count": 550,
+          "like_count": 7402,
+          "listed_count": 8,
+          "media_count": 318,
+          "tweet_count": 3732
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

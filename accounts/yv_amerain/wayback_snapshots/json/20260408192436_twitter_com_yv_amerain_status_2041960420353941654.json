@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2041960420353941654",
+    "created_at": "2026-04-08T19:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041960420353941654"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041960420353941654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也觉得我很傲慢，我一直都很好很好对任何人，也许会做错吧，我并不讨厌男娘药娘，自己也打雌二醇，男娘很傲慢歧视过我，他们明明只是学自己刻板印象中那种女生然后幻想贴贴，药娘觉得我可能不可爱吧，其实一直希望我是女生.....我有在融入女生之类的，出男角色也是因为他们也会出这些......."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2041960420353941654",
+        "created_at": "2026-04-08T19:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041960420353941654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041960420353941654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也觉得我很傲慢，我一直都很好很好对任何人，也许会做错吧，我并不讨厌男娘药娘，自己也打雌二醇，男娘很傲慢歧视过我，他们明明只是学自己刻板印象中那种女生然后幻想贴贴，药娘觉得我可能不可爱吧，其实一直希望我是女生.....我有在融入女生之类的，出男角色也是因为他们也会出这些......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2038900694540034342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041958345683431426/whKF3uRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4298,
+          "following_count": 427,
+          "like_count": 7791,
+          "listed_count": 7,
+          "media_count": 299,
+          "tweet_count": 3864
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

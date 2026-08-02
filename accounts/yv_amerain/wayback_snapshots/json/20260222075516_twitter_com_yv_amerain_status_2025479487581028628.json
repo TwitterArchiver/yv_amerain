@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2023648247924031678",
+    "created_at": "2026-02-22T07:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025479487581028628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1875945386508255232",
+          "start": 0,
+          "username": "kuangmogeadj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025479487581028628",
+    "in_reply_to_user_id": "1875945386508255232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025223196895752513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuangmogeadj 我凭啥卖？你有什么逻辑吗，因为这个好像不是我卖的理由吧，所以你想表达什么呢？你是不是现实生活过得不好，像条蛆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2023648247924031678",
+        "created_at": "2026-02-22T07:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025479487581028628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875945386508255232",
+              "start": 0,
+              "username": "kuangmogeadj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025479487581028628",
+        "in_reply_to_user_id": "1875945386508255232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025223196895752513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuangmogeadj 我凭啥卖？你有什么逻辑吗，因为这个好像不是我卖的理由吧，所以你想表达什么呢？你是不是现实生活过得不好，像条蛆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875945386508255232",
+        "conversation_id": "2023648247924031678",
+        "created_at": "2026-02-21T14:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025223196895752513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025223196895752513",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023648247924031678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 既然都是“男”娘了，赶紧去卖啊，在这乞讨？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3952,
+          "following_count": 551,
+          "like_count": 7250,
+          "listed_count": 8,
+          "media_count": 313,
+          "tweet_count": 3684
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T16:40:33.000Z",
+        "description": "",
+        "id": "1875945386508255232",
+        "name": "张本逸涵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019323533806170123/FjFwDa94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "kuangmogeadj",
+        "verified": false
+      }
+    ]
+  }
+}

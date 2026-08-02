@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2055067955705139202",
+    "created_at": "2026-05-14T23:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T00:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055067955705139202"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055067955705139202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的妈呀，挂壁银趴啥的是真的，我还以为是刻板印象呢，今天第1次见，还好就是还是有正常点的看到这样的场景跟我一起出来了，嗯，就是怎么说呢.....我很纯良很温良好吧，可能我接受不了这样，嗯，对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2055067955705139202",
+        "created_at": "2026-05-14T23:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T00:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055067955705139202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055067955705139202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀，挂壁银趴啥的是真的，我还以为是刻板印象呢，今天第1次见，还好就是还是有正常点的看到这样的场景跟我一起出来了，嗯，就是怎么说呢.....我很纯良很温良好吧，可能我接受不了这样，嗯，对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2054107599151542362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4548,
+          "following_count": 455,
+          "like_count": 8658,
+          "listed_count": 7,
+          "media_count": 345,
+          "tweet_count": 4107
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

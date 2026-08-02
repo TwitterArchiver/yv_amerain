@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2038906164386451845",
+    "created_at": "2026-03-31T09:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038906164386451845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038906164386451845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠，我好多认识的人，就是把我那个一起出卓希的朋友当成我对象了，我靠，啥意思吧，只是一起出cos而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2038906164386451845",
+        "created_at": "2026-03-31T09:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038906164386451845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038906164386451845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，我好多认识的人，就是把我那个一起出卓希的朋友当成我对象了，我靠，啥意思吧，只是一起出cos而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（挂壁版）",
+        "pinned_tweet_id": "2038900694540034342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038867415350878209/siJ576jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4344,
+          "following_count": 429,
+          "like_count": 7786,
+          "listed_count": 7,
+          "media_count": 299,
+          "tweet_count": 3857
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

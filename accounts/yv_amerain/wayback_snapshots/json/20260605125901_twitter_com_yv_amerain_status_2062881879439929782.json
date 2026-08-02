@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2062874170950840519",
+    "created_at": "2026-06-05T12:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062881879439929782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617471215001796609",
+          "start": 0,
+          "username": "stuk_randomdude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062881879439929782",
+    "in_reply_to_user_id": "1617471215001796609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062877979018207600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stuk_randomdude 他们骂我的理由多的是了，说我欧弟男娘，然后一堆话攻击我，。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2062874170950840519",
+        "created_at": "2026-06-05T12:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062881879439929782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617471215001796609",
+              "start": 0,
+              "username": "stuk_randomdude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062881879439929782",
+        "in_reply_to_user_id": "1617471215001796609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062877979018207600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stuk_randomdude 他们骂我的理由多的是了，说我欧弟男娘，然后一堆话攻击我，。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617471215001796609",
+        "conversation_id": "2062874170950840519",
+        "created_at": "2026-06-05T12:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062877979018207600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062877979018207600",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062874170950840519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 我能給你對他們的建議是：我不和沒有腦子的人說話"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4821,
+          "following_count": 484,
+          "like_count": 9239,
+          "listed_count": 8,
+          "media_count": 355,
+          "tweet_count": 4210
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T10:36:22.000Z",
+        "description": "正常人盡量不要找我\n這個帳號就只是用作看黃色和玩弄詐騙機器人用\n真的想聊就私聊問我聯繫方式\n如果還看不出來，我是男的",
+        "id": "1617471215001796609",
+        "location": "某處",
+        "name": "Stuk",
+        "pinned_tweet_id": "2061303538568081620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629528544878686212/P4_GDHqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 144,
+          "like_count": 366,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 742
+        },
+        "username": "stuk_randomdude",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2065733086630092983",
+    "created_at": "2026-06-13T09:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065733086630092983"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065733086630092983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是觉得，除了嗑药这一点一样，就跟别人交朋友很不好，我感觉我之前被带坏了，打权的，骂人的，抽象发癫 刻薄的的好多。而且我之前从来不这样，我好对不起，我只想正常更新东西，难过了偶尔发发自己状态不想这样的......."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2065733086630092983",
+        "created_at": "2026-06-13T09:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065733086630092983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065733086630092983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是觉得，除了嗑药这一点一样，就跟别人交朋友很不好，我感觉我之前被带坏了，打权的，骂人的，抽象发癫 刻薄的的好多。而且我之前从来不这样，我好对不起，我只想正常更新东西，难过了偶尔发发自己状态不想这样的......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "此号不怎么用了，就发点碎碎念负能，关注我另一个号正常更新@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "关注置顶新号谢谢喵",
+        "pinned_tweet_id": "2063583290871926923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 492,
+          "like_count": 9283,
+          "listed_count": 8,
+          "media_count": 348,
+          "tweet_count": 4232
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

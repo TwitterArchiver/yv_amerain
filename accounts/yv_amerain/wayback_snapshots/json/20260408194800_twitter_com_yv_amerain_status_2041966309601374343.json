@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2041966309601374343",
+    "created_at": "2026-04-08T19:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T20:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041966309601374343"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041966309601374343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对自己很厌恶，我只是希望我没有男娘药娘这些标签我厌恶死了，我也希望我是女生，我也不想为了跟女孩子贴贴当女生，那种真的很不正常很怪，我也有跟大家一样的爱好，我缺乏安全感我喜欢男生也是，我出男角色也是因为喜欢还有列表有女生出这些，我也喜欢，我承认生理男也是害怕会网上被讨厌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2041966309601374343",
+        "created_at": "2026-04-08T19:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041966309601374343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041966309601374343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对自己很厌恶，我只是希望我没有男娘药娘这些标签我厌恶死了，我也希望我是女生，我也不想为了跟女孩子贴贴当女生，那种真的很不正常很怪，我也有跟大家一样的爱好，我缺乏安全感我喜欢男生也是，我出男角色也是因为喜欢还有列表有女生出这些，我也喜欢，我承认生理男也是害怕会网上被讨厌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2038900694540034342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041958345683431426/whKF3uRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4298,
+          "following_count": 427,
+          "like_count": 7794,
+          "listed_count": 7,
+          "media_count": 299,
+          "tweet_count": 3866
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

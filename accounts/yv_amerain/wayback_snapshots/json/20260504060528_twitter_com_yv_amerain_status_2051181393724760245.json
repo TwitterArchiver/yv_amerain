@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2051181393724760245",
+    "created_at": "2026-05-04T06:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051181393724760245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2011818913299120133",
+          "start": 3,
+          "username": "daema_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051181393724760245",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050965987055608196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daema_1: 이 사진들 진짜 남자력이 존나 높다고 생각함. 체격이 확실히 남자같음. 아오이, 하루랑 있을때 얼굴은 비슷한데 체격차이 나는거 좋음. 그리고 수염 깎는 게 진짜 남자 같음. 타츠나미도 아침에 일어나서 수염을 깎는 남자구나 라는…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 825,
+        "media_key": "3_2050965973914861568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ-r9GbwAAJ5Pp.jpg",
+        "width": 731
+      },
+      {
+        "height": 532,
+        "media_key": "3_2050965978004238336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ-sMVasAA6jeb.jpg",
+        "width": 627
+      },
+      {
+        "height": 463,
+        "media_key": "3_2050965981128957952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ-sX-aIAAUwVI.jpg",
+        "width": 638
+      },
+      {
+        "height": 643,
+        "media_key": "3_2050965984845127680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ-sl0aYAAk4i7.jpg",
+        "width": 731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2051181393724760245",
+        "created_at": "2026-05-04T06:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051181393724760245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011818913299120133",
+              "start": 3,
+              "username": "daema_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051181393724760245",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050965987055608196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daema_1: 이 사진들 진짜 남자력이 존나 높다고 생각함. 체격이 확실히 남자같음. 아오이, 하루랑 있을때 얼굴은 비슷한데 체격차이 나는거 좋음. 그리고 수염 깎는 게 진짜 남자 같음. 타츠나미도 아침에 일어나서 수염을 깎는 남자구나 라는…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050965973914861568",
+            "3_2050965978004238336",
+            "3_2050965981128957952",
+            "3_2050965984845127680"
+          ]
+        },
+        "author_id": "2011818913299120133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          }
+        ],
+        "conversation_id": "2050965987055608196",
+        "created_at": "2026-05-03T15:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050965987055608196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYpM3RBHdG",
+              "end": 171,
+              "expanded_url": "https://x.com/daema_1/status/2050965987055608196/photo/1",
+              "media_key": "3_2050965973914861568",
+              "start": 148,
+              "url": "https://t.co/zYpM3RBHdG"
+            },
+            {
+              "display_url": "pic.x.com/zYpM3RBHdG",
+              "end": 171,
+              "expanded_url": "https://x.com/daema_1/status/2050965987055608196/photo/1",
+              "media_key": "3_2050965978004238336",
+              "start": 148,
+              "url": "https://t.co/zYpM3RBHdG"
+            },
+            {
+              "display_url": "pic.x.com/zYpM3RBHdG",
+              "end": 171,
+              "expanded_url": "https://x.com/daema_1/status/2050965987055608196/photo/1",
+              "media_key": "3_2050965981128957952",
+              "start": 148,
+              "url": "https://t.co/zYpM3RBHdG"
+            },
+            {
+              "display_url": "pic.x.com/zYpM3RBHdG",
+              "end": 171,
+              "expanded_url": "https://x.com/daema_1/status/2050965987055608196/photo/1",
+              "media_key": "3_2050965984845127680",
+              "start": 148,
+              "url": "https://t.co/zYpM3RBHdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050965987055608196",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 1466,
+          "like_count": 103,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "이 사진들 진짜 남자력이 존나 높다고 생각함. 체격이 확실히 남자같음. 아오이, 하루랑 있을때 얼굴은 비슷한데 체격차이 나는거 좋음. 그리고 수염 깎는 게 진짜 남자 같음. 타츠나미도 아침에 일어나서 수염을 깎는 남자구나 라는 느낌.\n피아노에 앉아있는건 그냥 야함 https://t.co/zYpM3RBHdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface///亚文化//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4398,
+          "following_count": 444,
+          "like_count": 8325,
+          "listed_count": 7,
+          "media_count": 326,
+          "tweet_count": 4024
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T15:13:13.000Z",
+        "description": "@jepe745779",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "jepe745779"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shionharugay.com",
+                "end": 23,
+                "expanded_url": "https://shionharugay.com",
+                "start": 0,
+                "url": "https://t.co/Pj6mkzs34Q"
+              }
+            ]
+          }
+        },
+        "id": "2011818913299120133",
+        "location": "사이하테역",
+        "name": "대마",
+        "pinned_tweet_id": "2027802852098539566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026530870673457152/fucM12k7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 515,
+          "like_count": 21378,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 10817
+        },
+        "url": "https://t.co/Pj6mkzs34Q",
+        "username": "daema_1",
+        "verified": false
+      }
+    ]
+  }
+}

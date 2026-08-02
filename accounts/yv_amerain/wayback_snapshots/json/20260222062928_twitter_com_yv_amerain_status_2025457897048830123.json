@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025457897048830123",
+    "created_at": "2026-02-22T06:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025457897048830123"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025457897048830123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "老子都说过了，你爱咋滴咋滴，爱咋想咋想，我懒得管你，唉，我也没骂你父母，你tmd。说的太难听了，我给你拉黑切割了，然后呢，你他妈意淫我骂你父母，然后又意淫一堆你自己幻想的逼事，你能找出我骂你父母的聊天记录吗，找不出来你全家死绝，操你妈，傻逼东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025457897048830123",
+        "created_at": "2026-02-22T06:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025457897048830123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025457897048830123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "老子都说过了，你爱咋滴咋滴，爱咋想咋想，我懒得管你，唉，我也没骂你父母，你tmd。说的太难听了，我给你拉黑切割了，然后呢，你他妈意淫我骂你父母，然后又意淫一堆你自己幻想的逼事，你能找出我骂你父母的聊天记录吗，找不出来你全家死绝，操你妈，傻逼东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 548,
+          "like_count": 7230,
+          "listed_count": 8,
+          "media_count": 310,
+          "tweet_count": 3669
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

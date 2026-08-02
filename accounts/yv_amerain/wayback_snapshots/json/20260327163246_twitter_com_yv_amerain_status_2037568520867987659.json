@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2037536697932718163",
+    "created_at": "2026-03-27T16:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037568520867987659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "nekoTiao0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037568520867987659",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037536697932718163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekoTiao0w0 不要杀我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15266,
+        "height": 1280,
+        "media_key": "13_2037536626893815808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037536626893815808/img/YsmKbcgmTAlDrQFh.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037536626893815808/vid/avc1/320x568/GqHb4s4jb2N6qOV7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037536626893815808/vid/avc1/480x852/uJpdwir54bYbsLcm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037536626893815808/vid/avc1/720x1280/uY3hTua55h9yRDbZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037536626893815808/pl/-aVMsSZjLYUYm54_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2037536697932718163",
+        "created_at": "2026-03-27T16:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037568520867987659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "nekoTiao0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037568520867987659",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037536697932718163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoTiao0w0 不要杀我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037536626893815808"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2037536697932718163",
+        "created_at": "2026-03-27T14:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037536697932718163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gK1ScBQxa3",
+              "end": 23,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2037536697932718163/video/1",
+              "media_key": "13_2037536626893815808",
+              "start": 0,
+              "url": "https://t.co/gK1ScBQxa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037536697932718163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gK1ScBQxa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//置顶为了引流那样写的//我很穷请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 亚文化//喜欢素晴日//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（半退推打工中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4352,
+          "following_count": 428,
+          "like_count": 7752,
+          "listed_count": 7,
+          "media_count": 294,
+          "tweet_count": 3834
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？里账号@kklqaq只通过信任的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "kklqaq"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪188  ",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 230,
+          "like_count": 7142,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 3398
+        },
+        "username": "nekoTiao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

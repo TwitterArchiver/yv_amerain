@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2052266875074248780",
+    "created_at": "2026-05-07T06:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052267345842938164"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052267345842938164",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052266875074248780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去你妈的，我快活够了，去你妈的，都去死啊，你们这些人，不生我就好了，我好痛苦，这样对我，我好缺爱缺陪伴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052266875074248780",
+        "created_at": "2026-05-07T06:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052267345842938164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052267345842938164",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052266875074248780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去你妈的，我快活够了，去你妈的，都去死啊，你们这些人，不生我就好了，我好痛苦，这样对我，我好缺爱缺陪伴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052266875074248780",
+        "created_at": "2026-05-07T05:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052266875074248780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052266875074248780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会以为我真好吧，我置顶那都是为了讨饭，都是为了被人喜欢才放那几张，我不喜欢我讨厌我的一切，也讨厌我是男娘，男生，吃这个b药，我也不喜欢一直cos女角色，我想陪朋友那些女生出同IP男角色，只是想被爱被喜欢被接受，我不在意性别，可是我身边认识的异性恋，女同多，我讨厌这样，加上这次出轨我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "我活不过十八",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 451,
+          "like_count": 8418,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 4061
+        },
+        "url": "",
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

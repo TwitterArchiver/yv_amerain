@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2065734570973204657",
+    "created_at": "2026-06-13T09:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065734570973204657"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065734570973204657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉就因为大家都嗑药od自残就做朋友很不好，打权的，骂人的，抽象发癫，刻薄的的好多。我完全跟这些推特的od妹玩了，被带坏了。我之前不这样的，我觉得交朋友应该有共同爱好，他别的就是od什么的就没关系。我后悔死跟你们玩了半年。一群婊毒害我。虽然我有一些好朋友也是，至少他们除od自残其他正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2065734570973204657",
+        "created_at": "2026-06-13T09:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065734570973204657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065734570973204657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉就因为大家都嗑药od自残就做朋友很不好，打权的，骂人的，抽象发癫，刻薄的的好多。我完全跟这些推特的od妹玩了，被带坏了。我之前不这样的，我觉得交朋友应该有共同爱好，他别的就是od什么的就没关系。我后悔死跟你们玩了半年。一群婊毒害我。虽然我有一些好朋友也是，至少他们除od自残其他正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "此号不怎么用了，就发点碎碎念负能，关注我另一个号正常更新@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "关注置顶新号谢谢喵",
+        "pinned_tweet_id": "2063583290871926923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 492,
+          "like_count": 9285,
+          "listed_count": 8,
+          "media_count": 348,
+          "tweet_count": 4233
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

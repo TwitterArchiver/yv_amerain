@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046299971620888576"
+      ],
+      "media_source_tweet_id": [
+        "2046300085966045478"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2046453343053304034",
+    "created_at": "2026-04-21T04:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046453343053304034"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "さいはて駅"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "终焉车站"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033965460610551810",
+          "start": 3,
+          "username": "xingsansan333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRwBmob10q",
+          "end": 55,
+          "expanded_url": "https://x.com/xingsansan333/status/2046300085966045478/video/1",
+          "media_key": "13_2046299971620888576",
+          "start": 32,
+          "url": "https://t.co/xRwBmob10q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046453343053304034",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046300085966045478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingsansan333: #さいはて駅\n#终焉车站 https://t.co/xRwBmob10q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3320,
+        "height": 1440,
+        "media_key": "13_2046299971620888576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046299971620888576/img/dyjQxQQZ5kI8Fnpq.jpg",
+        "public_metrics": {
+          "view_count": 758
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046299971620888576/vid/avc1/320x320/IB-quEFL7MQ-odNu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046299971620888576/vid/avc1/540x540/x-eIACNmIqLpqE-H.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046299971620888576/vid/avc1/720x720/IjTQc6HtNU2bFg3A.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046299971620888576/pl/6RZvI9y2ByBfr7JX.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046299971620888576"
+          ],
+          "media_source_tweet_id": [
+            "2046300085966045478"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2046453343053304034",
+        "created_at": "2026-04-21T04:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046453343053304034"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "さいはて駅"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "终焉车站"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033965460610551810",
+              "start": 3,
+              "username": "xingsansan333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRwBmob10q",
+              "end": 55,
+              "expanded_url": "https://x.com/xingsansan333/status/2046300085966045478/video/1",
+              "media_key": "13_2046299971620888576",
+              "start": 32,
+              "url": "https://t.co/xRwBmob10q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046453343053304034",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046300085966045478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingsansan333: #さいはて駅\n#终焉车站 https://t.co/xRwBmob10q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046299971620888576"
+          ]
+        },
+        "author_id": "2033965460610551810",
+        "conversation_id": "2046300085966045478",
+        "created_at": "2026-04-20T18:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046300085966045478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "さいはて駅"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "终焉车站"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRwBmob10q",
+              "end": 36,
+              "expanded_url": "https://x.com/xingsansan333/status/2046300085966045478/video/1",
+              "media_key": "13_2046299971620888576",
+              "start": 13,
+              "url": "https://t.co/xRwBmob10q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046300085966045478",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2547,
+          "like_count": 409,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "#さいはて駅\n#终焉车站 https://t.co/xRwBmob10q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//欧坤呀叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian/善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046296580727492609/dZVO_-VW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4282,
+          "following_count": 434,
+          "like_count": 7894,
+          "listed_count": 7,
+          "media_count": 305,
+          "tweet_count": 3895
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T17:56:30.000Z",
+        "description": "",
+        "id": "2033965460610551810",
+        "name": "伦三三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045826891723022337/YmvrvgGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "xingsansan333",
+        "verified": false
+      }
+    ]
+  }
+}

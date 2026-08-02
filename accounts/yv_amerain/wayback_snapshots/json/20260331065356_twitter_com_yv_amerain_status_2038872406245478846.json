@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2038872406245478846",
+    "created_at": "2026-03-31T06:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038872406245478846"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038872406245478846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有那么多现实中的朋友陪我，我真的好感动，好开心，我真的真的非常感谢，不是在我特别绝望的时候拉我一把，我其实前段时间有点魔怔了，我那种戾气很重，就是很极端，从负能量变成戾气，感谢朋友把我拉回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2038872406245478846",
+        "created_at": "2026-03-31T06:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038872406245478846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038872406245478846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有那么多现实中的朋友陪我，我真的好感动，好开心，我真的真的非常感谢，不是在我特别绝望的时候拉我一把，我其实前段时间有点魔怔了，我那种戾气很重，就是很极端，从负能量变成戾气，感谢朋友把我拉回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（挂壁版）",
+        "pinned_tweet_id": "2037580224976896151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038867415350878209/siJ576jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 429,
+          "like_count": 7784,
+          "listed_count": 7,
+          "media_count": 298,
+          "tweet_count": 3852
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2029723363032416466",
+    "created_at": "2026-03-06T04:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T05:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029772735262642272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999709206006673408",
+          "start": 0,
+          "username": "xjnpng550190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029772735262642272",
+    "in_reply_to_user_id": "1999709206006673408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029771818886909970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjnpng550190 收银要18"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2029723363032416466",
+        "created_at": "2026-03-06T04:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029772735262642272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999709206006673408",
+              "start": 0,
+              "username": "xjnpng550190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029772735262642272",
+        "in_reply_to_user_id": "1999709206006673408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029771818886909970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjnpng550190 收银要18"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999709206006673408",
+        "conversation_id": "2029723363032416466",
+        "created_at": "2026-03-06T04:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029771818886909970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029771818886909970",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029723363032416466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 收银"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//月亮计划 东方project  十二神器 魂系游戏 日恐还有一些老ip///🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3954,
+          "following_count": 553,
+          "like_count": 7508,
+          "listed_count": 8,
+          "media_count": 329,
+          "tweet_count": 3806
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T05:13:33.000Z",
+        "description": "",
+        "id": "1999709206006673408",
+        "location": "Tokyo-to, Japan",
+        "name": "希金瓶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003320691249283073/yyNZ4vDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 172,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1663
+        },
+        "username": "xjnpng550190",
+        "verified": false
+      }
+    ]
+  }
+}

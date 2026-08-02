@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048320217491890176"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2048320251730047248",
+    "created_at": "2026-04-26T08:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048320251730047248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JnnutVMglp",
+          "end": 47,
+          "expanded_url": "https://x.com/yv_amerain/status/2048320251730047248/video/1",
+          "media_key": "7_2048320217491890176",
+          "start": 24,
+          "url": "https://t.co/JnnutVMglp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048320251730047248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头发洗了一遍更蓝了，就是头发好毛啊，感觉像枯草 https://t.co/JnnutVMglp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7546,
+        "height": 1280,
+        "media_key": "7_2048320217491890176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048320217491890176/pu/img/wb9OZ7TpxmiKt7gk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048320217491890176/pu/vid/avc1/320x568/ioDGQN0nWCUt51le.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048320217491890176/pu/vid/avc1/480x852/xliZ8Ah_kpESua2T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048320217491890176/pu/vid/avc1/720x1280/lcRs4HlpT02xpQQ-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048320217491890176/pu/pl/rivHD6zS647dCTen.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048320217491890176"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2048320251730047248",
+        "created_at": "2026-04-26T08:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048320251730047248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnnutVMglp",
+              "end": 47,
+              "expanded_url": "https://x.com/yv_amerain/status/2048320251730047248/video/1",
+              "media_key": "7_2048320217491890176",
+              "start": 24,
+              "url": "https://t.co/JnnutVMglp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048320251730047248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发洗了一遍更蓝了，就是头发好毛啊，感觉像枯草 https://t.co/JnnutVMglp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4290,
+          "following_count": 437,
+          "like_count": 8063,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 3938
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

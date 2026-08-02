@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025423383597629763",
+    "created_at": "2026-02-22T04:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025427461018976749"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025427461018976749",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025423383597629763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，打雌激素往脑袋里打的，不知道是谁呀，操你死妈的，你自己之前不是药娘是吧，自己现在不吃药了，觉得吃药没用，整天在你那逼群里说天天想跟地雷妹谈恋爱，然后呢你整天他妈长那么丑，还整天穿个雷服。然后上街女装，整天装女的是吧？真笑死了，天天装女的装傻了是吧？真以为自己是女的了是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2025423381261365248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu_1YfasAA-WBx.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025423383597629763",
+        "created_at": "2026-02-22T04:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025427461018976749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025427461018976749",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025423383597629763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，打雌激素往脑袋里打的，不知道是谁呀，操你死妈的，你自己之前不是药娘是吧，自己现在不吃药了，觉得吃药没用，整天在你那逼群里说天天想跟地雷妹谈恋爱，然后呢你整天他妈长那么丑，还整天穿个雷服。然后上街女装，整天装女的是吧？真笑死了，天天装女的装傻了是吧？真以为自己是女的了是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025423381261365248"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025423383597629763",
+        "created_at": "2026-02-22T04:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025423383597629763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4ywRmeOn2",
+              "end": 164,
+              "expanded_url": "https://x.com/yv_amerain/status/2025423383597629763/photo/1",
+              "media_key": "3_2025423381261365248",
+              "start": 141,
+              "url": "https://t.co/O4ywRmeOn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025423383597629763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去你妈的，听不懂人话的是谁？我说我无所谓，你爱怎么想怎么想，关我屌事，你他妈说我听不懂人话，操你妈，我他妈凭什么听你的啊？你先告诉我，还有我操你死妈的，整天就是虚拟网络，虚拟这虚拟那，你自己整天tmd讨厌社交互联网就是你的家，别他妈意淫老子，老子他妈现实生活有的是人玩，去你死妈 https://t.co/O4ywRmeOn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 551,
+          "like_count": 7210,
+          "listed_count": 8,
+          "media_count": 309,
+          "tweet_count": 3656
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2055067955705139202",
+    "created_at": "2026-05-15T06:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055167510874390917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698922536715874304",
+          "start": 0,
+          "username": "wnghngb70814720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055167510874390917",
+    "in_reply_to_user_id": "1698922536715874304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055131468817703049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnghngb70814720 民宿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2055067955705139202",
+        "created_at": "2026-05-15T06:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055167510874390917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698922536715874304",
+              "start": 0,
+              "username": "wnghngb70814720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055167510874390917",
+        "in_reply_to_user_id": "1698922536715874304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055131468817703049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnghngb70814720 民宿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698922536715874304",
+        "conversation_id": "2055067955705139202",
+        "created_at": "2026-05-15T03:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055131468817703049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055131468817703049",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055067955705139202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 我去还有挂壁银帕？！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2054107599151542362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4560,
+          "following_count": 455,
+          "like_count": 8663,
+          "listed_count": 7,
+          "media_count": 345,
+          "tweet_count": 4109
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T04:55:15.000Z",
+        "description": "---深刻太工一加癸生去儿左---  ♂",
+        "id": "1698922536715874304",
+        "location": "東京 新宿区",
+        "name": "Ruoxi",
+        "pinned_tweet_id": "1792976449022111764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033942389363249156/vyX1MQia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 253,
+          "like_count": 15152,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 498
+        },
+        "username": "wnghngb70814720",
+        "verified": false
+      }
+    ]
+  }
+}

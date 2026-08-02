@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2061376430643298531",
+    "created_at": "2026-06-01T09:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061376430643298531"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061376430643298531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉，终于所有心结解开了，我现在只能正常更新了，就那个傻狗前任，还有之前那个伤害我的那个人，这两个事情完全解决了，要不是那个前任，我估计还会，就是我当时这个就应该一直纠缠这个。伤害我的人，也不至于我被那个前任绿了之后，重新想到这个人，继续纠缠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2061376430643298531",
+        "created_at": "2026-06-01T09:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061376430643298531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061376430643298531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，终于所有心结解开了，我现在只能正常更新了，就那个傻狗前任，还有之前那个伤害我的那个人，这两个事情完全解决了，要不是那个前任，我估计还会，就是我当时这个就应该一直纠缠这个。伤害我的人，也不至于我被那个前任绿了之后，重新想到这个人，继续纠缠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060305328940744704/QNcTiYAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4776,
+          "following_count": 476,
+          "like_count": 9062,
+          "listed_count": 8,
+          "media_count": 346,
+          "tweet_count": 4149
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

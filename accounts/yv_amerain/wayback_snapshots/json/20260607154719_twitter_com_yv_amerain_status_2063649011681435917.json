@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063649008183279616"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2063649011681435917",
+    "created_at": "2026-06-07T15:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063649011681435917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3cE4tDAxGn",
+          "end": 56,
+          "expanded_url": "https://x.com/yv_amerain/status/2063649011681435917/photo/1",
+          "media_key": "3_2063649008183279616",
+          "start": 33,
+          "url": "https://t.co/3cE4tDAxGn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063649011681435917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁能给我一点钱，我爸妈不管我了，现在卖衣服的钱用光了...... https://t.co/3cE4tDAxGn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2063649008183279616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKON1tnaAAAlrKn.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063649008183279616"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2063649011681435917",
+        "created_at": "2026-06-07T15:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063649011681435917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3cE4tDAxGn",
+              "end": 56,
+              "expanded_url": "https://x.com/yv_amerain/status/2063649011681435917/photo/1",
+              "media_key": "3_2063649008183279616",
+              "start": 33,
+              "url": "https://t.co/3cE4tDAxGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063649011681435917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能给我一点钱，我爸妈不管我了，现在卖衣服的钱用光了...... https://t.co/3cE4tDAxGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "此号不用了，拜拜，再见，关注我另一个号@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2063190168786661450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4827,
+          "following_count": 489,
+          "like_count": 9271,
+          "listed_count": 8,
+          "media_count": 361,
+          "tweet_count": 4226
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046706491131101184",
+        "3_2046706491042967552"
+      ],
+      "media_source_tweet_id": [
+        "2046706500153008504",
+        "2046706500153008504"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2048414426253132267",
+    "created_at": "2026-04-26T14:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048414426253132267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1687756653360484352",
+          "start": 3,
+          "username": "blackseek10904"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bzEEVHb347",
+          "end": 45,
+          "expanded_url": "https://x.com/blackseek10904/status/2046706500153008504/photo/1",
+          "media_key": "3_2046706491131101184",
+          "start": 22,
+          "url": "https://t.co/bzEEVHb347"
+        },
+        {
+          "display_url": "pic.x.com/bzEEVHb347",
+          "end": 45,
+          "expanded_url": "https://x.com/blackseek10904/status/2046706500153008504/photo/1",
+          "media_key": "3_2046706491042967552",
+          "start": 22,
+          "url": "https://t.co/bzEEVHb347"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048414426253132267",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046706500153008504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackseek10904: 🥰 https://t.co/bzEEVHb347"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2046706491131101184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdctbNbAAA3h-P.jpg",
+        "width": 1088
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2046706491042967552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdcta4aMAAO--Y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046706491131101184",
+            "3_2046706491042967552"
+          ],
+          "media_source_tweet_id": [
+            "2046706500153008504",
+            "2046706500153008504"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2048414426253132267",
+        "created_at": "2026-04-26T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048414426253132267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1687756653360484352",
+              "start": 3,
+              "username": "blackseek10904"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzEEVHb347",
+              "end": 45,
+              "expanded_url": "https://x.com/blackseek10904/status/2046706500153008504/photo/1",
+              "media_key": "3_2046706491131101184",
+              "start": 22,
+              "url": "https://t.co/bzEEVHb347"
+            },
+            {
+              "display_url": "pic.x.com/bzEEVHb347",
+              "end": 45,
+              "expanded_url": "https://x.com/blackseek10904/status/2046706500153008504/photo/1",
+              "media_key": "3_2046706491042967552",
+              "start": 22,
+              "url": "https://t.co/bzEEVHb347"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048414426253132267",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046706500153008504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackseek10904: 🥰 https://t.co/bzEEVHb347"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046706491131101184",
+            "3_2046706491042967552"
+          ]
+        },
+        "author_id": "1687756653360484352",
+        "conversation_id": "2046706500153008504",
+        "created_at": "2026-04-21T21:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046706500153008504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzEEVHb347",
+              "end": 25,
+              "expanded_url": "https://x.com/blackseek10904/status/2046706500153008504/photo/1",
+              "media_key": "3_2046706491131101184",
+              "start": 2,
+              "url": "https://t.co/bzEEVHb347"
+            },
+            {
+              "display_url": "pic.x.com/bzEEVHb347",
+              "end": 25,
+              "expanded_url": "https://x.com/blackseek10904/status/2046706500153008504/photo/1",
+              "media_key": "3_2046706491042967552",
+              "start": 2,
+              "url": "https://t.co/bzEEVHb347"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046706500153008504",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1872,
+          "like_count": 155,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "🥰 https://t.co/bzEEVHb347"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4292,
+          "following_count": 437,
+          "like_count": 8082,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 3944
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T09:25:27.000Z",
+        "description": "🚋💙❤️~/18↑/好きなキャラとカップルを描きます アイコン、壁紙OK 🚫AI🚫無断転載・使用禁止",
+        "id": "1687756653360484352",
+        "name": "blackseek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004922563865227264/fBEgWLh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 83,
+          "like_count": 2459,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 1018
+        },
+        "username": "blackseek10904",
+        "verified": false
+      }
+    ]
+  }
+}

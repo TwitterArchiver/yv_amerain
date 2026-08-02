@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2033595874526564606",
+    "created_at": "2026-03-16T17:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033595874526564606"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033595874526564606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为了被人喜欢讨好别人出那个膜才他妈花了我600块钱，结果你就这样对我，我操，我男的怎么这么坏呀，哎，我去，然后还跟我讲上道理了，那按这样说，我其实很少同性朋友，然后我有很多女生玩，那我是不是很牛逼class啥意思呢？唉，真无语这种人，唉，就是因为我是同性呗，啊，去你妈的，赶紧死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2033595874526564606",
+        "created_at": "2026-03-16T17:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033595874526564606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033595874526564606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为了被人喜欢讨好别人出那个膜才他妈花了我600块钱，结果你就这样对我，我操，我男的怎么这么坏呀，哎，我去，然后还跟我讲上道理了，那按这样说，我其实很少同性朋友，然后我有很多女生玩，那我是不是很牛逼class啥意思呢？唉，真无语这种人，唉，就是因为我是同性呗，啊，去你妈的，赶紧死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//我爱做饭//不混厕所//月亮计划 东方project  gal 日恐还有一些老ip//喜欢素晴日///cos//碎碎念//偶尔有情绪和负能//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 408,
+          "like_count": 7569,
+          "listed_count": 8,
+          "media_count": 293,
+          "tweet_count": 3785
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

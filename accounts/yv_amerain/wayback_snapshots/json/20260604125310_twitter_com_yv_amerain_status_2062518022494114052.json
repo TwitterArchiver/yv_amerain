@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2062518022494114052",
+    "created_at": "2026-06-04T12:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062518022494114052"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062518022494114052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起，我这半年就是很魔怔抽象吧，就是我以前是他们口中那种纯良男娘味说话糖，他们PUA我，我就跟着他们一样变坏了，我一开始不是这个样子，他们就一直攻击我骂我，给我弄得好难受，而且我这半年这个样子完全不好，对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2062518022494114052",
+        "created_at": "2026-06-04T12:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062518022494114052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062518022494114052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我这半年就是很魔怔抽象吧，就是我以前是他们口中那种纯良男娘味说话糖，他们PUA我，我就跟着他们一样变坏了，我一开始不是这个样子，他们就一直攻击我骂我，给我弄得好难受，而且我这半年这个样子完全不好，对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4818,
+          "following_count": 482,
+          "like_count": 9198,
+          "listed_count": 8,
+          "media_count": 355,
+          "tweet_count": 4196
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

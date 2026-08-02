@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2035724357365063944",
+    "created_at": "2026-03-22T14:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035724357365063944"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035724357365063944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有河北一起挂壁的，我4月10号去河北"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2035724357365063944",
+        "created_at": "2026-03-22T14:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035724357365063944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035724357365063944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有河北一起挂壁的，我4月10号去河北"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//置顶为了引流那样写的//我很穷请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 亚文化//喜欢素晴日//cos//碎碎念//什么都发//od//我是一个有心理疾病的人//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 158,
+                "start": 148,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "吉他雨ame（永雏雨）",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 427,
+          "like_count": 7715,
+          "listed_count": 7,
+          "media_count": 303,
+          "tweet_count": 3852
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

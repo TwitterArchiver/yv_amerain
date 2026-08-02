@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043245586540044288",
+        "3_2043245584984006657"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043245666227614158",
+    "created_at": "2026-04-12T08:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043245666227614158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aFNVtqJAcJ",
+          "end": 32,
+          "expanded_url": "https://x.com/yv_amerain/status/2043245666227614158/photo/1",
+          "media_key": "3_2043245586540044288",
+          "start": 9,
+          "url": "https://t.co/aFNVtqJAcJ"
+        },
+        {
+          "display_url": "pic.x.com/aFNVtqJAcJ",
+          "end": 32,
+          "expanded_url": "https://x.com/yv_amerain/status/2043245666227614158/photo/1",
+          "media_key": "3_2043245584984006657",
+          "start": 9,
+          "url": "https://t.co/aFNVtqJAcJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043245666227614158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天跟凛凛出门玩 https://t.co/aFNVtqJAcJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2043245586540044288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsRCQ6aoAAjB5G.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043245584984006657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsRCLHbYAEtjst.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043245586540044288",
+            "3_2043245584984006657"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043245666227614158",
+        "created_at": "2026-04-12T08:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043245666227614158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aFNVtqJAcJ",
+              "end": 32,
+              "expanded_url": "https://x.com/yv_amerain/status/2043245666227614158/photo/1",
+              "media_key": "3_2043245586540044288",
+              "start": 9,
+              "url": "https://t.co/aFNVtqJAcJ"
+            },
+            {
+              "display_url": "pic.x.com/aFNVtqJAcJ",
+              "end": 32,
+              "expanded_url": "https://x.com/yv_amerain/status/2043245666227614158/photo/1",
+              "media_key": "3_2043245584984006657",
+              "start": 9,
+              "url": "https://t.co/aFNVtqJAcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043245666227614158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天跟凛凛出门玩 https://t.co/aFNVtqJAcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian好姐姐@lnmng5262080968//喜欢的角色是晓山瑞希 sallyface//爱好是cos 废墟探险",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "lnmng5262080968"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041958345683431426/whKF3uRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 430,
+          "like_count": 7825,
+          "listed_count": 7,
+          "media_count": 303,
+          "tweet_count": 3882
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2047204692724519042",
+    "created_at": "2026-04-23T06:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047204692724519042"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047204692724519042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前就是可能想就是给自己立可爱人是想受欢迎吧，但是那些认识的人都很那个什么呀，我其实讨厌男娘身份，我也讨厌我自己，但是男娘身份确实比一直装女生在推特可以获得关注"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2047204692724519042",
+        "created_at": "2026-04-23T06:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047204692724519042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047204692724519042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前就是可能想就是给自己立可爱人是想受欢迎吧，但是那些认识的人都很那个什么呀，我其实讨厌男娘身份，我也讨厌我自己，但是男娘身份确实比一直装女生在推特可以获得关注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 433,
+          "like_count": 7954,
+          "listed_count": 7,
+          "media_count": 306,
+          "tweet_count": 3912
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061781628037537792"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2061781630197620807",
+    "created_at": "2026-06-02T12:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061781630197620807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XkyOt2luVB",
+          "end": 54,
+          "expanded_url": "https://x.com/yv_amerain/status/2061781630197620807/photo/1",
+          "media_key": "3_2061781628037537792",
+          "start": 31,
+          "url": "https://t.co/XkyOt2luVB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061781630197620807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么感觉这个假毛戴着根本不太适合啊，不过还行，不戴面具的话 https://t.co/XkyOt2luVB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2061781628037537792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzrd4eaoAAB6qK.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061781628037537792"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2061781630197620807",
+        "created_at": "2026-06-02T12:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061781630197620807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XkyOt2luVB",
+              "end": 54,
+              "expanded_url": "https://x.com/yv_amerain/status/2061781630197620807/photo/1",
+              "media_key": "3_2061781628037537792",
+              "start": 31,
+              "url": "https://t.co/XkyOt2luVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061781630197620807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么感觉这个假毛戴着根本不太适合啊，不过还行，不戴面具的话 https://t.co/XkyOt2luVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4796,
+          "following_count": 481,
+          "like_count": 9108,
+          "listed_count": 8,
+          "media_count": 348,
+          "tweet_count": 4165
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

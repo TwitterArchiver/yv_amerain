@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2058054799279665503",
+    "created_at": "2026-05-23T05:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058055157519405354"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058055157519405354",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058054799279665503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有网上那些人，我确实他们对我的生活以及帮助很多。关于我一直哭穷，我也是很不舍得给自己花钱才导致没钱，虽然我也没那么多有钱，不过比大多数人不好了。然后对于我之前做的那些事情，我也很抱歉，然后我最后的事情就是解决，我现在就是打算线下查找到这个人，把我最后一个心结彻底解开，对不起...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2058054795282583552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-t7qkbkAAQ0yK.jpg",
+        "width": 1114
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2058054795236433920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-t7qZbYAAmcYv.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2058054799279665503",
+        "created_at": "2026-05-23T05:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058055157519405354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058055157519405354",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058054799279665503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有网上那些人，我确实他们对我的生活以及帮助很多。关于我一直哭穷，我也是很不舍得给自己花钱才导致没钱，虽然我也没那么多有钱，不过比大多数人不好了。然后对于我之前做的那些事情，我也很抱歉，然后我最后的事情就是解决，我现在就是打算线下查找到这个人，把我最后一个心结彻底解开，对不起...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058054795282583552",
+            "3_2058054795236433920"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2058054799279665503",
+        "created_at": "2026-05-23T05:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058054799279665503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGnCWDXb0T",
+              "end": 162,
+              "expanded_url": "https://x.com/yv_amerain/status/2058054799279665503/photo/1",
+              "media_key": "3_2058054795282583552",
+              "start": 139,
+              "url": "https://t.co/aGnCWDXb0T"
+            },
+            {
+              "display_url": "pic.x.com/aGnCWDXb0T",
+              "end": 162,
+              "expanded_url": "https://x.com/yv_amerain/status/2058054799279665503/photo/1",
+              "media_key": "3_2058054795236433920",
+              "start": 139,
+              "url": "https://t.co/aGnCWDXb0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058054799279665503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[暂时置顶]我这段时间在处理我的最后一个事情，对不起呀，这段时间一直有负能量，我也意识到了一些我之前的错误，我之前很傲慢也只是因为我一直觉得大家只要不是现实认识的都可以无视，还有男娘药娘不正常也是因为我感觉他们的性格行为不正常，导致我被歧视....每个人的环境不一样应该去理解 https://t.co/aGnCWDXb0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2058054799279665503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056315884394954752/5tm5_Ty0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4764,
+          "following_count": 471,
+          "like_count": 8963,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 4190
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

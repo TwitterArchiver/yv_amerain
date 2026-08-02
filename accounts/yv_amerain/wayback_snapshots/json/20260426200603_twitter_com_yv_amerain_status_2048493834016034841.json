@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2048493834016034841",
+    "created_at": "2026-04-26T20:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T21:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048493834016034841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2030530416512512000",
+          "start": 3,
+          "username": "AverageYuriLesb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048493834016034841",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048167352395833713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AverageYuriLesb: Seeing Mizuki be the flustered one is rare.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2048493834016034841",
+        "created_at": "2026-04-26T20:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T21:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048493834016034841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2030530416512512000",
+              "start": 3,
+              "username": "AverageYuriLesb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048493834016034841",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048167352395833713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AverageYuriLesb: Seeing Mizuki be the flustered one is rare.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030530416512512000",
+        "conversation_id": "2048167352395833713",
+        "created_at": "2026-04-25T22:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048167352395833713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morgd22_/statu…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/morgd22_/status/2047994855427834160",
+              "start": 45,
+              "url": "https://t.co/B6njvLCvYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048167352395833713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 4448,
+          "like_count": 340,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047994855427834160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Seeing Mizuki be the flustered one is rare.. https://t.co/B6njvLCvYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4296,
+          "following_count": 437,
+          "like_count": 8111,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 3954
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T06:26:31.000Z",
+        "description": "|She/Her| Show them all, you’re far, amidst a diamond in the rough. |artstyle stolen from vivo_sun|",
+        "id": "2030530416512512000",
+        "location": "❌ NO AI TRAINING ❌",
+        "name": "Yuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044105052953161729/tHLpUuaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 57,
+          "like_count": 2813,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1201
+        },
+        "username": "AverageYuriLesb",
+        "verified": false
+      }
+    ]
+  }
+}

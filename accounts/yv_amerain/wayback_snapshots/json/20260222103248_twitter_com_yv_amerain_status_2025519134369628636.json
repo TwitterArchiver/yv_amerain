@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025519134369628636",
+    "created_at": "2026-02-22T10:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025519134369628636"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025519134369628636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说实话，我现在完全没必要在推特上混你们那些圈子，我现在其实不玩推特，我也能有朋友，而且交新朋友交的快，同好的话直接漫展就能交，如果想骂我的话，去你妈的，反正这也是推测，我就算再怎么不爽，想骂人也没关系吧，毕竟不是别的平台，还有我跟你们都不是一个圈子的，这个瓜条就纯恶心我骂我的呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025519134369628636",
+        "created_at": "2026-02-22T10:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025519134369628636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025519134369628636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话，我现在完全没必要在推特上混你们那些圈子，我现在其实不玩推特，我也能有朋友，而且交新朋友交的快，同好的话直接漫展就能交，如果想骂我的话，去你妈的，反正这也是推测，我就算再怎么不爽，想骂人也没关系吧，毕竟不是别的平台，还有我跟你们都不是一个圈子的，这个瓜条就纯恶心我骂我的呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3951,
+          "following_count": 552,
+          "like_count": 7273,
+          "listed_count": 8,
+          "media_count": 316,
+          "tweet_count": 3698
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

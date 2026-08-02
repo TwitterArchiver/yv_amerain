@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063925176610488320"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063925179940827154",
+    "created_at": "2026-06-08T10:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063925179940827154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbJCBAhlvE",
+          "end": 125,
+          "expanded_url": "https://x.com/yv_amerain/status/2063925179940827154/photo/1",
+          "media_key": "3_2063925176610488320",
+          "start": 102,
+          "url": "https://t.co/lbJCBAhlvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063925179940827154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这都过去多久的事了，你一直提你妈死了是吗？然后就是我tmd我自己没看到消息才没回，然后。没给你置顶，然后你上来就给我发什么衣服什么的，想看我穿那种很。满足你xp的衣服，有病是吧？理你才怪了，你妈已经死了 https://t.co/lbJCBAhlvE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063925176610488320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSJA1LagAAuCc2.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063925176610488320"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063925179940827154",
+        "created_at": "2026-06-08T10:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063925179940827154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbJCBAhlvE",
+              "end": 125,
+              "expanded_url": "https://x.com/yv_amerain/status/2063925179940827154/photo/1",
+              "media_key": "3_2063925176610488320",
+              "start": 102,
+              "url": "https://t.co/lbJCBAhlvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063925179940827154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这都过去多久的事了，你一直提你妈死了是吗？然后就是我tmd我自己没看到消息才没回，然后。没给你置顶，然后你上来就给我发什么衣服什么的，想看我穿那种很。满足你xp的衣服，有病是吧？理你才怪了，你妈已经死了 https://t.co/lbJCBAhlvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "此号不怎么用了，就发点碎碎念负能，关注我另一个号@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2063583290871926923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 489,
+          "like_count": 9279,
+          "listed_count": 8,
+          "media_count": 362,
+          "tweet_count": 4230
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

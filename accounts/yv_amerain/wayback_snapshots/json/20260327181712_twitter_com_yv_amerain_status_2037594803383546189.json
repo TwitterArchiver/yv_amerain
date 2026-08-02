@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2037594803383546189",
+    "created_at": "2026-03-27T18:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037594803383546189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1194283796314509312",
+          "start": 3,
+          "username": "gana0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037594803383546189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037498391018766664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gana0w0: 回避型就是贱人，都别理解回避型了，遇到难回答的问题回避，有好处的时候不回避，我就是这样的贱人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2037594803383546189",
+        "created_at": "2026-03-27T18:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037594803383546189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1194283796314509312",
+              "start": 3,
+              "username": "gana0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037594803383546189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037498391018766664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gana0w0: 回避型就是贱人，都别理解回避型了，遇到难回答的问题回避，有好处的时候不回避，我就是这样的贱人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194283796314509312",
+        "conversation_id": "2037498391018766664",
+        "created_at": "2026-03-27T11:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037498391018766664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037498391018766664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10195,
+          "like_count": 169,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "回避型就是贱人，都别理解回避型了，遇到难回答的问题回避，有好处的时候不回避，我就是这样的贱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（半退推打工中）",
+        "pinned_tweet_id": "2037580224976896151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037582080159461377/C0qPBQbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4352,
+          "following_count": 428,
+          "like_count": 7757,
+          "listed_count": 7,
+          "media_count": 294,
+          "tweet_count": 3837
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T16:00:27.000Z",
+        "description": "啥也没有",
+        "id": "1194283796314509312",
+        "name": "gana",
+        "pinned_tweet_id": "1729047749205893284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037029793020207106/4YO4Idrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66669,
+          "following_count": 47,
+          "like_count": 9696,
+          "listed_count": 200,
+          "media_count": 1563,
+          "tweet_count": 6817
+        },
+        "username": "gana0w0",
+        "verified": false
+      }
+    ]
+  }
+}

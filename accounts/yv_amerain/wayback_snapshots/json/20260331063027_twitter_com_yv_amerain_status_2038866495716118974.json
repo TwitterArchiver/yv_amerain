@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038654949379432453"
+      ],
+      "media_source_tweet_id": [
+        "2038655075862864109"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2038866495716118974",
+    "created_at": "2026-03-31T06:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038866495716118974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1747146335323844609",
+          "start": 3,
+          "username": "aozn24428"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qOPTv3FvUU",
+          "end": 92,
+          "expanded_url": "https://x.com/aozn24428/status/2038655075862864109/video/1",
+          "media_key": "13_2038654949379432453",
+          "start": 69,
+          "url": "https://t.co/qOPTv3FvUU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038866495716118974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038655075862864109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aozn24428: 刀克特刀克特(&gt;﹏&lt;)为什么我的世界都是雨天呀，天气一直灰蒙蒙的好不舒服(&gt;﹏&lt;) https://t.co/qOPTv3FvUU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17066,
+        "height": 1280,
+        "media_key": "13_2038654949379432453",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038654949379432453/img/lEV_GFYV53ZjtDfj.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038654949379432453/vid/avc1/320x568/iUmfV5Isdthb6Eer.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038654949379432453/vid/avc1/480x852/i5x94VNkzH8po3RJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038654949379432453/vid/avc1/720x1280/aJru02Io1nUBVT13.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038654949379432453/pl/1Z0tAuqzVxyFdTl6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038654949379432453"
+          ],
+          "media_source_tweet_id": [
+            "2038655075862864109"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2038866495716118974",
+        "created_at": "2026-03-31T06:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038866495716118974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1747146335323844609",
+              "start": 3,
+              "username": "aozn24428"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOPTv3FvUU",
+              "end": 92,
+              "expanded_url": "https://x.com/aozn24428/status/2038655075862864109/video/1",
+              "media_key": "13_2038654949379432453",
+              "start": 69,
+              "url": "https://t.co/qOPTv3FvUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038866495716118974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038655075862864109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aozn24428: 刀克特刀克特(&gt;﹏&lt;)为什么我的世界都是雨天呀，天气一直灰蒙蒙的好不舒服(&gt;﹏&lt;) https://t.co/qOPTv3FvUU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038654949379432453"
+          ]
+        },
+        "author_id": "1747146335323844609",
+        "conversation_id": "2038655075862864109",
+        "created_at": "2026-03-30T16:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038655075862864109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qOPTv3FvUU",
+              "end": 77,
+              "expanded_url": "https://x.com/aozn24428/status/2038655075862864109/video/1",
+              "media_key": "13_2038654949379432453",
+              "start": 54,
+              "url": "https://t.co/qOPTv3FvUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038655075862864109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刀克特刀克特(&gt;﹏&lt;)为什么我的世界都是雨天呀，天气一直灰蒙蒙的好不舒服(&gt;﹏&lt;) https://t.co/qOPTv3FvUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（挂壁版）",
+        "pinned_tweet_id": "2037580224976896151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037582080159461377/C0qPBQbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 429,
+          "like_count": 7781,
+          "listed_count": 7,
+          "media_count": 298,
+          "tweet_count": 3850
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "骚扰私信一律拉黑不管哦｜当朋友圈发 我有很多很多的负面情绪｜转帖40%碎碎念59%cosplay1%组成｜特别好用的🪜（自用！让我赚佣金吧！）蜂鸟VPN ：https://t.co/vm8dSucUSp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 101,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=FraeJTaB",
+                "start": 78,
+                "url": "https://t.co/vm8dSucUSp"
+              }
+            ]
+          }
+        },
+        "id": "1747146335323844609",
+        "location": "你心里❤️",
+        "name": "妹子幸运一点吧",
+        "pinned_tweet_id": "2038547964269051981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 356,
+          "like_count": 31260,
+          "listed_count": 10,
+          "media_count": 1612,
+          "tweet_count": 23047
+        },
+        "username": "aozn24428",
+        "verified": false
+      }
+    ]
+  }
+}

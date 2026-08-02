@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050904266240643072",
+        "3_2050904267347951616"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2050904270283870690",
+    "created_at": "2026-05-03T11:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050904270283870690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m89Lz3RAh5",
+          "end": 117,
+          "expanded_url": "https://x.com/yv_amerain/status/2050904270283870690/photo/1",
+          "media_key": "3_2050904266240643072",
+          "start": 94,
+          "url": "https://t.co/m89Lz3RAh5"
+        },
+        {
+          "display_url": "pic.x.com/m89Lz3RAh5",
+          "end": 117,
+          "expanded_url": "https://x.com/yv_amerain/status/2050904270283870690/photo/1",
+          "media_key": "3_2050904267347951616",
+          "start": 94,
+          "url": "https://t.co/m89Lz3RAh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050904270283870690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "骗子，骗子，骗子，就这样离开我，你明说我不会在意父母怎么想的，明明说好就是会一直陪着我，会一直喜欢我，我明明有原谅你的一切，明明有原谅你的一切难处还有去年对我的伤害，骗子........ https://t.co/m89Lz3RAh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 214,
+        "media_key": "3_2050904266240643072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZGkGGbUAAovMg.jpg",
+        "width": 845
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050904267347951616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZGkKObgAAJxvY.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050904266240643072",
+            "3_2050904267347951616"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2050904270283870690",
+        "created_at": "2026-05-03T11:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050904270283870690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m89Lz3RAh5",
+              "end": 117,
+              "expanded_url": "https://x.com/yv_amerain/status/2050904270283870690/photo/1",
+              "media_key": "3_2050904266240643072",
+              "start": 94,
+              "url": "https://t.co/m89Lz3RAh5"
+            },
+            {
+              "display_url": "pic.x.com/m89Lz3RAh5",
+              "end": 117,
+              "expanded_url": "https://x.com/yv_amerain/status/2050904270283870690/photo/1",
+              "media_key": "3_2050904267347951616",
+              "start": 94,
+              "url": "https://t.co/m89Lz3RAh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050904270283870690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骗子，骗子，骗子，就这样离开我，你明说我不会在意父母怎么想的，明明说好就是会一直陪着我，会一直喜欢我，我明明有原谅你的一切，明明有原谅你的一切难处还有去年对我的伤害，骗子........ https://t.co/m89Lz3RAh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050823462986694656/92P7L9wf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4330,
+          "following_count": 444,
+          "like_count": 8284,
+          "listed_count": 7,
+          "media_count": 325,
+          "tweet_count": 4013
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

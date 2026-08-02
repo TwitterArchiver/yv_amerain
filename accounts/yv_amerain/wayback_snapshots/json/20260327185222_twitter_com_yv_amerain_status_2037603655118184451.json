@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2037603655118184451",
+    "created_at": "2026-03-27T18:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037603655118184451"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037603655118184451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Ok，我不用在互联网上迎合任何人了，然后呢，我现在已经有人爱我了，然后那种戾气以及负面情绪减少很多很多，我感觉我现在的状态是我人生中最好的状态了，我好幸福，好开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2037603655118184451",
+        "created_at": "2026-03-27T18:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037603655118184451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037603655118184451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Ok，我不用在互联网上迎合任何人了，然后呢，我现在已经有人爱我了，然后那种戾气以及负面情绪减少很多很多，我感觉我现在的状态是我人生中最好的状态了，我好幸福，好开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（打工中）",
+        "pinned_tweet_id": "2037580224976896151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037582080159461377/C0qPBQbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4353,
+          "following_count": 428,
+          "like_count": 7762,
+          "listed_count": 7,
+          "media_count": 294,
+          "tweet_count": 3840
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

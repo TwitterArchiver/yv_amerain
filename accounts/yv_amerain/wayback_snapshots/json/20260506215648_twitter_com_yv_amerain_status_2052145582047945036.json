@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052141767294930944",
+        "3_2052141768716795904",
+        "3_2052141768699936768"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052145582047945036",
+    "created_at": "2026-05-06T21:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T22:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052145582047945036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBSJd08Dmh",
+          "end": 165,
+          "expanded_url": "https://x.com/yv_amerain/status/2052145582047945036/video/1",
+          "media_key": "13_2052141767294930944",
+          "start": 142,
+          "url": "https://t.co/mBSJd08Dmh"
+        },
+        {
+          "display_url": "pic.x.com/mBSJd08Dmh",
+          "end": 165,
+          "expanded_url": "https://x.com/yv_amerain/status/2052145582047945036/video/1",
+          "media_key": "3_2052141768716795904",
+          "start": 142,
+          "url": "https://t.co/mBSJd08Dmh"
+        },
+        {
+          "display_url": "pic.x.com/mBSJd08Dmh",
+          "end": 165,
+          "expanded_url": "https://x.com/yv_amerain/status/2052145582047945036/video/1",
+          "media_key": "3_2052141768699936768",
+          "start": 142,
+          "url": "https://t.co/mBSJd08Dmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052145582047945036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“我当时比较缺爱吧，才喜欢他，不过我现在喜欢你所以才找理由”（明天有完整版）\n我找到我对象的现女友，而且还是认识一天无缝衔接，直接承认之前全是在钓我，甚至觉得如果能认识今天这个对象早知道就不骗我钓我了，明明知道我有心理问题，还接触我，甚至现在一直骂我神经病，明天出完整版无缝衔接瓜条 https://t.co/mBSJd08Dmh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 898333,
+        "height": 960,
+        "media_key": "13_2052141767294930944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052141767294930944/img/f4GceCnKsFgYTmHu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052141767294930944/vid/avc1/320x710/mHKJd8KICQslzov3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052141767294930944/vid/avc1/432x960/ToQLiTCi9TY4zZ9l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052141767294930944/pl/fXxhduBZNWDNMHrE.m3u8"
+          }
+        ],
+        "width": 432
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052141768716795904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqsEOEbQAAjaDA.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052141768699936768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqsEOAaAAAmdzR.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052141767294930944",
+            "3_2052141768716795904",
+            "3_2052141768699936768"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052145582047945036",
+        "created_at": "2026-05-06T21:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052145582047945036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBSJd08Dmh",
+              "end": 165,
+              "expanded_url": "https://x.com/yv_amerain/status/2052145582047945036/video/1",
+              "media_key": "13_2052141767294930944",
+              "start": 142,
+              "url": "https://t.co/mBSJd08Dmh"
+            },
+            {
+              "display_url": "pic.x.com/mBSJd08Dmh",
+              "end": 165,
+              "expanded_url": "https://x.com/yv_amerain/status/2052145582047945036/video/1",
+              "media_key": "3_2052141768716795904",
+              "start": 142,
+              "url": "https://t.co/mBSJd08Dmh"
+            },
+            {
+              "display_url": "pic.x.com/mBSJd08Dmh",
+              "end": 165,
+              "expanded_url": "https://x.com/yv_amerain/status/2052145582047945036/video/1",
+              "media_key": "3_2052141768699936768",
+              "start": 142,
+              "url": "https://t.co/mBSJd08Dmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052145582047945036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我当时比较缺爱吧，才喜欢他，不过我现在喜欢你所以才找理由”（明天有完整版）\n我找到我对象的现女友，而且还是认识一天无缝衔接，直接承认之前全是在钓我，甚至觉得如果能认识今天这个对象早知道就不骗我钓我了，明明知道我有心理问题，还接触我，甚至现在一直骂我神经病，明天出完整版无缝衔接瓜条 https://t.co/mBSJd08Dmh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4497,
+          "following_count": 449,
+          "like_count": 8399,
+          "listed_count": 9,
+          "media_count": 331,
+          "tweet_count": 4048
+        },
+        "url": "",
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

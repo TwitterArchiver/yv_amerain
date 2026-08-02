@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025373084669427933",
+    "created_at": "2026-02-22T00:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025373084669427933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "雨ame’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1yxBe…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1yxBeMMALnjJN",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2025373085877370882/fZK2z9ZF?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2025373085877370882/fZK2z9ZF?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 好难受，被药圈装女人的丑逼皮下男挂了",
+          "unwound_url": "https://twitter.com/i/spaces/1yxBeMMALnjJN/peek",
+          "url": "https://t.co/E2TloPv9k3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025373084669427933",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/E2TloPv9k3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025373084669427933",
+        "created_at": "2026-02-22T00:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025373084669427933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "雨ame’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1yxBe…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1yxBeMMALnjJN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2025373085877370882/fZK2z9ZF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025373085877370882/fZK2z9ZF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 好难受，被药圈装女人的丑逼皮下男挂了",
+              "unwound_url": "https://twitter.com/i/spaces/1yxBeMMALnjJN/peek",
+              "url": "https://t.co/E2TloPv9k3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025373084669427933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E2TloPv9k3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3952,
+          "following_count": 550,
+          "like_count": 7194,
+          "listed_count": 8,
+          "media_count": 305,
+          "tweet_count": 3641
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

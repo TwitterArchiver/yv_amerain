@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049822745786212352"
+      ],
+      "media_source_tweet_id": [
+        "2049822818150621206"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050068909538279590",
+    "created_at": "2026-05-01T04:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050068909538279590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1901601493758930944",
+          "start": 3,
+          "username": "naniyue_sounaru"
+        }
+      ],
+      "urls": [
+        {
+          "description": "23K likes, 228 comments. \"【手描きOMORI】Sleepwalk (spoiler)\"",
+          "display_url": "youtu.be/_fM-YEsw8Kc?si…",
+          "end": 76,
+          "expanded_url": "https://youtu.be/_fM-YEsw8Kc?si=34LGo-TwKwj-_NcI",
+          "start": 53,
+          "status": 200,
+          "title": "何故",
+          "unwound_url": "https://www.youtube.com/watch?si=34LGo-TwKwj-_NcI&v=_fM-YEsw8Kc&feature=youtu.be",
+          "url": "https://t.co/w8hl61oLLj"
+        },
+        {
+          "display_url": "pic.x.com/dBictz05tN",
+          "end": 100,
+          "expanded_url": "https://x.com/naniyue_sounaru/status/2049822818150621206/video/1",
+          "media_key": "13_2049822745786212352",
+          "start": 77,
+          "url": "https://t.co/dBictz05tN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050068909538279590",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 637
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049822818150621206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naniyue_sounaru: 【手描きOMORI】Sleepwalk（過去作）\n\nFull→ https://t.co/w8hl61oLLj https://t.co/dBictz05tN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32096,
+        "height": 720,
+        "media_key": "13_2049822745786212352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049822745786212352/img/FfuM6vBEuRtq5Vch.jpg",
+        "public_metrics": {
+          "view_count": 25611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049822745786212352/vid/avc1/480x270/o_nxGYJb0pRQmBDB.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049822745786212352/vid/avc1/640x360/qEEoz4Vyjya66iTW.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049822745786212352/vid/avc1/1280x720/pWw7NdnsrD41Yyn8.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049822745786212352/pl/gQYNHlY7eix1zfXt.m3u8?tag=27&v=bca"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049822745786212352"
+          ],
+          "media_source_tweet_id": [
+            "2049822818150621206"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050068909538279590",
+        "created_at": "2026-05-01T04:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050068909538279590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1901601493758930944",
+              "start": 3,
+              "username": "naniyue_sounaru"
+            }
+          ],
+          "urls": [
+            {
+              "description": "23K likes, 228 comments. \"【手描きOMORI】Sleepwalk (spoiler)\"",
+              "display_url": "youtu.be/_fM-YEsw8Kc?si…",
+              "end": 76,
+              "expanded_url": "https://youtu.be/_fM-YEsw8Kc?si=34LGo-TwKwj-_NcI",
+              "start": 53,
+              "status": 200,
+              "title": "何故",
+              "unwound_url": "https://www.youtube.com/watch?si=34LGo-TwKwj-_NcI&v=_fM-YEsw8Kc&feature=youtu.be",
+              "url": "https://t.co/w8hl61oLLj"
+            },
+            {
+              "display_url": "pic.x.com/dBictz05tN",
+              "end": 100,
+              "expanded_url": "https://x.com/naniyue_sounaru/status/2049822818150621206/video/1",
+              "media_key": "13_2049822745786212352",
+              "start": 77,
+              "url": "https://t.co/dBictz05tN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050068909538279590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 637
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049822818150621206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naniyue_sounaru: 【手描きOMORI】Sleepwalk（過去作）\n\nFull→ https://t.co/w8hl61oLLj https://t.co/dBictz05tN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049822745786212352"
+          ]
+        },
+        "author_id": "1901601493758930944",
+        "conversation_id": "2049822818150621206",
+        "created_at": "2026-04-30T12:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049822818150621206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "23K likes, 228 comments. \"【手描きOMORI】Sleepwalk (spoiler)\"",
+              "display_url": "youtu.be/_fM-YEsw8Kc?si…",
+              "end": 55,
+              "expanded_url": "https://youtu.be/_fM-YEsw8Kc?si=34LGo-TwKwj-_NcI",
+              "start": 32,
+              "status": 200,
+              "title": "何故",
+              "unwound_url": "https://www.youtube.com/watch?si=34LGo-TwKwj-_NcI&v=_fM-YEsw8Kc&feature=youtu.be",
+              "url": "https://t.co/w8hl61oLLj"
+            },
+            {
+              "display_url": "pic.x.com/dBictz05tN",
+              "end": 79,
+              "expanded_url": "https://x.com/naniyue_sounaru/status/2049822818150621206/video/1",
+              "media_key": "13_2049822745786212352",
+              "start": 56,
+              "url": "https://t.co/dBictz05tN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049822818150621206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 875,
+          "impression_count": 66175,
+          "like_count": 3887,
+          "quote_count": 48,
+          "reply_count": 2,
+          "retweet_count": 637
+        },
+        "reply_settings": "everyone",
+        "text": "【手描きOMORI】Sleepwalk（過去作）\n\nFull→ https://t.co/w8hl61oLLj https://t.co/dBictz05tN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049144233530105856/xv8hJFad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 443,
+          "like_count": 8249,
+          "listed_count": 7,
+          "media_count": 317,
+          "tweet_count": 4001
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T11:49:11.000Z",
+        "description": "雑多絵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Kpp_naniyue",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Kpp_naniyue",
+                "start": 0,
+                "url": "https://t.co/m0m3N8CCiM"
+              }
+            ]
+          }
+        },
+        "id": "1901601493758930944",
+        "location": "oc￤trpg ￤版権（DEATHNOTE） etc",
+        "name": "🤔",
+        "pinned_tweet_id": "2049511354005155898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040064337369518080/ISegqyel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 7,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/m0m3N8CCiM",
+        "username": "naniyue_sounaru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037805655126605824",
+        "3_2037805655403470848"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037805666153435349",
+    "created_at": "2026-03-28T08:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037805666153435349"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9WXBu6aRE0",
+          "end": 42,
+          "expanded_url": "https://x.com/yv_amerain/status/2037805666153435349/photo/1",
+          "media_key": "3_2037805655126605824",
+          "start": 19,
+          "url": "https://t.co/9WXBu6aRE0"
+        },
+        {
+          "display_url": "pic.x.com/9WXBu6aRE0",
+          "end": 42,
+          "expanded_url": "https://x.com/yv_amerain/status/2037805666153435349/photo/1",
+          "media_key": "3_2037805655403470848",
+          "start": 19,
+          "url": "https://t.co/9WXBu6aRE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037805666153435349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#素晴らしき日々 救世主和小🍊！！！ https://t.co/9WXBu6aRE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2037805655126605824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEe9clMagAA2M4p.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2037805655403470848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEe9cmObIAAUCfS.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037805655126605824",
+            "3_2037805655403470848"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037805666153435349",
+        "created_at": "2026-03-28T08:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037805666153435349"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WXBu6aRE0",
+              "end": 42,
+              "expanded_url": "https://x.com/yv_amerain/status/2037805666153435349/photo/1",
+              "media_key": "3_2037805655126605824",
+              "start": 19,
+              "url": "https://t.co/9WXBu6aRE0"
+            },
+            {
+              "display_url": "pic.x.com/9WXBu6aRE0",
+              "end": 42,
+              "expanded_url": "https://x.com/yv_amerain/status/2037805666153435349/photo/1",
+              "media_key": "3_2037805655403470848",
+              "start": 19,
+              "url": "https://t.co/9WXBu6aRE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037805666153435349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々 救世主和小🍊！！！ https://t.co/9WXBu6aRE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（打工中）",
+        "pinned_tweet_id": "2037580224976896151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037582080159461377/C0qPBQbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 429,
+          "like_count": 7772,
+          "listed_count": 7,
+          "media_count": 297,
+          "tweet_count": 3846
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

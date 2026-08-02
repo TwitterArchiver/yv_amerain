@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048691956877062144"
+      ],
+      "media_source_tweet_id": [
+        "2048692018403233929"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049202916142293371",
+    "created_at": "2026-04-28T19:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T20:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049202916142293371"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 25,
+          "tag": "OMORIFANART"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1996924756978028546",
+          "start": 3,
+          "username": "4pREIGBvCi23834"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QMKI4EaKHY",
+          "end": 61,
+          "expanded_url": "https://x.com/4pREIGBvCi23834/status/2048692018403233929/video/1",
+          "media_key": "13_2048691956877062144",
+          "start": 38,
+          "url": "https://t.co/QMKI4EaKHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049202916142293371",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048692018403233929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4pREIGBvCi23834: 🍆🧺\n #OMORIFANART https://t.co/QMKI4EaKHY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10400,
+        "height": 720,
+        "media_key": "13_2048691956877062144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048691956877062144/img/1uMFn6X-EEF6Vdii.jpg",
+        "public_metrics": {
+          "view_count": 1278
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048691956877062144/vid/avc1/360x270/KqQJLJ2rgO4JR5rF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048691956877062144/vid/avc1/480x360/CTfY2RT-x9y9f1s2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048691956877062144/vid/avc1/960x720/w7RlHi5gkZ7GTcCp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048691956877062144/pl/SsrCQMsJQxCwSuR1.m3u8?v=44d"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048691956877062144"
+          ],
+          "media_source_tweet_id": [
+            "2048692018403233929"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049202916142293371",
+        "created_at": "2026-04-28T19:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049202916142293371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 25,
+              "tag": "OMORIFANART"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1996924756978028546",
+              "start": 3,
+              "username": "4pREIGBvCi23834"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMKI4EaKHY",
+              "end": 61,
+              "expanded_url": "https://x.com/4pREIGBvCi23834/status/2048692018403233929/video/1",
+              "media_key": "13_2048691956877062144",
+              "start": 38,
+              "url": "https://t.co/QMKI4EaKHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049202916142293371",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048692018403233929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4pREIGBvCi23834: 🍆🧺\n #OMORIFANART https://t.co/QMKI4EaKHY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048691956877062144"
+          ]
+        },
+        "author_id": "1996924756978028546",
+        "conversation_id": "2048692018403233929",
+        "created_at": "2026-04-27T09:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048692018403233929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 4,
+              "tag": "OMORIFANART"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMKI4EaKHY",
+              "end": 40,
+              "expanded_url": "https://x.com/4pREIGBvCi23834/status/2048692018403233929/video/1",
+              "media_key": "13_2048691956877062144",
+              "start": 17,
+              "url": "https://t.co/QMKI4EaKHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048692018403233929",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 3801,
+          "like_count": 262,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "🍆🧺\n #OMORIFANART https://t.co/QMKI4EaKHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049144233530105856/xv8hJFad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 442,
+          "like_count": 8196,
+          "listed_count": 7,
+          "media_count": 316,
+          "tweet_count": 3981
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T12:49:50.000Z",
+        "description": "マリちゃんとウーパールーパーがすき- ̫ -",
+        "id": "1996924756978028546",
+        "name": "るわ",
+        "pinned_tweet_id": "2022940650493350273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005941794010431488/5Yn2LORw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 26,
+          "like_count": 1151,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 478
+        },
+        "username": "4pREIGBvCi23834",
+        "verified": false
+      }
+    ]
+  }
+}

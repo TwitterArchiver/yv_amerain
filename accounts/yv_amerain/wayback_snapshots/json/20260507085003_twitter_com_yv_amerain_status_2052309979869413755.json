@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2052309979869413755",
+    "created_at": "2026-05-07T08:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052309979869413755"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052309979869413755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我遭啥罪了呀，认识这种人虽然是我24年还很蠢很萌萌人时期的时候认识的吧，不过确实觉得这人还挺好，然后当时去年4月份就是说父母怎么怎么样，然后给我断联了，然后呢又11月份联系我问喜不喜欢他，一直聊我说没有那么喜欢了，后来实在就是低谷期了，3月份找他说我同意了，然后绿我，说是玩玩不喜欢男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052309979869413755",
+        "created_at": "2026-05-07T08:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052309979869413755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052309979869413755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我遭啥罪了呀，认识这种人虽然是我24年还很蠢很萌萌人时期的时候认识的吧，不过确实觉得这人还挺好，然后当时去年4月份就是说父母怎么怎么样，然后给我断联了，然后呢又11月份联系我问喜不喜欢他，一直聊我说没有那么喜欢了，后来实在就是低谷期了，3月份找他说我同意了，然后绿我，说是玩玩不喜欢男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "我活不过十八",
+        "pinned_tweet_id": "2052266875074248780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 451,
+          "like_count": 8422,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 4064
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

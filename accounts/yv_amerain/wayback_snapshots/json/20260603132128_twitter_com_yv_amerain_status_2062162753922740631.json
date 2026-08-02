@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2062162753922740631",
+    "created_at": "2026-06-03T13:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062162753922740631"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062162753922740631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我变成前段时间那半年那样子完全都是因为遇到了很坏的人pua我，说什么男娘不正常，说什么我不正常，然后我说话方式是很温柔很笨笨的，就他们就还拿这个一直骂我，我在想是不是因为自己的错，然后后面我就变得很魔怔很抽象，真的对不起，我想变回以前的样子，希望大家重新接纳我........"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2062162753922740631",
+        "created_at": "2026-06-03T13:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062162753922740631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062162753922740631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我变成前段时间那半年那样子完全都是因为遇到了很坏的人pua我，说什么男娘不正常，说什么我不正常，然后我说话方式是很温柔很笨笨的，就他们就还拿这个一直骂我，我在想是不是因为自己的错，然后后面我就变得很魔怔很抽象，真的对不起，我想变回以前的样子，希望大家重新接纳我........"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4795,
+          "following_count": 482,
+          "like_count": 9157,
+          "listed_count": 8,
+          "media_count": 354,
+          "tweet_count": 4182
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

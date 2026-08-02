@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2054233029271576790",
+    "created_at": "2026-05-12T17:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T18:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054247749038874656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799771405669847040",
+          "start": 0,
+          "username": "qqyu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054247749038874656",
+    "in_reply_to_user_id": "1799771405669847040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054241877545943065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqyu666 我的钱都是要饭要来的，之前换情头，有的人都不给我钱了，前段几天对象出轨我，然后找一个三次精神小妹，pdd买衣服，不知道为啥，他之前还用那个优爱酱的头像地雷系，但是他不知道地蕾系，但是想穿，想搞lo不知道裙撑，也不知道魔爪，还觉得欧弟的人有病，然后我那个男友还想送她蕾服，西太后，我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2054233029271576790",
+        "created_at": "2026-05-12T17:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054247749038874656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799771405669847040",
+              "start": 0,
+              "username": "qqyu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054247749038874656",
+        "in_reply_to_user_id": "1799771405669847040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054241877545943065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqyu666 我的钱都是要饭要来的，之前换情头，有的人都不给我钱了，前段几天对象出轨我，然后找一个三次精神小妹，pdd买衣服，不知道为啥，他之前还用那个优爱酱的头像地雷系，但是他不知道地蕾系，但是想穿，想搞lo不知道裙撑，也不知道魔爪，还觉得欧弟的人有病，然后我那个男友还想送她蕾服，西太后，我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799771405669847040",
+        "conversation_id": "2054233029271576790",
+        "created_at": "2026-05-12T16:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054241877545943065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054241877545943065",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054233029271576790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 有钱入😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2054107599151542362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4516,
+          "following_count": 455,
+          "like_count": 8523,
+          "listed_count": 7,
+          "media_count": 337,
+          "tweet_count": 4087
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:52:14.000Z",
+        "description": "关注qq雨喵 关注qq雨谢谢喵",
+        "id": "1799771405669847040",
+        "location": "未名市",
+        "name": "qq雨",
+        "pinned_tweet_id": "2033898182057558388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054242331809959938/Uc0Qi3xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 95,
+          "like_count": 7497,
+          "listed_count": 6,
+          "media_count": 109,
+          "tweet_count": 3006
+        },
+        "username": "qqyu666",
+        "verified": false
+      }
+    ]
+  }
+}

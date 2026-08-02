@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2054180346334429547",
+    "created_at": "2026-05-12T22:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T23:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054323486634672415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786903427808829440",
+          "start": 0,
+          "username": "wing4120161014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054323486634672415",
+    "in_reply_to_user_id": "786903427808829440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054307111438528758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wing4120161014 就是这些人有病吧就是说想跟我谈，但是我说等等吧，然后我确实有好感，然后给他们花钱，刚开始不收，我还就是装不开心，然后还是最后收了，然后就是被这些人闹麻了😅前段时间谈了一个，直接找个130斤肥猪土狗拼多多买衣服，不如我的出轨我，找个比我强我都不说啥，给我气死😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2054180346334429547",
+        "created_at": "2026-05-12T22:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054323486634672415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786903427808829440",
+              "start": 0,
+              "username": "wing4120161014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054323486634672415",
+        "in_reply_to_user_id": "786903427808829440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054307111438528758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wing4120161014 就是这些人有病吧就是说想跟我谈，但是我说等等吧，然后我确实有好感，然后给他们花钱，刚开始不收，我还就是装不开心，然后还是最后收了，然后就是被这些人闹麻了😅前段时间谈了一个，直接找个130斤肥猪土狗拼多多买衣服，不如我的出轨我，找个比我强我都不说啥，给我气死😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786903427808829440",
+        "conversation_id": "2054180346334429547",
+        "created_at": "2026-05-12T21:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T22:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054307111438528758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054307111438528758",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054180346334429547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 惨……不确定关系别乱花钱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2054107599151542362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 455,
+          "like_count": 8537,
+          "listed_count": 7,
+          "media_count": 338,
+          "tweet_count": 4091
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-14T12:16:11.000Z",
+        "description": "",
+        "id": "786903427808829440",
+        "name": "wing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007143635511586817/LhOE21lI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 3148,
+          "like_count": 27579,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 5809
+        },
+        "username": "wing4120161014",
+        "verified": false
+      }
+    ]
+  }
+}

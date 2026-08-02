@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027047738366709760"
+      ],
+      "media_source_tweet_id": [
+        "2027047741910905273"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2027254692561277415",
+    "created_at": "2026-02-27T05:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027254692561277415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002688896623390720",
+          "start": 3,
+          "username": "owata_zone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zh2nMuCSyB",
+          "end": 53,
+          "expanded_url": "https://x.com/owata_zone/status/2027047741910905273/photo/1",
+          "media_key": "3_2027047738366709760",
+          "start": 30,
+          "url": "https://t.co/Zh2nMuCSyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027254692561277415",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027047741910905273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @owata_zone: 彼の世に嬢の亡骸 (再掲) https://t.co/Zh2nMuCSyB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027047738366709760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGFLaQbUAACqRa.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027047738366709760"
+          ],
+          "media_source_tweet_id": [
+            "2027047741910905273"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2027254692561277415",
+        "created_at": "2026-02-27T05:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027254692561277415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2002688896623390720",
+              "start": 3,
+              "username": "owata_zone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zh2nMuCSyB",
+              "end": 53,
+              "expanded_url": "https://x.com/owata_zone/status/2027047741910905273/photo/1",
+              "media_key": "3_2027047738366709760",
+              "start": 30,
+              "url": "https://t.co/Zh2nMuCSyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027254692561277415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027047741910905273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @owata_zone: 彼の世に嬢の亡骸 (再掲) https://t.co/Zh2nMuCSyB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027047738366709760"
+          ]
+        },
+        "author_id": "2002688896623390720",
+        "conversation_id": "2027047741910905273",
+        "created_at": "2026-02-26T15:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027047741910905273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zh2nMuCSyB",
+              "end": 37,
+              "expanded_url": "https://x.com/owata_zone/status/2027047741910905273/photo/1",
+              "media_key": "3_2027047738366709760",
+              "start": 14,
+              "url": "https://t.co/Zh2nMuCSyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027047741910905273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 7286,
+          "like_count": 1073,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "彼の世に嬢の亡骸 (再掲) https://t.co/Zh2nMuCSyB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ //小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3939,
+          "following_count": 554,
+          "like_count": 7359,
+          "listed_count": 8,
+          "media_count": 317,
+          "tweet_count": 3712
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T10:34:21.000Z",
+        "description": "18↓  🌫🫰￤💖▶@0721HINA0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "0721HINA0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/owatakun",
+                "end": 23,
+                "expanded_url": "https://lit.link/owatakun",
+                "start": 0,
+                "url": "https://t.co/bNMdL4X6QG"
+              }
+            ]
+          }
+        },
+        "id": "2002688896623390720",
+        "location": "霧の湖",
+        "name": "おわたくn",
+        "pinned_tweet_id": "2017668270971883864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002689723178065920/tVMc-U19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 49,
+          "like_count": 366,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/bNMdL4X6QG",
+        "username": "owata_zone",
+        "verified": false
+      }
+    ]
+  }
+}

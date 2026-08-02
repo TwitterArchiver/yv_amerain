@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049055423005937664"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2049055425803456714",
+    "created_at": "2026-04-28T09:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049055425803456714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kL8SZQR2Xj",
+          "end": 84,
+          "expanded_url": "https://x.com/yv_amerain/status/2049055425803456714/photo/1",
+          "media_key": "3_2049055423005937664",
+          "start": 61,
+          "url": "https://t.co/kL8SZQR2Xj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049055425803456714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们谁去闲鱼帮我就是挑一个mzk假发，我就是目前5月份出的话，是那种现货批量产的毛坯，我想之后经常出，直接去约个好一点的 https://t.co/kL8SZQR2Xj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049055423005937664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-1DQVbUAAr-4t.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049055423005937664"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2049055425803456714",
+        "created_at": "2026-04-28T09:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049055425803456714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kL8SZQR2Xj",
+              "end": 84,
+              "expanded_url": "https://x.com/yv_amerain/status/2049055425803456714/photo/1",
+              "media_key": "3_2049055423005937664",
+              "start": 61,
+              "url": "https://t.co/kL8SZQR2Xj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049055425803456714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁去闲鱼帮我就是挑一个mzk假发，我就是目前5月份出的话，是那种现货批量产的毛坯，我想之后经常出，直接去约个好一点的 https://t.co/kL8SZQR2Xj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 442,
+          "like_count": 8168,
+          "listed_count": 7,
+          "media_count": 316,
+          "tweet_count": 3976
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2049025020392055283",
+    "created_at": "2026-04-28T07:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049025020392055283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049025020392055283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么时候人才能意识到，其实男女之间是有正常社交的，然后就是因为你们这帮顺直男女，整天就拿着自己那点认知，并不是每个人都是欲望驱动的，如果你是在那种健全的家庭长大，然后呢没有共情能力纯欲望趋势，那你这样想，那真没招毕竟在这种人的世界观里他们就是这样想的，有什么办法呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2049025020392055283",
+        "created_at": "2026-04-28T07:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049025020392055283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049025020392055283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候人才能意识到，其实男女之间是有正常社交的，然后就是因为你们这帮顺直男女，整天就拿着自己那点认知，并不是每个人都是欲望驱动的，如果你是在那种健全的家庭长大，然后呢没有共情能力纯欲望趋势，那你这样想，那真没招毕竟在这种人的世界观里他们就是这样想的，有什么办法呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 442,
+          "like_count": 8151,
+          "listed_count": 7,
+          "media_count": 315,
+          "tweet_count": 3970
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

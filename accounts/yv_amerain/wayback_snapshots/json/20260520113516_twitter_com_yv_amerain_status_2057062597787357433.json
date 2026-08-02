@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2057062597787357433",
+    "created_at": "2026-05-20T11:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057062597787357433"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057062597787357433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我过的不好都是你的错，因为你我现在不敢像以前一样刻意做一些事情或者cos那种角色受关注，因为你，好讨厌你们这些靠近我又伤害我的人，不是喜欢女孩嘛，我这边很多啊，可惜你搬走了，线上我让这些人去关注你，你取关是啥意思？我小号都拉黑，你怎么这么害怕我，喜欢女孩我不是让他们找你玩玩了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2057062597787357433",
+        "created_at": "2026-05-20T11:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057062597787357433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057062597787357433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我过的不好都是你的错，因为你我现在不敢像以前一样刻意做一些事情或者cos那种角色受关注，因为你，好讨厌你们这些靠近我又伤害我的人，不是喜欢女孩嘛，我这边很多啊，可惜你搬走了，线上我让这些人去关注你，你取关是啥意思？我小号都拉黑，你怎么这么害怕我，喜欢女孩我不是让他们找你玩玩了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056315884394954752/5tm5_Ty0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4720,
+          "following_count": 465,
+          "like_count": 8885,
+          "listed_count": 7,
+          "media_count": 353,
+          "tweet_count": 4163
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

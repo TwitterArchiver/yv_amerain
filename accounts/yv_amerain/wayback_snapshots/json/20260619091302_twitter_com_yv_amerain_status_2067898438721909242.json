@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2067827917707706368"
+      ],
+      "media_source_tweet_id": [
+        "2067827953439039902"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2067898438721909242",
+    "created_at": "2026-06-19T09:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067898438721909242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063187473405227008",
+          "start": 3,
+          "username": "yvame_rain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8gfv2Cx7Y",
+          "end": 44,
+          "expanded_url": "https://x.com/yvame_rain/status/2067827953439039902/video/1",
+          "media_key": "7_2067827917707706368",
+          "start": 21,
+          "url": "https://t.co/P8gfv2Cx7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067898438721909242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067827953439039902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yvame_rain: 出门玩了 https://t.co/P8gfv2Cx7Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6292,
+        "height": 1920,
+        "media_key": "7_2067827917707706368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067827917707706368/pu/img/-QWweF4jmuCZLWI-.jpg",
+        "public_metrics": {
+          "view_count": 137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067827917707706368/pu/vid/avc1/720x1288/74NYPpTIIOsUobze.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067827917707706368/pu/vid/avc1/480x858/2UrVCPBkpiRp_Eek.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067827917707706368/pu/vid/avc1/1072x1920/2ecGHoKGw5V-xQUV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067827917707706368/pu/pl/3L_VWH5HQ28V8kcs.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067827917707706368/pu/vid/avc1/320x572/Qm5no91MFbSBYFLk.mp4"
+          }
+        ],
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067827917707706368"
+          ],
+          "media_source_tweet_id": [
+            "2067827953439039902"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2067898438721909242",
+        "created_at": "2026-06-19T09:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067898438721909242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063187473405227008",
+              "start": 3,
+              "username": "yvame_rain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8gfv2Cx7Y",
+              "end": 44,
+              "expanded_url": "https://x.com/yvame_rain/status/2067827953439039902/video/1",
+              "media_key": "7_2067827917707706368",
+              "start": 21,
+              "url": "https://t.co/P8gfv2Cx7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067898438721909242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067827953439039902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yvame_rain: 出门玩了 https://t.co/P8gfv2Cx7Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067827917707706368"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2067827953439039902",
+        "created_at": "2026-06-19T04:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067827953439039902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8gfv2Cx7Y",
+              "end": 28,
+              "expanded_url": "https://x.com/yvame_rain/status/2067827953439039902/video/1",
+              "media_key": "7_2067827917707706368",
+              "start": 5,
+              "url": "https://t.co/P8gfv2Cx7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067827953439039902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 699,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门玩了 https://t.co/P8gfv2Cx7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "此号不怎么用了，就发点碎碎念负能，关注我另一个号正常更新@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨",
+        "pinned_tweet_id": "2063583290871926923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4800,
+          "following_count": 492,
+          "like_count": 9280,
+          "listed_count": 8,
+          "media_count": 348,
+          "tweet_count": 4241
+        },
+        "url": "",
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新//cos//B站：宅小雨rain",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 81,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

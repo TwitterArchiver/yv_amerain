@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2065483427953176688",
+    "created_at": "2026-06-12T17:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065483427953176688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yv_amerain/sta…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/yv_amerain/status/2065370940838744312",
+          "start": 76,
+          "url": "https://t.co/Jeqyc0TXPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065483427953176688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065370940838744312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈，还好我新号正常更新的账号，那些避我讨厌我的人看不到，不然我发这些负能量包推给他们的，这个号都不怎么用了，为什么还有那么多人看我........ https://t.co/Jeqyc0TXPS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2065483427953176688",
+        "created_at": "2026-06-12T17:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065483427953176688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yv_amerain/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/yv_amerain/status/2065370940838744312",
+              "start": 76,
+              "url": "https://t.co/Jeqyc0TXPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065483427953176688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065370940838744312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈，还好我新号正常更新的账号，那些避我讨厌我的人看不到，不然我发这些负能量包推给他们的，这个号都不怎么用了，为什么还有那么多人看我........ https://t.co/Jeqyc0TXPS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2065370940838744312",
+        "created_at": "2026-06-12T09:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065370940838744312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065370940838744312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1850,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "除了嗑药以外，根本没共同点，我发现了你们很虚伪，去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "此号不怎么用了，就发点碎碎念负能，关注我另一个号@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2063583290871926923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4814,
+          "following_count": 492,
+          "like_count": 9288,
+          "listed_count": 8,
+          "media_count": 363,
+          "tweet_count": 4243
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2036781733836894257",
+    "created_at": "2026-03-26T07:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037063723026891135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972248287609839616",
+          "start": 0,
+          "username": "HugoSilva112865"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037063723026891135",
+    "in_reply_to_user_id": "1972248287609839616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036832431173677461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HugoSilva112865 呃，我又不卖钩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2036781733836894257",
+        "created_at": "2026-03-26T07:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037063723026891135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972248287609839616",
+              "start": 0,
+              "username": "HugoSilva112865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037063723026891135",
+        "in_reply_to_user_id": "1972248287609839616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036832431173677461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HugoSilva112865 呃，我又不卖钩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972248287609839616",
+        "conversation_id": "2036781733836894257",
+        "created_at": "2026-03-25T15:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036832431173677461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036832431173677461",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036781733836894257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 要不你出格里菲斯把，男角色买沟子，不是男娘，形象又好又经典，知名度高，大家都喜欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//置顶为了引流那样写的//我很穷请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 亚文化//喜欢素晴日//cos//碎碎念//什么都发//od//我有心理疾病不要跟我计较//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（忧郁神）",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 428,
+          "like_count": 7787,
+          "listed_count": 7,
+          "media_count": 305,
+          "tweet_count": 3888
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T10:33:31.000Z",
+        "description": "04年男娘180\\65，长居杭州。🚪还没想好，同好直接加",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/CRf8GyfdDU"
+              }
+            ]
+          }
+        },
+        "id": "1972248287609839616",
+        "location": "Philadelphia",
+        "name": "阿巴流口水(二次转身了)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988622786303246336/sWPjUk9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 385,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/CRf8GyfdDU",
+        "username": "HugoSilva112865",
+        "verified": false
+      }
+    ]
+  }
+}

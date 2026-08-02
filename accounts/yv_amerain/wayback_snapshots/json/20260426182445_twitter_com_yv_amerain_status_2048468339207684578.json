@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2048411361160609792"
+      ],
+      "media_source_tweet_id": [
+        "2048411544950874278"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048468339207684578",
+    "created_at": "2026-04-26T18:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048468339207684578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1350674307995713537",
+          "start": 3,
+          "username": "mzenura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m6P26zHJRq",
+          "end": 40,
+          "expanded_url": "https://x.com/mzenura/status/2048411544950874278/photo/1",
+          "media_key": "16_2048411361160609792",
+          "start": 17,
+          "url": "https://t.co/m6P26zHJRq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048468339207684578",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048411544950874278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mzenura: 🥰🥰🥰 https://t.co/m6P26zHJRq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "16_2048411361160609792",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG1rR6_aQAAIFS0.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG1rR6_aQAAIFS0.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048411361160609792"
+          ],
+          "media_source_tweet_id": [
+            "2048411544950874278"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048468339207684578",
+        "created_at": "2026-04-26T18:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048468339207684578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1350674307995713537",
+              "start": 3,
+              "username": "mzenura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6P26zHJRq",
+              "end": 40,
+              "expanded_url": "https://x.com/mzenura/status/2048411544950874278/photo/1",
+              "media_key": "16_2048411361160609792",
+              "start": 17,
+              "url": "https://t.co/m6P26zHJRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048468339207684578",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048411544950874278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mzenura: 🥰🥰🥰 https://t.co/m6P26zHJRq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048411361160609792"
+          ]
+        },
+        "author_id": "1350674307995713537",
+        "conversation_id": "2048411544950874278",
+        "created_at": "2026-04-26T14:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048411544950874278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m6P26zHJRq",
+              "end": 27,
+              "expanded_url": "https://x.com/mzenura/status/2048411544950874278/photo/1",
+              "media_key": "16_2048411361160609792",
+              "start": 4,
+              "url": "https://t.co/m6P26zHJRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048411544950874278",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 682,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "🥰🥰🥰 https://t.co/m6P26zHJRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4295,
+          "following_count": 437,
+          "like_count": 8109,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 3953
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T05:20:31.000Z",
+        "description": "（旧※芋螺）。30↑成人済。本業漫画家。こちらはみずえな中心絵垢です。\n🎀🎨相手固定。🔞有。⚠中文／日本語。\n同人活動は個人サークル『URA BOU』名義で参加します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/mzenura",
+                "end": 23,
+                "expanded_url": "https://potofu.me/mzenura",
+                "start": 0,
+                "url": "https://t.co/sCzWj1XIdc"
+              }
+            ]
+          }
+        },
+        "id": "1350674307995713537",
+        "location": "台湾．みずえな沼",
+        "name": "URA✨BOOTH通販中",
+        "pinned_tweet_id": "1784960936941662332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007084051870715905/ss_C40vG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18792,
+          "following_count": 28,
+          "like_count": 7311,
+          "listed_count": 84,
+          "media_count": 869,
+          "tweet_count": 10685
+        },
+        "url": "https://t.co/sCzWj1XIdc",
+        "username": "mzenura",
+        "verified": true
+      }
+    ]
+  }
+}

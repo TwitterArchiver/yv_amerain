@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056339050303479808"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2056339060143407174",
+    "created_at": "2026-05-18T11:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056339060143407174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6Pi4TpvQl",
+          "end": 151,
+          "expanded_url": "https://x.com/yv_amerain/status/2056339060143407174/photo/1",
+          "media_key": "3_2056339050303479808",
+          "start": 128,
+          "url": "https://t.co/F6Pi4TpvQl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056339060143407174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女装我再买一套lizilisa，然后cos想再买买一个糖糖的，之后就走这种风格挺帅的，然后再买两件原宿风还有视觉系吧，还有想cos两个人气高的男角色，大概就这样，男的女的喜欢我都可以，这样就好了，那两个人给我伤害的快成纯异性恋了.....不过现在差不多了 https://t.co/F6Pi4TpvQl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056339050303479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImVeKcaYAAdr6q.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056339050303479808"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2056339060143407174",
+        "created_at": "2026-05-18T11:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056339060143407174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6Pi4TpvQl",
+              "end": 151,
+              "expanded_url": "https://x.com/yv_amerain/status/2056339060143407174/photo/1",
+              "media_key": "3_2056339050303479808",
+              "start": 128,
+              "url": "https://t.co/F6Pi4TpvQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056339060143407174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女装我再买一套lizilisa，然后cos想再买买一个糖糖的，之后就走这种风格挺帅的，然后再买两件原宿风还有视觉系吧，还有想cos两个人气高的男角色，大概就这样，男的女的喜欢我都可以，这样就好了，那两个人给我伤害的快成纯异性恋了.....不过现在差不多了 https://t.co/F6Pi4TpvQl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056315884394954752/5tm5_Ty0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4710,
+          "following_count": 462,
+          "like_count": 8826,
+          "listed_count": 7,
+          "media_count": 351,
+          "tweet_count": 4146
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

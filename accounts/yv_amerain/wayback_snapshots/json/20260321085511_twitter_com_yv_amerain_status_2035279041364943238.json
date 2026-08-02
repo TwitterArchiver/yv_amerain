@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2035231412396466350",
+    "created_at": "2026-03-21T08:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T09:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035279041364943238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612855155128504335",
+          "start": 0,
+          "username": "plantie_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035279041364943238",
+    "in_reply_to_user_id": "1612855155128504335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035278372365013368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plantie_awa 行吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2035231412396466350",
+        "created_at": "2026-03-21T08:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035279041364943238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612855155128504335",
+              "start": 0,
+              "username": "plantie_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035279041364943238",
+        "in_reply_to_user_id": "1612855155128504335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035278372365013368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plantie_awa 行吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612855155128504335",
+        "conversation_id": "2035231412396466350",
+        "created_at": "2026-03-21T08:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035278372365013368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035278372365013368",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035231412396466350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 不会的，我一般都带半年抛，但次数很少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//置顶为了引流那样写的//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 亚文化//喜欢素晴日//cos//碎碎念//偶尔有情绪和负能//od//我是一个有心理疾病的人//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "吉他雨ame（右宅天下归我）",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 420,
+          "like_count": 7676,
+          "listed_count": 7,
+          "media_count": 299,
+          "tweet_count": 3837
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T16:53:52.000Z",
+        "description": "🤡曾经账号：@plantie_uwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "plantie_uwu"
+              }
+            ]
+          }
+        },
+        "id": "1612855155128504335",
+        "name": "plantie🤍",
+        "pinned_tweet_id": "1973731632252326213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954696700020588545/rBeItYx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 379,
+          "like_count": 1118,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 906
+        },
+        "username": "plantie_awa",
+        "verified": false
+      }
+    ]
+  }
+}

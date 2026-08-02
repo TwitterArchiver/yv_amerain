@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2051663734243012608"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2051663763787649235",
+    "created_at": "2026-05-05T14:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051663763787649235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IiSqsYnPBw",
+          "end": 97,
+          "expanded_url": "https://x.com/yv_amerain/status/2051663763787649235/photo/1",
+          "media_key": "16_2051663734243012608",
+          "start": 74,
+          "url": "https://t.co/IiSqsYnPBw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051663763787649235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想跟我朋友出柜子，一起搞我英，想cos绿谷出久，我看一下吧，我目前身边能一起出的就两个，人多了再说吧，我怕被打，反正不去江汉路那种cos多的地方 https://t.co/IiSqsYnPBw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2051663734243012608",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHj5S84bMAAUjg3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHj5S84bMAAUjg3.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2051663734243012608"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2051663763787649235",
+        "created_at": "2026-05-05T14:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051663763787649235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiSqsYnPBw",
+              "end": 97,
+              "expanded_url": "https://x.com/yv_amerain/status/2051663763787649235/photo/1",
+              "media_key": "16_2051663734243012608",
+              "start": 74,
+              "url": "https://t.co/IiSqsYnPBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051663763787649235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想跟我朋友出柜子，一起搞我英，想cos绿谷出久，我看一下吧，我目前身边能一起出的就两个，人多了再说吧，我怕被打，反正不去江汉路那种cos多的地方 https://t.co/IiSqsYnPBw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//互关和扩列私我//雷部分智力低下的男娘药娘还有网左品客//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface///亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨（禁品客）",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 449,
+          "like_count": 8377,
+          "listed_count": 9,
+          "media_count": 330,
+          "tweet_count": 4038
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

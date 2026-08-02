@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2057295955343688161",
+    "created_at": "2026-05-21T05:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057338643371417882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799771405669847040",
+          "start": 0,
+          "username": "qqyu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057338643371417882",
+    "in_reply_to_user_id": "1799771405669847040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057295955343688161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqyu666 不要我要了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1515,
+        "media_key": "3_2057295949328998400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIz7xBGa4AAMghi.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2057295955343688161",
+        "created_at": "2026-05-21T05:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057338643371417882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799771405669847040",
+              "start": 0,
+              "username": "qqyu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057338643371417882",
+        "in_reply_to_user_id": "1799771405669847040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057295955343688161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqyu666 不要我要了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057295949328998400"
+          ]
+        },
+        "author_id": "1799771405669847040",
+        "conversation_id": "2057295955343688161",
+        "created_at": "2026-05-21T03:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057295955343688161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Max2tHN7MY",
+              "end": 32,
+              "expanded_url": "https://x.com/qqyu666/status/2057295955343688161/photo/1",
+              "media_key": "3_2057295949328998400",
+              "start": 9,
+              "url": "https://t.co/Max2tHN7MY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057295955343688161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要这样对我 https://t.co/Max2tHN7MY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056315884394954752/5tm5_Ty0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4725,
+          "following_count": 466,
+          "like_count": 8930,
+          "listed_count": 8,
+          "media_count": 354,
+          "tweet_count": 4171
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:52:14.000Z",
+        "description": "关注qq雨喵 关注qq雨谢谢喵",
+        "id": "1799771405669847040",
+        "location": "未名市",
+        "name": "qq雨",
+        "pinned_tweet_id": "2033898182057558388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054242331809959938/Uc0Qi3xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 94,
+          "like_count": 7627,
+          "listed_count": 5,
+          "media_count": 112,
+          "tweet_count": 3069
+        },
+        "username": "qqyu666",
+        "verified": false
+      }
+    ]
+  }
+}

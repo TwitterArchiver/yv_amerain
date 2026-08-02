@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029948288338907136",
+        "3_2029948288586371072",
+        "3_2029948289748193289",
+        "3_2029948289282625539"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2029948294454206627",
+    "created_at": "2026-03-06T15:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029948294454206627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FrT7h5naVb",
+          "end": 159,
+          "expanded_url": "https://x.com/yv_amerain/status/2029948294454206627/photo/1",
+          "media_key": "3_2029948288338907136",
+          "start": 136,
+          "url": "https://t.co/FrT7h5naVb"
+        },
+        {
+          "display_url": "pic.x.com/FrT7h5naVb",
+          "end": 159,
+          "expanded_url": "https://x.com/yv_amerain/status/2029948294454206627/photo/1",
+          "media_key": "3_2029948288586371072",
+          "start": 136,
+          "url": "https://t.co/FrT7h5naVb"
+        },
+        {
+          "display_url": "pic.x.com/FrT7h5naVb",
+          "end": 159,
+          "expanded_url": "https://x.com/yv_amerain/status/2029948294454206627/photo/1",
+          "media_key": "3_2029948289748193289",
+          "start": 136,
+          "url": "https://t.co/FrT7h5naVb"
+        },
+        {
+          "display_url": "pic.x.com/FrT7h5naVb",
+          "end": 159,
+          "expanded_url": "https://x.com/yv_amerain/status/2029948294454206627/photo/1",
+          "media_key": "3_2029948289282625539",
+          "start": 136,
+          "url": "https://t.co/FrT7h5naVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029948294454206627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叫我小雨就好了\n09男娘（更喜欢被叫小雨，小雨就是小雨）主坑pjsk 月计 東方  一点点gal 百合\n账号会发一些照片 做饭 做甜点 偶尔有点情绪负能，主播有点穷所以新cos需要点资助，也欢迎扩列\n我人很好，性格比较内向，会做一些吃的还有小手工（第4张妖梦抽烟是摆拍） https://t.co/FrT7h5naVb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2029948288338907136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvTNo7aUAADsU4.jpg",
+        "width": 960
+      },
+      {
+        "height": 640,
+        "media_key": "3_2029948288586371072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvTNp2aUAA8vN0.jpg",
+        "width": 960
+      },
+      {
+        "height": 1435,
+        "media_key": "3_2029948289748193289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvTNuLaUAk0BwP.jpg",
+        "width": 1944
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2029948289282625539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvTNscaUAMr4nf.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029948288338907136",
+            "3_2029948288586371072",
+            "3_2029948289748193289",
+            "3_2029948289282625539"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2029948294454206627",
+        "created_at": "2026-03-06T15:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029948294454206627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrT7h5naVb",
+              "end": 159,
+              "expanded_url": "https://x.com/yv_amerain/status/2029948294454206627/photo/1",
+              "media_key": "3_2029948288338907136",
+              "start": 136,
+              "url": "https://t.co/FrT7h5naVb"
+            },
+            {
+              "display_url": "pic.x.com/FrT7h5naVb",
+              "end": 159,
+              "expanded_url": "https://x.com/yv_amerain/status/2029948294454206627/photo/1",
+              "media_key": "3_2029948288586371072",
+              "start": 136,
+              "url": "https://t.co/FrT7h5naVb"
+            },
+            {
+              "display_url": "pic.x.com/FrT7h5naVb",
+              "end": 159,
+              "expanded_url": "https://x.com/yv_amerain/status/2029948294454206627/photo/1",
+              "media_key": "3_2029948289748193289",
+              "start": 136,
+              "url": "https://t.co/FrT7h5naVb"
+            },
+            {
+              "display_url": "pic.x.com/FrT7h5naVb",
+              "end": 159,
+              "expanded_url": "https://x.com/yv_amerain/status/2029948294454206627/photo/1",
+              "media_key": "3_2029948289282625539",
+              "start": 136,
+              "url": "https://t.co/FrT7h5naVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029948294454206627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫我小雨就好了\n09男娘（更喜欢被叫小雨，小雨就是小雨）主坑pjsk 月计 東方  一点点gal 百合\n账号会发一些照片 做饭 做甜点 偶尔有点情绪负能，主播有点穷所以新cos需要点资助，也欢迎扩列\n我人很好，性格比较内向，会做一些吃的还有小手工（第4张妖梦抽烟是摆拍） https://t.co/FrT7h5naVb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//月亮计划 东方project  gal 日恐还有一些老ip///🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2029948058449187167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3957,
+          "following_count": 553,
+          "like_count": 7528,
+          "listed_count": 8,
+          "media_count": 330,
+          "tweet_count": 3803
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

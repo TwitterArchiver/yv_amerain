@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2029778200377839681",
+    "created_at": "2026-03-07T04:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T05:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030142391731245085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1661262174680154112",
+          "start": 0,
+          "username": "GawrPinkcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030142391731245085",
+    "in_reply_to_user_id": "1661262174680154112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030138736953217333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GawrPinkcat 何意味。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2029778200377839681",
+        "created_at": "2026-03-07T04:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T05:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030142391731245085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1661262174680154112",
+              "start": 0,
+              "username": "GawrPinkcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030142391731245085",
+        "in_reply_to_user_id": "1661262174680154112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030138736953217333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GawrPinkcat 何意味。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661262174680154112",
+        "conversation_id": "2029778200377839681",
+        "created_at": "2026-03-07T04:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T05:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030138736953217333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030138736953217333",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029778200377839681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 出里昂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 日恐还有一些老ip///cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2029948294454206627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3985,
+          "following_count": 555,
+          "like_count": 7527,
+          "listed_count": 8,
+          "media_count": 333,
+          "tweet_count": 3802
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:45:49.000Z",
+        "description": "可爱的事物会治愈心情w",
+        "id": "1661262174680154112",
+        "location": "猫猫俱乐部",
+        "name": "粉粉玛奇朵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853678166310834177/Tt_zNj7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 47,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "username": "GawrPinkcat",
+        "verified": false
+      }
+    ]
+  }
+}

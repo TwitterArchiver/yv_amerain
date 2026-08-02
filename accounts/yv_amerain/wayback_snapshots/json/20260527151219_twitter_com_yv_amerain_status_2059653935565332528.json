@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059580988678955008"
+      ],
+      "media_source_tweet_id": [
+        "2059580995322737001"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2059653935565332528",
+    "created_at": "2026-05-27T15:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059653935565332528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1988925214374412288",
+          "start": 3,
+          "username": "kitty_a2a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1GUx6Nh8DX",
+          "end": 38,
+          "expanded_url": "https://x.com/kitty_a2a/status/2059580995322737001/photo/1",
+          "media_key": "3_2059580988678955008",
+          "start": 15,
+          "url": "https://t.co/1GUx6Nh8DX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059653935565332528",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059580995322737001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitty_a2a: https://t.co/1GUx6Nh8DX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1838,
+        "media_key": "3_2059580988678955008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUZ_0BbYAADGLT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059580988678955008"
+          ],
+          "media_source_tweet_id": [
+            "2059580995322737001"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2059653935565332528",
+        "created_at": "2026-05-27T15:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059653935565332528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1988925214374412288",
+              "start": 3,
+              "username": "kitty_a2a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1GUx6Nh8DX",
+              "end": 38,
+              "expanded_url": "https://x.com/kitty_a2a/status/2059580995322737001/photo/1",
+              "media_key": "3_2059580988678955008",
+              "start": 15,
+              "url": "https://t.co/1GUx6Nh8DX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059653935565332528",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059580995322737001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitty_a2a: https://t.co/1GUx6Nh8DX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059580988678955008"
+          ]
+        },
+        "author_id": "1988925214374412288",
+        "conversation_id": "2059580995322737001",
+        "created_at": "2026-05-27T10:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059580995322737001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1GUx6Nh8DX",
+              "end": 23,
+              "expanded_url": "https://x.com/kitty_a2a/status/2059580995322737001/photo/1",
+              "media_key": "3_2059580988678955008",
+              "start": 0,
+              "url": "https://t.co/1GUx6Nh8DX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059580995322737001",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 12703,
+          "like_count": 1843,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1GUx6Nh8DX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058158079544627200/Fqgf3dCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4778,
+          "following_count": 471,
+          "like_count": 9094,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 4211
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T11:01:44.000Z",
+        "description": "Main account→ @kitty_a1a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "kitty_a1a"
+              }
+            ]
+          }
+        },
+        "id": "1988925214374412288",
+        "name": "Cho",
+        "pinned_tweet_id": "2033851151624585493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051852671536230400/8So5j5VW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4683,
+          "following_count": 50,
+          "like_count": 10280,
+          "listed_count": 11,
+          "media_count": 155,
+          "tweet_count": 1046
+        },
+        "username": "kitty_a2a",
+        "verified": false
+      }
+    ]
+  }
+}

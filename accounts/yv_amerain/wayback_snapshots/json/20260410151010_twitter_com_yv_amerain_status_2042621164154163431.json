@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2042528360572817548",
+    "created_at": "2026-04-10T15:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042621164154163431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747146335323844609",
+          "start": 0,
+          "username": "aozn24428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042621164154163431",
+    "in_reply_to_user_id": "1747146335323844609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042528360572817548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozn24428 突然发现怎么都喜欢用蓝仁特效哇，我也喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042528351378886656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiEtruaUAAvxAT.jpg",
+        "width": 1047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2042528360572817548",
+        "created_at": "2026-04-10T15:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042621164154163431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747146335323844609",
+              "start": 0,
+              "username": "aozn24428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042621164154163431",
+        "in_reply_to_user_id": "1747146335323844609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042528360572817548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozn24428 突然发现怎么都喜欢用蓝仁特效哇，我也喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042528351378886656"
+          ]
+        },
+        "author_id": "1747146335323844609",
+        "conversation_id": "2042528360572817548",
+        "created_at": "2026-04-10T09:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042528360572817548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkuQ0WpYeR",
+              "end": 48,
+              "expanded_url": "https://x.com/aozn24428/status/2042528360572817548/photo/1",
+              "media_key": "3_2042528351378886656",
+              "start": 25,
+              "url": "https://t.co/nkuQ0WpYeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042528360572817548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我侧脸像一只肥猪的侧脸。。。好诡异啊只能搞成这样 https://t.co/nkuQ0WpYeR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian//喜欢的角色是晓山瑞希 sallyface//爱好是cos 废墟探险",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041958345683431426/whKF3uRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4299,
+          "following_count": 428,
+          "like_count": 7815,
+          "listed_count": 7,
+          "media_count": 302,
+          "tweet_count": 3878
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "骚扰私信一律拉黑不管哦｜当朋友圈发 我有很多很多的负面情绪｜转帖40%碎碎念59%cosplay1%组成｜特别好用的🪜（自用！让我赚佣金吧！）蜂鸟VPN ：https://t.co/vm8dSucUSp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 101,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=FraeJTaB",
+                "start": 78,
+                "url": "https://t.co/vm8dSucUSp"
+              }
+            ]
+          }
+        },
+        "id": "1747146335323844609",
+        "location": "你心里❤️",
+        "name": "妹子幸运一点吧",
+        "pinned_tweet_id": "2038547964269051981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 357,
+          "like_count": 31701,
+          "listed_count": 10,
+          "media_count": 1639,
+          "tweet_count": 23298
+        },
+        "username": "aozn24428",
+        "verified": false
+      }
+    ]
+  }
+}

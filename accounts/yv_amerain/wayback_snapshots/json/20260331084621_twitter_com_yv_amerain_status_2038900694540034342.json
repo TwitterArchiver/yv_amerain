@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038899407618441216",
+        "3_2038899407660453888",
+        "3_2038900450205085697",
+        "3_2038900448602853376"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038900694540034342",
+    "created_at": "2026-03-31T08:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038900694540034342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mzaF2GZDOw",
+          "end": 78,
+          "expanded_url": "https://x.com/yv_amerain/status/2038900694540034342/photo/1",
+          "media_key": "3_2038899407618441216",
+          "start": 55,
+          "url": "https://t.co/mzaF2GZDOw"
+        },
+        {
+          "display_url": "pic.x.com/mzaF2GZDOw",
+          "end": 78,
+          "expanded_url": "https://x.com/yv_amerain/status/2038900694540034342/photo/1",
+          "media_key": "3_2038899407660453888",
+          "start": 55,
+          "url": "https://t.co/mzaF2GZDOw"
+        },
+        {
+          "display_url": "pic.x.com/mzaF2GZDOw",
+          "end": 78,
+          "expanded_url": "https://x.com/yv_amerain/status/2038900694540034342/photo/1",
+          "media_key": "3_2038900450205085697",
+          "start": 55,
+          "url": "https://t.co/mzaF2GZDOw"
+        },
+        {
+          "display_url": "pic.x.com/mzaF2GZDOw",
+          "end": 78,
+          "expanded_url": "https://x.com/yv_amerain/status/2038900694540034342/photo/1",
+          "media_key": "3_2038900448602853376",
+          "start": 55,
+          "url": "https://t.co/mzaF2GZDOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038900694540034342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家叫我小雨就好了，17岁，我有心理疾病，抑郁，焦虑，这个账号会发一些我日常的生活还有cos，我很穷请资助我 https://t.co/mzaF2GZDOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2316,
+        "media_key": "3_2038899407618441216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEugNWvaAAAdVb_.jpg",
+        "width": 1737
+      },
+      {
+        "height": 2774,
+        "media_key": "3_2038899407660453888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEugNW5bEAAPY-F.jpg",
+        "width": 2081
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2038900450205085697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuhKCrbsAE02pY.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2038900448602853376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuhJ8tbkAAI_0o.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038899407618441216",
+            "3_2038899407660453888",
+            "3_2038900450205085697",
+            "3_2038900448602853376"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038900694540034342",
+        "created_at": "2026-03-31T08:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038900694540034342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzaF2GZDOw",
+              "end": 78,
+              "expanded_url": "https://x.com/yv_amerain/status/2038900694540034342/photo/1",
+              "media_key": "3_2038899407618441216",
+              "start": 55,
+              "url": "https://t.co/mzaF2GZDOw"
+            },
+            {
+              "display_url": "pic.x.com/mzaF2GZDOw",
+              "end": 78,
+              "expanded_url": "https://x.com/yv_amerain/status/2038900694540034342/photo/1",
+              "media_key": "3_2038899407660453888",
+              "start": 55,
+              "url": "https://t.co/mzaF2GZDOw"
+            },
+            {
+              "display_url": "pic.x.com/mzaF2GZDOw",
+              "end": 78,
+              "expanded_url": "https://x.com/yv_amerain/status/2038900694540034342/photo/1",
+              "media_key": "3_2038900450205085697",
+              "start": 55,
+              "url": "https://t.co/mzaF2GZDOw"
+            },
+            {
+              "display_url": "pic.x.com/mzaF2GZDOw",
+              "end": 78,
+              "expanded_url": "https://x.com/yv_amerain/status/2038900694540034342/photo/1",
+              "media_key": "3_2038900448602853376",
+              "start": 55,
+              "url": "https://t.co/mzaF2GZDOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038900694540034342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家叫我小雨就好了，17岁，我有心理疾病，抑郁，焦虑，这个账号会发一些我日常的生活还有cos，我很穷请资助我 https://t.co/mzaF2GZDOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（挂壁版）",
+        "pinned_tweet_id": "2037580224976896151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038867415350878209/siJ576jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4344,
+          "following_count": 429,
+          "like_count": 7784,
+          "listed_count": 7,
+          "media_count": 299,
+          "tweet_count": 3855
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

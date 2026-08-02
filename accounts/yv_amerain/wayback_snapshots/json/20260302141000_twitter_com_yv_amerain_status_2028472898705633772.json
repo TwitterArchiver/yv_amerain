@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2028458710042063043",
+    "created_at": "2026-03-02T14:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028472898705633772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713713115270139904",
+          "start": 0,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028472898705633772",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028458710042063043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirochankawa1 咋这么帅🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2028458696402141184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaIb-iaAAAA1es.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2028458696389562368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaIb-faEAAWg4Y.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2028458710042063043",
+        "created_at": "2026-03-02T14:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028472898705633772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028472898705633772",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028458710042063043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 咋这么帅🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028458696402141184",
+            "3_2028458696389562368"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2028458710042063043",
+        "created_at": "2026-03-02T13:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028458710042063043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wB4wQcKI52",
+              "end": 27,
+              "expanded_url": "https://x.com/shirochankawa1/status/2028458710042063043/photo/1",
+              "media_key": "3_2028458696402141184",
+              "start": 4,
+              "url": "https://t.co/wB4wQcKI52"
+            },
+            {
+              "display_url": "pic.x.com/wB4wQcKI52",
+              "end": 27,
+              "expanded_url": "https://x.com/shirochankawa1/status/2028458710042063043/photo/1",
+              "media_key": "3_2028458696389562368",
+              "start": 4,
+              "url": "https://t.co/wB4wQcKI52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028458710042063043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯素颜 https://t.co/wB4wQcKI52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕//月亮计划 东方project  十二神器 魂系游戏 日恐还有一些老ip///🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ //小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 549,
+          "like_count": 7438,
+          "listed_count": 8,
+          "media_count": 322,
+          "tweet_count": 3743
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 2001,
+          "like_count": 66299,
+          "listed_count": 8,
+          "media_count": 1567,
+          "tweet_count": 10504
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

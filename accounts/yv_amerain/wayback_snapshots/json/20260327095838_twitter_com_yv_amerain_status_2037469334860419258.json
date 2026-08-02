@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2037451280340353099",
+    "created_at": "2026-03-27T09:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037469334860419258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1487797857197629440",
+          "start": 0,
+          "username": "stigmata_8964"
+        },
+        {
+          "end": 25,
+          "id": "1580505223071641600",
+          "start": 15,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037469334860419258",
+    "in_reply_to_user_id": "1487797857197629440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037455203503661215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stigmata_8964 @qwq_shark 真的假的？叫什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2037451280340353099",
+        "created_at": "2026-03-27T09:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037469334860419258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1487797857197629440",
+              "start": 0,
+              "username": "stigmata_8964"
+            },
+            {
+              "end": 25,
+              "id": "1580505223071641600",
+              "start": 15,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037469334860419258",
+        "in_reply_to_user_id": "1487797857197629440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037455203503661215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stigmata_8964 @qwq_shark 真的假的？叫什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487797857197629440",
+        "conversation_id": "2037451280340353099",
+        "created_at": "2026-03-27T09:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037455203503661215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037455203503661215",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037451280340353099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 电脑端有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//置顶为了引流那样写的//我很穷请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 亚文化//喜欢素晴日//cos//碎碎念//什么都发//od//我有心理疾病不要跟我计较//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（忧郁神）",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 428,
+          "like_count": 7805,
+          "listed_count": 7,
+          "media_count": 307,
+          "tweet_count": 3898
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T14:40:34.000Z",
+        "description": "精神まで破壊するという 残虐な行為が好きな辺り,#shtwt⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "shtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/profiles/76561…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/profiles/76561199426519828/",
+                "start": 0,
+                "url": "https://t.co/5fZzz7G5Fj"
+              }
+            ]
+          }
+        },
+        "id": "1487797857197629440",
+        "location": "Hell",
+        "name": "影の王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885603238491414537/m1Sg_cKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 677,
+          "like_count": 13311,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 3827
+        },
+        "url": "https://t.co/5fZzz7G5Fj",
+        "username": "stigmata_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "我是小惨｜好朋友@Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004159569296257024/zWPqcwet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5481,
+          "following_count": 351,
+          "like_count": 3549,
+          "listed_count": 6,
+          "media_count": 596,
+          "tweet_count": 12754
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

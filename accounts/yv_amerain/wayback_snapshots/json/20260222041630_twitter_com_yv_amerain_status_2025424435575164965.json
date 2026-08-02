@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025230268278448128"
+      ],
+      "media_source_tweet_id": [
+        "2025230283109498887"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025424435575164965",
+    "created_at": "2026-02-22T04:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025424435575164965"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "原相",
+          "probability": 0.7352,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713713115270139904",
+          "start": 3,
+          "username": "shirochankawa1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1seI5LcE1o",
+          "end": 47,
+          "expanded_url": "https://x.com/shirochankawa1/status/2025230283109498887/photo/1",
+          "media_key": "3_2025230268278448128",
+          "start": 24,
+          "url": "https://t.co/1seI5LcE1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025424435575164965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025230283109498887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shirochankawa1: 原相机 https://t.co/1seI5LcE1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2025230268278448128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsQMukbIAAVia6.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025230268278448128"
+          ],
+          "media_source_tweet_id": [
+            "2025230283109498887"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025424435575164965",
+        "created_at": "2026-02-22T04:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025424435575164965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "原相",
+              "probability": 0.7352,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1713713115270139904",
+              "start": 3,
+              "username": "shirochankawa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1seI5LcE1o",
+              "end": 47,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025230283109498887/photo/1",
+              "media_key": "3_2025230268278448128",
+              "start": 24,
+              "url": "https://t.co/1seI5LcE1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025424435575164965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025230283109498887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shirochankawa1: 原相机 https://t.co/1seI5LcE1o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025230268278448128"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2025230283109498887",
+        "created_at": "2026-02-21T15:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025230283109498887"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "原相",
+              "probability": 0.7468,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1seI5LcE1o",
+              "end": 27,
+              "expanded_url": "https://x.com/shirochankawa1/status/2025230283109498887/photo/1",
+              "media_key": "3_2025230268278448128",
+              "start": 4,
+              "url": "https://t.co/1seI5LcE1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025230283109498887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原相机 https://t.co/1seI5LcE1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 551,
+          "like_count": 7205,
+          "listed_count": 8,
+          "media_count": 307,
+          "tweet_count": 3651
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 1991,
+          "like_count": 65311,
+          "listed_count": 8,
+          "media_count": 1522,
+          "tweet_count": 10245
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

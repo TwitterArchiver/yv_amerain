@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2049844649091850549",
+    "created_at": "2026-05-02T05:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050448975975907750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009471531555147776",
+          "start": 0,
+          "username": "Kurimo_C100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050448975975907750",
+    "in_reply_to_user_id": "2009471531555147776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049844649091850549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kurimo_C100 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42966,
+        "height": 720,
+        "media_key": "13_2049844496314388480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049844496314388480/img/Db8tBWWLtHfbRcWV.jpg",
+        "public_metrics": {
+          "view_count": 1211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049844496314388480/vid/avc1/360x270/3HxvIuvI0-tu9NVG.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049844496314388480/vid/avc1/480x360/SykJQCdwSnOaFV0B.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049844496314388480/vid/avc1/960x720/A5MbVnk_JooQ_hmI.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049844496314388480/pl/kgchx-VRmtSo53z9.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2049844649091850549",
+        "created_at": "2026-05-02T05:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050448975975907750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009471531555147776",
+              "start": 0,
+              "username": "Kurimo_C100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050448975975907750",
+        "in_reply_to_user_id": "2009471531555147776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049844649091850549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kurimo_C100 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049844496314388480"
+          ]
+        },
+        "author_id": "2009471531555147776",
+        "conversation_id": "2049844649091850549",
+        "created_at": "2026-04-30T13:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049844649091850549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "さいはて駅"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "さいはて駅FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OB5Ux5fthR",
+              "end": 47,
+              "expanded_url": "https://x.com/Kurimo_C100/status/2049844649091850549/video/1",
+              "media_key": "13_2049844496314388480",
+              "start": 24,
+              "url": "https://t.co/OB5Ux5fthR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049844649091850549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 3939,
+          "like_count": 471,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "蘋果派烤焦了。\n#さいはて駅\n#さいはて駅FA https://t.co/OB5Ux5fthR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049144233530105856/xv8hJFad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 443,
+          "like_count": 8256,
+          "listed_count": 7,
+          "media_count": 321,
+          "tweet_count": 4006
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T03:45:31.000Z",
+        "description": "🇨🇳｜私は自分の好きなものを創作します\n這裡不經常使用m(_ _)m墙内隨緣搬點同人過來",
+        "id": "2009471531555147776",
+        "name": "eme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048334504172118017/CLLf_G68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 30,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "Kurimo_C100",
+        "verified": false
+      }
+    ]
+  }
+}

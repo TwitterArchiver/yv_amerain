@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026552204681949189"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2026552212433023474",
+    "created_at": "2026-02-25T06:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T07:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026552212433023474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uuDVqCRsnv",
+          "end": 44,
+          "expanded_url": "https://x.com/yv_amerain/status/2026552212433023474/photo/1",
+          "media_key": "3_2026552204681949189",
+          "start": 21,
+          "url": "https://t.co/uuDVqCRsnv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026552212433023474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想出高岛拓榴，没钱我就跳了，马太螺旋了 https://t.co/uuDVqCRsnv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2026552204681949189",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_CfjbaMAU-QdM.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026552204681949189"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2026552212433023474",
+        "created_at": "2026-02-25T06:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026552212433023474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuDVqCRsnv",
+              "end": 44,
+              "expanded_url": "https://x.com/yv_amerain/status/2026552212433023474/photo/1",
+              "media_key": "3_2026552204681949189",
+              "start": 21,
+              "url": "https://t.co/uuDVqCRsnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026552212433023474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想出高岛拓榴，没钱我就跳了，马太螺旋了 https://t.co/uuDVqCRsnv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 558,
+          "like_count": 7321,
+          "listed_count": 8,
+          "media_count": 317,
+          "tweet_count": 3703
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

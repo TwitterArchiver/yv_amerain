@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2059225047781528006",
+    "created_at": "2026-05-26T16:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059309298711433727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713713115270139904",
+          "start": 0,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059309298711433727",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059225047781528006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirochankawa1 对对对，非常的恐怖，主要我自己的事情又没惹到，就是你不爽了就要骂了我两句，就很莫名其妙........就是他们有一种优越感吧......."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2059225047781528006",
+        "created_at": "2026-05-26T16:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059309298711433727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059309298711433727",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059225047781528006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 对对对，非常的恐怖，主要我自己的事情又没惹到，就是你不爽了就要骂了我两句，就很莫名其妙........就是他们有一种优越感吧......."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059225047781528006",
+        "created_at": "2026-05-26T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059225047781528006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059225047781528006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2726,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "真的不要小看恶评的威力…我社交平台但凡收到一条恶评都会感觉整个人浑身发抖根本不敢想象那种成千上万的恶评和帖子对一个没有受过互联网脱敏训练的人有多恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//对不起我之前做的一切对不起......",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058158079544627200/Fqgf3dCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4774,
+          "following_count": 471,
+          "like_count": 9079,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 4208
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 2095,
+          "like_count": 70101,
+          "listed_count": 8,
+          "media_count": 1725,
+          "tweet_count": 11635
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

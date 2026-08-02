@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051357877127069696"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2051357925634146750",
+    "created_at": "2026-05-04T17:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051357925634146750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8UGFdOACDE",
+          "end": 66,
+          "expanded_url": "https://x.com/yv_amerain/status/2051357925634146750/video/1",
+          "media_key": "7_2051357877127069696",
+          "start": 43,
+          "url": "https://t.co/8UGFdOACDE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051357925634146750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老师你们是不是柜子，我们出的是日和飒还有那个小琪舞呀（其实没有cos，模仿的那个头七 https://t.co/8UGFdOACDE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17275,
+        "height": 1264,
+        "media_key": "7_2051357877127069696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051357877127069696/pu/img/CbEhfrSKDrbRA9JP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051357877127069696/pu/vid/avc1/320x616/4s2O2flQ11CyvqXK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051357877127069696/pu/vid/avc1/480x924/VhpGFoorzSAxeTDW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051357877127069696/pu/vid/avc1/656x1264/EKB2AbCl7iYgwo0y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051357877127069696/pu/pl/pZ0vqpHdpn7xjCqp.m3u8?tag=12"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051357877127069696"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2051357925634146750",
+        "created_at": "2026-05-04T17:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051357925634146750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UGFdOACDE",
+              "end": 66,
+              "expanded_url": "https://x.com/yv_amerain/status/2051357925634146750/video/1",
+              "media_key": "7_2051357877127069696",
+              "start": 43,
+              "url": "https://t.co/8UGFdOACDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051357925634146750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师你们是不是柜子，我们出的是日和飒还有那个小琪舞呀（其实没有cos，模仿的那个头七 https://t.co/8UGFdOACDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface///亚文化//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 446,
+          "like_count": 8345,
+          "listed_count": 9,
+          "media_count": 329,
+          "tweet_count": 4032
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

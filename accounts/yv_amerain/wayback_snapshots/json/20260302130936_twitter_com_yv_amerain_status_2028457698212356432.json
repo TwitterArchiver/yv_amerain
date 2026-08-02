@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2028457698212356432",
+    "created_at": "2026-03-02T13:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028457698212356432"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028457698212356432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人今年14，上初二了，喜欢素晴日，哲学，鉴真，大概是25年快结束的时候，我疯狂痴迷上哲学（后面忘了，总之文案我偷的太长了，我复制不下来）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2028457698212356432",
+        "created_at": "2026-03-02T13:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028457698212356432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028457698212356432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人今年14，上初二了，喜欢素晴日，哲学，鉴真，大概是25年快结束的时候，我疯狂痴迷上哲学（后面忘了，总之文案我偷的太长了，我复制不下来）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕//月亮计划 东方project  十二神器 魂系游戏 日恐还有一些老ip///🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ //小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3944,
+          "following_count": 549,
+          "like_count": 7436,
+          "listed_count": 8,
+          "media_count": 322,
+          "tweet_count": 3742
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055269241897766913",
+        "3_2055269237598633985"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2055269245219643598",
+    "created_at": "2026-05-15T12:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055269245219643598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xdMft63oJj",
+          "end": 88,
+          "expanded_url": "https://x.com/yv_amerain/status/2055269245219643598/photo/1",
+          "media_key": "3_2055269241897766913",
+          "start": 65,
+          "url": "https://t.co/xdMft63oJj"
+        },
+        {
+          "display_url": "pic.x.com/xdMft63oJj",
+          "end": 88,
+          "expanded_url": "https://x.com/yv_amerain/status/2055269245219643598/photo/1",
+          "media_key": "3_2055269237598633985",
+          "start": 65,
+          "url": "https://t.co/xdMft63oJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055269245219643598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点  不喜欢别人叫我男娘\n偶尔会发一些血图和负能 对不起\n感谢喜欢呀 https://t.co/xdMft63oJj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2055269241897766913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXIfHkaUAEVETt.jpg",
+        "width": 1114
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2055269237598633985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXIe3jawAExniu.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055269241897766913",
+            "3_2055269237598633985"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2055269245219643598",
+        "created_at": "2026-05-15T12:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055269245219643598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdMft63oJj",
+              "end": 88,
+              "expanded_url": "https://x.com/yv_amerain/status/2055269245219643598/photo/1",
+              "media_key": "3_2055269241897766913",
+              "start": 65,
+              "url": "https://t.co/xdMft63oJj"
+            },
+            {
+              "display_url": "pic.x.com/xdMft63oJj",
+              "end": 88,
+              "expanded_url": "https://x.com/yv_amerain/status/2055269245219643598/photo/1",
+              "media_key": "3_2055269237598633985",
+              "start": 65,
+              "url": "https://t.co/xdMft63oJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055269245219643598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点  不喜欢别人叫我男娘\n偶尔会发一些血图和负能 对不起\n感谢喜欢呀 https://t.co/xdMft63oJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055269245219643598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4590,
+          "following_count": 455,
+          "like_count": 8684,
+          "listed_count": 7,
+          "media_count": 346,
+          "tweet_count": 4118
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

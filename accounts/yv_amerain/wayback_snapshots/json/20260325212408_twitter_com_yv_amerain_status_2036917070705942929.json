@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036917068457824256"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2036917070705942929",
+    "created_at": "2026-03-25T21:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T22:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036917070705942929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fzLNyjKXLB",
+          "end": 71,
+          "expanded_url": "https://x.com/yv_amerain/status/2036917070705942929/photo/1",
+          "media_key": "3_2036917068457824256",
+          "start": 48,
+          "url": "https://t.co/fzLNyjKXLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036917070705942929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "魔裁沟毁我日牌梦，本来钱差不多够了，我想把男娘标签撤了，都怪这个人，让我损失600多，贱沟一条 https://t.co/fzLNyjKXLB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2036917068457824256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HESVSB5b0AAO3e6.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036917068457824256"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2036917070705942929",
+        "created_at": "2026-03-25T21:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T22:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036917070705942929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzLNyjKXLB",
+              "end": 71,
+              "expanded_url": "https://x.com/yv_amerain/status/2036917070705942929/photo/1",
+              "media_key": "3_2036917068457824256",
+              "start": 48,
+              "url": "https://t.co/fzLNyjKXLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036917070705942929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔裁沟毁我日牌梦，本来钱差不多够了，我想把男娘标签撤了，都怪这个人，让我损失600多，贱沟一条 https://t.co/fzLNyjKXLB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//置顶为了引流那样写的//我很穷请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 亚文化//喜欢素晴日//cos//碎碎念//什么都发//od//我有心理疾病不要跟我计较//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（忧郁神）",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 429,
+          "like_count": 7785,
+          "listed_count": 7,
+          "media_count": 305,
+          "tweet_count": 3887
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

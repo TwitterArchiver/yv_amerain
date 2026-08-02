@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2063583290871926923",
+    "created_at": "2026-06-07T11:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063583290871926923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yvame_rain/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yvame_rain/status/2063189968592457847",
+          "start": 12,
+          "url": "https://t.co/v7VxYtUiXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063583290871926923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063189968592457847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关注我这个新账号谢谢喵 https://t.co/v7VxYtUiXc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2063189964364632064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHsV2Ia0AA8wYn.jpg",
+        "width": 1122
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2063189965887176704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHsV7zbAAA7Xjd.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2063583290871926923",
+        "created_at": "2026-06-07T11:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063583290871926923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yvame_rain/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yvame_rain/status/2063189968592457847",
+              "start": 12,
+              "url": "https://t.co/v7VxYtUiXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063583290871926923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063189968592457847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注我这个新账号谢谢喵 https://t.co/v7VxYtUiXc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063189964364632064",
+            "3_2063189965887176704"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063189968592457847",
+        "created_at": "2026-06-06T09:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063189968592457847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVw8mEkAHJ",
+              "end": 97,
+              "expanded_url": "https://x.com/yvame_rain/status/2063189968592457847/photo/1",
+              "media_key": "3_2063189964364632064",
+              "start": 74,
+              "url": "https://t.co/dVw8mEkAHJ"
+            },
+            {
+              "display_url": "pic.x.com/dVw8mEkAHJ",
+              "end": 97,
+              "expanded_url": "https://x.com/yvame_rain/status/2063189968592457847/photo/1",
+              "media_key": "3_2063189965887176704",
+              "start": 74,
+              "url": "https://t.co/dVw8mEkAHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063189968592457847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 436,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小雨  09  ip湖北武汉\n有心理疾病 什么都玩一点点 喜欢我的话可以资助我\n大号发了太多负能暂停使用了，这个号我会正常发东西\n感谢喜欢呀 https://t.co/dVw8mEkAHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "此号不用了，拜拜，再见，关注我另一个号@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2063190168786661450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 488,
+          "like_count": 9270,
+          "listed_count": 8,
+          "media_count": 360,
+          "tweet_count": 4224
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 41,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 15
+        },
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

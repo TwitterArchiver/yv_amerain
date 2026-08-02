@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054361060497616896"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054361072908562565",
+    "created_at": "2026-05-13T00:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054361072908562565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1hNBuxa6Jx",
+          "end": 164,
+          "expanded_url": "https://x.com/yv_amerain/status/2054361072908562565/photo/1",
+          "media_key": "3_2054361060497616896",
+          "start": 141,
+          "url": "https://t.co/1hNBuxa6Jx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054361072908562565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这个前男友找的这个三次妹肥猪，想离间我朋友觉得她土，爱收集蜜雪冰城周边拼多多买衣服土的要死，16岁辍学在家自己没社交，还说自己成熟，还说感觉什么地雷系这些人就是嗑药磕傻了啥，还有就是那个男的还给这个肥猪倒贴钱，我对男的我愿意给他花钱，你知道我为什么不玩这些穿搭吗因为我给傻逼花钱 https://t.co/1hNBuxa6Jx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_2054361060497616896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKOgANa8AAdBZP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054361060497616896"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054361072908562565",
+        "created_at": "2026-05-13T00:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054361072908562565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hNBuxa6Jx",
+              "end": 164,
+              "expanded_url": "https://x.com/yv_amerain/status/2054361072908562565/photo/1",
+              "media_key": "3_2054361060497616896",
+              "start": 141,
+              "url": "https://t.co/1hNBuxa6Jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054361072908562565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个前男友找的这个三次妹肥猪，想离间我朋友觉得她土，爱收集蜜雪冰城周边拼多多买衣服土的要死，16岁辍学在家自己没社交，还说自己成熟，还说感觉什么地雷系这些人就是嗑药磕傻了啥，还有就是那个男的还给这个肥猪倒贴钱，我对男的我愿意给他花钱，你知道我为什么不玩这些穿搭吗因为我给傻逼花钱 https://t.co/1hNBuxa6Jx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2054107599151542362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 456,
+          "like_count": 8552,
+          "listed_count": 7,
+          "media_count": 339,
+          "tweet_count": 4093
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

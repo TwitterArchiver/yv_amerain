@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050449843416608768"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2050449852077941106",
+    "created_at": "2026-05-02T05:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050449852077941106"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "PJSK"
+        },
+        {
+          "end": 11,
+          "start": 6,
+          "tag": "晓山瑞希"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfFM9tFREX",
+          "end": 35,
+          "expanded_url": "https://x.com/yv_amerain/status/2050449852077941106/photo/1",
+          "media_key": "3_2050449843416608768",
+          "start": 12,
+          "url": "https://t.co/MfFM9tFREX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050449852077941106",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#PJSK #晓山瑞希 https://t.co/MfFM9tFREX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2050449843416608768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSpRNKaMAAexBf.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050449843416608768"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2050449852077941106",
+        "created_at": "2026-05-02T05:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050449852077941106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "PJSK"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "晓山瑞希"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfFM9tFREX",
+              "end": 35,
+              "expanded_url": "https://x.com/yv_amerain/status/2050449852077941106/photo/1",
+              "media_key": "3_2050449843416608768",
+              "start": 12,
+              "url": "https://t.co/MfFM9tFREX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050449852077941106",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#PJSK #晓山瑞希 https://t.co/MfFM9tFREX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049144233530105856/xv8hJFad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 443,
+          "like_count": 8256,
+          "listed_count": 7,
+          "media_count": 322,
+          "tweet_count": 4007
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

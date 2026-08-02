@@ -1,0 +1,20 @@
+{
+  "name": "雨",
+  "username": "@yv_amerain",
+  "bio": "此号不怎么用了，就发点碎碎念负能，关注我另一个号正常更新@yvame_rain",
+  "location": "武汉",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 39,
+        "start": 28,
+        "username": "yvame_rain"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg"
+}

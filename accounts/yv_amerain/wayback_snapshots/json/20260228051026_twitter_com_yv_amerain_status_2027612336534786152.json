@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2027612336534786152",
+    "created_at": "2026-02-28T05:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027612336534786152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rednightmare96…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/rednightmare962/status/2027525154637811950",
+          "start": 7,
+          "url": "https://t.co/uZbohRFBqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027612336534786152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027525154637811950",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁能帮一下啊 https://t.co/uZbohRFBqD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027525146270105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCM3YNSaAAAQs78.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2027612336534786152",
+        "created_at": "2026-02-28T05:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027612336534786152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rednightmare96…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/rednightmare962/status/2027525154637811950",
+              "start": 7,
+              "url": "https://t.co/uZbohRFBqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027612336534786152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027525154637811950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能帮一下啊 https://t.co/uZbohRFBqD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027525146270105600"
+          ]
+        },
+        "author_id": "1601470531349274625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027525154637811950",
+        "created_at": "2026-02-27T23:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T00:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027525154637811950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zTIoVkaHVi",
+              "end": 26,
+              "expanded_url": "https://x.com/rednightmare962/status/2027525154637811950/photo/1",
+              "media_key": "3_2027525146270105600",
+              "start": 3,
+              "url": "https://t.co/zTIoVkaHVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027525154637811950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 289,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/zTIoVkaHVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕//月亮计划 东方project  十二神器 魂系游戏 日恐还有一些老ip///🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ //小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3943,
+          "following_count": 550,
+          "like_count": 7397,
+          "listed_count": 8,
+          "media_count": 318,
+          "tweet_count": 3732
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T06:55:11.000Z",
+        "description": "mtx",
+        "id": "1601470531349274625",
+        "name": "云",
+        "pinned_tweet_id": "2025445357220757573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857101239806300161/qPP42yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 327,
+          "like_count": 7448,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 3829
+        },
+        "username": "rednightmare962",
+        "verified": false
+      }
+    ]
+  }
+}

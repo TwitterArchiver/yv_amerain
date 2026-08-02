@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2029253357752467783",
+    "created_at": "2026-03-04T17:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T18:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029253357752467783"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029253357752467783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨厌虚假之物，没有办法，我认识的女生明明很少有给自己搞的很可爱贴合男生爱好的，而我这种女装像被关注就要努力去贴合，变可爱性格也要媚点，恶心，因为我是男生所以如果只是女装这些木柜子还有二游百合这些被在意，没有人问过我喜欢什么，大家不会去了解，是女生他们就会了解，人类好恶心....不理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2029253357752467783",
+        "created_at": "2026-03-04T17:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029253357752467783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029253357752467783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌虚假之物，没有办法，我认识的女生明明很少有给自己搞的很可爱贴合男生爱好的，而我这种女装像被关注就要努力去贴合，变可爱性格也要媚点，恶心，因为我是男生所以如果只是女装这些木柜子还有二游百合这些被在意，没有人问过我喜欢什么，大家不会去了解，是女生他们就会了解，人类好恶心....不理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//月亮计划 东方project  十二神器 魂系游戏 日恐还有一些老ip///🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 548,
+          "like_count": 7494,
+          "listed_count": 8,
+          "media_count": 326,
+          "tweet_count": 3763
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

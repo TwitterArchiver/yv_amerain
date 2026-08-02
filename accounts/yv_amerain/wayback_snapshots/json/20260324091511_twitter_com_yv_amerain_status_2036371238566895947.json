@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036349409785524224",
+        "3_2036349416144011264"
+      ],
+      "media_source_tweet_id": [
+        "2036349438919069778",
+        "2036349438919069778"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2036371238566895947",
+    "created_at": "2026-03-24T09:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036371238566895947"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 57,
+          "tag": "fgocos"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "fgo"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "カドック"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "卡多克"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1567903529943339009",
+          "start": 3,
+          "username": "_gray_dust_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XUzSIOjn9g",
+          "end": 104,
+          "expanded_url": "https://x.com/_gray_dust_/status/2036349438919069778/photo/1",
+          "media_key": "3_2036349409785524224",
+          "start": 81,
+          "url": "https://t.co/XUzSIOjn9g"
+        },
+        {
+          "display_url": "pic.x.com/XUzSIOjn9g",
+          "end": 104,
+          "expanded_url": "https://x.com/_gray_dust_/status/2036349438919069778/photo/1",
+          "media_key": "3_2036349416144011264",
+          "start": 81,
+          "url": "https://t.co/XUzSIOjn9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036371238566895947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036349438919069778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_gray_dust_: ←原图   成片→\n我就这么使用幻术（骗你的真的不好看的原片是不会放出来的（）\n#fgocos #fgo #カドック #卡多克 https://t.co/XUzSIOjn9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036349409785524224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKQ_8jXsAAGo-7.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036349416144011264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKRAUPWgAAZrny.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036349409785524224",
+            "3_2036349416144011264"
+          ],
+          "media_source_tweet_id": [
+            "2036349438919069778",
+            "2036349438919069778"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2036371238566895947",
+        "created_at": "2026-03-24T09:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036371238566895947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "fgocos"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "fgo"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "カドック"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "卡多克"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1567903529943339009",
+              "start": 3,
+              "username": "_gray_dust_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUzSIOjn9g",
+              "end": 104,
+              "expanded_url": "https://x.com/_gray_dust_/status/2036349438919069778/photo/1",
+              "media_key": "3_2036349409785524224",
+              "start": 81,
+              "url": "https://t.co/XUzSIOjn9g"
+            },
+            {
+              "display_url": "pic.x.com/XUzSIOjn9g",
+              "end": 104,
+              "expanded_url": "https://x.com/_gray_dust_/status/2036349438919069778/photo/1",
+              "media_key": "3_2036349416144011264",
+              "start": 81,
+              "url": "https://t.co/XUzSIOjn9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036371238566895947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036349438919069778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_gray_dust_: ←原图   成片→\n我就这么使用幻术（骗你的真的不好看的原片是不会放出来的（）\n#fgocos #fgo #カドック #卡多克 https://t.co/XUzSIOjn9g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036349409785524224",
+            "3_2036349416144011264"
+          ]
+        },
+        "author_id": "1567903529943339009",
+        "conversation_id": "2036349438919069778",
+        "created_at": "2026-03-24T07:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036349438919069778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "fgocos"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "fgo"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "カドック"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "卡多克"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUzSIOjn9g",
+              "end": 87,
+              "expanded_url": "https://x.com/_gray_dust_/status/2036349438919069778/photo/1",
+              "media_key": "3_2036349409785524224",
+              "start": 64,
+              "url": "https://t.co/XUzSIOjn9g"
+            },
+            {
+              "display_url": "pic.x.com/XUzSIOjn9g",
+              "end": 87,
+              "expanded_url": "https://x.com/_gray_dust_/status/2036349438919069778/photo/1",
+              "media_key": "3_2036349416144011264",
+              "start": 64,
+              "url": "https://t.co/XUzSIOjn9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036349438919069778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "←原图   成片→\n我就这么使用幻术（骗你的真的不好看的原片是不会放出来的（）\n#fgocos #fgo #カドック #卡多克 https://t.co/XUzSIOjn9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//置顶为了引流那样写的//我很穷请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 亚文化//喜欢素晴日//cos//碎碎念//什么都发//od//我是一个有心理疾病的人//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 158,
+                "start": 148,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4356,
+          "following_count": 426,
+          "like_count": 7755,
+          "listed_count": 7,
+          "media_count": 306,
+          "tweet_count": 3871
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T15:52:12.000Z",
+        "description": "❗❗❗❗本账号含有🔞❗❗❗❗\nFGO牢玩家。混杂大量日常/吐槽/黑泥/抽象擦边文案/偶尔还会传个一两张cos照❗但主要还是拿来看涩涩的号，请务必分辨清楚闲聊完全OK！虽然本人有点社恐很难主动开启话题（）点了follow的话可能会来视坚你👁️👁️（？）需要互fo直接私信踹我就好\n那么有没有可爱的男孩子呢🤤🤤🤤",
+        "id": "1567903529943339009",
+        "location": "南极洲迦勒底",
+        "name": "Dust",
+        "pinned_tweet_id": "1925368369978486871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880178391338319872/RqDR6zuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 318,
+          "like_count": 35359,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 11102
+        },
+        "username": "_gray_dust_",
+        "verified": false
+      }
+    ]
+  }
+}

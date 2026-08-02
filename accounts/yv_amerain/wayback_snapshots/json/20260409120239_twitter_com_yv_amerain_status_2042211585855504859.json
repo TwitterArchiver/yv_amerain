@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042211566855352320",
+        "3_2042211570051411968"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042211585855504859",
+    "created_at": "2026-04-09T12:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042211585855504859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DMGFeFFiBk",
+          "end": 23,
+          "expanded_url": "https://x.com/yv_amerain/status/2042211585855504859/photo/1",
+          "media_key": "3_2042211566855352320",
+          "start": 0,
+          "url": "https://t.co/DMGFeFFiBk"
+        },
+        {
+          "display_url": "pic.x.com/DMGFeFFiBk",
+          "end": 23,
+          "expanded_url": "https://x.com/yv_amerain/status/2042211585855504859/photo/1",
+          "media_key": "3_2042211570051411968",
+          "start": 0,
+          "url": "https://t.co/DMGFeFFiBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042211585855504859",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/DMGFeFFiBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042211566855352320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdkmZabcAA04JW.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2042211570051411968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdkmlUbcAAD6UY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042211566855352320",
+            "3_2042211570051411968"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042211585855504859",
+        "created_at": "2026-04-09T12:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042211585855504859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMGFeFFiBk",
+              "end": 23,
+              "expanded_url": "https://x.com/yv_amerain/status/2042211585855504859/photo/1",
+              "media_key": "3_2042211566855352320",
+              "start": 0,
+              "url": "https://t.co/DMGFeFFiBk"
+            },
+            {
+              "display_url": "pic.x.com/DMGFeFFiBk",
+              "end": 23,
+              "expanded_url": "https://x.com/yv_amerain/status/2042211585855504859/photo/1",
+              "media_key": "3_2042211570051411968",
+              "start": 0,
+              "url": "https://t.co/DMGFeFFiBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042211585855504859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DMGFeFFiBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041958345683431426/whKF3uRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4295,
+          "following_count": 428,
+          "like_count": 7801,
+          "listed_count": 7,
+          "media_count": 301,
+          "tweet_count": 3871
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

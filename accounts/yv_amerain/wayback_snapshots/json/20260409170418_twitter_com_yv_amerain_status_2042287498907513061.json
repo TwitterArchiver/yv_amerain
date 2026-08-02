@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2042287498907513061",
+    "created_at": "2026-04-09T17:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042287498907513061"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042287498907513061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也想与自己和解，我是药娘又怎么样，我一直很在意我的身份，我也觉得药娘这个群体很奇怪，我真的不希望自己是，我也想出男角色因为我喜欢男生吧加上我列表的原因，可是女生再怎么样都是女生，出男的也会有男生喜欢，我不太行，而且男生出男角色其实给人的感觉是耍帅.....我好焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2042287498907513061",
+        "created_at": "2026-04-09T17:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042287498907513061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042287498907513061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想与自己和解，我是药娘又怎么样，我一直很在意我的身份，我也觉得药娘这个群体很奇怪，我真的不希望自己是，我也想出男角色因为我喜欢男生吧加上我列表的原因，可是女生再怎么样都是女生，出男的也会有男生喜欢，我不太行，而且男生出男角色其实给人的感觉是耍帅.....我好焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041958345683431426/whKF3uRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4295,
+          "following_count": 428,
+          "like_count": 7817,
+          "listed_count": 7,
+          "media_count": 301,
+          "tweet_count": 3873
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

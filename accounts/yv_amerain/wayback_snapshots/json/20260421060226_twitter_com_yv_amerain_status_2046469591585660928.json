@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046167246796410882"
+      ],
+      "media_source_tweet_id": [
+        "2046167258154590610"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2046469591585660928",
+    "created_at": "2026-04-21T06:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046469591585660928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844572563235536910",
+          "start": 3,
+          "username": "meikoena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YoXSD4NyxX",
+          "end": 52,
+          "expanded_url": "https://x.com/meikoena/status/2046167258154590610/video/1",
+          "media_key": "7_2046167246796410882",
+          "start": 29,
+          "url": "https://t.co/YoXSD4NyxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046469591585660928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046167258154590610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meikoena: えにゃん🐱かわいいえにゃん！ https://t.co/YoXSD4NyxX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1834,
+        "height": 720,
+        "media_key": "7_2046167246796410882",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046167246796410882/pu/img/Zr784HuvXNM9xUnR.jpg",
+        "public_metrics": {
+          "view_count": 1804
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046167246796410882/pu/vid/avc1/320x320/maTyeWb96OiI1Ntm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046167246796410882/pu/vid/avc1/540x540/qeqaqFfkpjJNDwA7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046167246796410882/pu/vid/avc1/720x720/OqqjEgEcplz3qI7P.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046167246796410882/pu/pl/7jAo-wNZu0kgegXy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046167246796410882"
+          ],
+          "media_source_tweet_id": [
+            "2046167258154590610"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2046469591585660928",
+        "created_at": "2026-04-21T06:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046469591585660928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844572563235536910",
+              "start": 3,
+              "username": "meikoena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoXSD4NyxX",
+              "end": 52,
+              "expanded_url": "https://x.com/meikoena/status/2046167258154590610/video/1",
+              "media_key": "7_2046167246796410882",
+              "start": 29,
+              "url": "https://t.co/YoXSD4NyxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046469591585660928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046167258154590610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meikoena: えにゃん🐱かわいいえにゃん！ https://t.co/YoXSD4NyxX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046167246796410882"
+          ]
+        },
+        "author_id": "1844572563235536910",
+        "conversation_id": "2046167258154590610",
+        "created_at": "2026-04-20T10:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046167258154590610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoXSD4NyxX",
+              "end": 38,
+              "expanded_url": "https://x.com/meikoena/status/2046167258154590610/video/1",
+              "media_key": "7_2046167246796410882",
+              "start": 15,
+              "url": "https://t.co/YoXSD4NyxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046167258154590610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 6471,
+          "like_count": 665,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "えにゃん🐱かわいいえにゃん！ https://t.co/YoXSD4NyxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian/善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046296580727492609/dZVO_-VW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4283,
+          "following_count": 435,
+          "like_count": 7908,
+          "listed_count": 7,
+          "media_count": 305,
+          "tweet_count": 3899
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T02:56:00.000Z",
+        "description": "🎨 ￤  as always, in the nightcord.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanaena.✦",
+                "end": 23,
+                "expanded_url": "https://kanaena.xn--yci/",
+                "start": 0,
+                "url": "https://t.co/FjwLyU2XQR"
+              }
+            ]
+          }
+        },
+        "id": "1844572563235536910",
+        "location": "ニーゴ",
+        "name": "emi",
+        "pinned_tweet_id": "2021825563086971271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022860595067039745/khwMfdAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 428,
+          "like_count": 30732,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/FjwLyU2XQR",
+        "username": "meikoena",
+        "verified": false
+      }
+    ]
+  }
+}

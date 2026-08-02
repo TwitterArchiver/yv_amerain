@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036763893494915072"
+      ],
+      "media_source_tweet_id": [
+        "2036763900495151532"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2037075550767030759",
+    "created_at": "2026-03-26T07:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037075550767030759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752977149022330880",
+          "start": 3,
+          "username": "10kizoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OZEWawKtHq",
+          "end": 68,
+          "expanded_url": "https://x.com/10kizoku/status/2036763900495151532/photo/1",
+          "media_key": "3_2036763893494915072",
+          "start": 45,
+          "url": "https://t.co/OZEWawKtHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037075550767030759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036763900495151532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10kizoku: 素晴らしき日々/橘希実香\nリクエストありがとうございました！ https://t.co/OZEWawKtHq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036763893494915072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQJ-EsbIAAFqrs.jpg",
+        "width": 2016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036763893494915072"
+          ],
+          "media_source_tweet_id": [
+            "2036763900495151532"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2037075550767030759",
+        "created_at": "2026-03-26T07:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037075550767030759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752977149022330880",
+              "start": 3,
+              "username": "10kizoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZEWawKtHq",
+              "end": 68,
+              "expanded_url": "https://x.com/10kizoku/status/2036763900495151532/photo/1",
+              "media_key": "3_2036763893494915072",
+              "start": 45,
+              "url": "https://t.co/OZEWawKtHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037075550767030759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036763900495151532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10kizoku: 素晴らしき日々/橘希実香\nリクエストありがとうございました！ https://t.co/OZEWawKtHq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036763893494915072"
+          ]
+        },
+        "author_id": "1752977149022330880",
+        "conversation_id": "2036763900495151532",
+        "created_at": "2026-03-25T11:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036763900495151532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZEWawKtHq",
+              "end": 54,
+              "expanded_url": "https://x.com/10kizoku/status/2036763900495151532/photo/1",
+              "media_key": "3_2036763893494915072",
+              "start": 31,
+              "url": "https://t.co/OZEWawKtHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036763900495151532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 7508,
+          "like_count": 560,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "素晴らしき日々/橘希実香\nリクエストありがとうございました！ https://t.co/OZEWawKtHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//置顶为了引流那样写的//我很穷请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 亚文化//喜欢素晴日//cos//碎碎念//什么都发//od//我有心理疾病不要跟我计较//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（忧郁神）",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 428,
+          "like_count": 7789,
+          "listed_count": 7,
+          "media_count": 305,
+          "tweet_count": 3889
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T08:48:45.000Z",
+        "description": "成人済み/美少女ゲーム垢 ✧︎ プレイ中→ヘンプリ\n⚠️イラストの無断使用・転載は禁止です\n🔞(@10kizo9)\nskeb🔗https://t.co/QaskQgXtg9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "10kizo9"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@10kizoku",
+                "end": 86,
+                "expanded_url": "https://skeb.jp/@10kizoku",
+                "start": 63,
+                "url": "https://t.co/QaskQgXtg9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/k3cSSoO27KZT…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/k3cSSoO27KZTLaHzVHfY61Oj1Mq2",
+                "start": 0,
+                "url": "https://t.co/UzQVM904LK"
+              }
+            ]
+          }
+        },
+        "id": "1752977149022330880",
+        "name": "ド貴族",
+        "pinned_tweet_id": "2035311233201778894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021973890331992064/y7yqITzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 134,
+          "like_count": 3131,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 4262
+        },
+        "url": "https://t.co/UzQVM904LK",
+        "username": "10kizoku",
+        "verified": false
+      }
+    ]
+  }
+}

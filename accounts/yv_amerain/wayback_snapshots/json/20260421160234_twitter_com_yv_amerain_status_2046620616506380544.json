@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046620181175357441"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046620616506380544",
+    "created_at": "2026-04-21T16:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046620616506380544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9LYiVHkaoe",
+          "end": 107,
+          "expanded_url": "https://x.com/yv_amerain/status/2046620616506380544/photo/1",
+          "media_key": "3_2046620181175357441",
+          "start": 84,
+          "url": "https://t.co/9LYiVHkaoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046620616506380544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉，我约的立浪紫菀的假发。明明上周就应该到的，结果没到，然后这周还是没做出来，我两个月都没出新c了，mzk自搭裙子我在买着试，在那里挑，估计只能五一才能出了..... https://t.co/9LYiVHkaoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_2046620181175357441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcONhkaUAEBNNI.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046620181175357441"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046620616506380544",
+        "created_at": "2026-04-21T16:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046620616506380544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LYiVHkaoe",
+              "end": 107,
+              "expanded_url": "https://x.com/yv_amerain/status/2046620616506380544/photo/1",
+              "media_key": "3_2046620181175357441",
+              "start": 84,
+              "url": "https://t.co/9LYiVHkaoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046620616506380544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，我约的立浪紫菀的假发。明明上周就应该到的，结果没到，然后这周还是没做出来，我两个月都没出新c了，mzk自搭裙子我在买着试，在那里挑，估计只能五一才能出了..... https://t.co/9LYiVHkaoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046296580727492609/dZVO_-VW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 435,
+          "like_count": 7932,
+          "listed_count": 7,
+          "media_count": 306,
+          "tweet_count": 3904
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048339988555968512"
+      ],
+      "media_source_tweet_id": [
+        "2048339990871183639"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1256292690309689344",
+          "name": "Tamagotchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256292690309689344",
+          "name": "Tamagotchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2048421920086048915",
+    "created_at": "2026-04-26T15:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048421920086048915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1315845400176128000",
+          "start": 3,
+          "username": "m__mzk__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4BUz0JyBLQ",
+          "end": 77,
+          "expanded_url": "https://x.com/m__mzk__/status/2048339990871183639/photo/1",
+          "media_key": "3_2048339988555968512",
+          "start": 54,
+          "url": "https://t.co/4BUz0JyBLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048421920086048915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048339990871183639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m__mzk__: プロセカ × たまごっち 🩷\n\nラブリっちと瑞希ちゃん、本当にかわいすぎる🥲🎀 https://t.co/4BUz0JyBLQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2048339988555968512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0qXfUbMAAf7zZ.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048339988555968512"
+          ],
+          "media_source_tweet_id": [
+            "2048339990871183639"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2048421920086048915",
+        "created_at": "2026-04-26T15:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048421920086048915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1315845400176128000",
+              "start": 3,
+              "username": "m__mzk__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BUz0JyBLQ",
+              "end": 77,
+              "expanded_url": "https://x.com/m__mzk__/status/2048339990871183639/photo/1",
+              "media_key": "3_2048339988555968512",
+              "start": 54,
+              "url": "https://t.co/4BUz0JyBLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048421920086048915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048339990871183639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m__mzk__: プロセカ × たまごっち 🩷\n\nラブリっちと瑞希ちゃん、本当にかわいすぎる🥲🎀 https://t.co/4BUz0JyBLQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048339988555968512"
+          ]
+        },
+        "author_id": "1315845400176128000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256292690309689344",
+              "name": "Tamagotchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2048339990871183639",
+        "created_at": "2026-04-26T09:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048339990871183639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BUz0JyBLQ",
+              "end": 63,
+              "expanded_url": "https://x.com/m__mzk__/status/2048339990871183639/photo/1",
+              "media_key": "3_2048339988555968512",
+              "start": 40,
+              "url": "https://t.co/4BUz0JyBLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048339990871183639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1579,
+          "like_count": 174,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "プロセカ × たまごっち 🩷\n\nラブリっちと瑞希ちゃん、本当にかわいすぎる🥲🎀 https://t.co/4BUz0JyBLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4292,
+          "following_count": 437,
+          "like_count": 8087,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 3946
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T02:43:03.000Z",
+        "description": "暁山 瑞希ちゃん🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akym_mzk_?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akym_mzk_?igsh=MTdiMGRjZm1ybHc4NQ==",
+                "start": 0,
+                "url": "https://t.co/w79gaiJxz8"
+              }
+            ]
+          }
+        },
+        "id": "1315845400176128000",
+        "location": "🍟🍛",
+        "name": "めめ",
+        "pinned_tweet_id": "2014862478396817647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695954411808604160/yuH_FmXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 88,
+          "like_count": 14949,
+          "listed_count": 3,
+          "media_count": 776,
+          "tweet_count": 14985
+        },
+        "url": "https://t.co/w79gaiJxz8",
+        "username": "m__mzk__",
+        "verified": false
+      }
+    ]
+  }
+}

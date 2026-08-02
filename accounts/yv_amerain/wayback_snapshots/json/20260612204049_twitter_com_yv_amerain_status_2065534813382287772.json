@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2065370940838744312",
+    "created_at": "2026-06-12T20:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065534813382287772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617471215001796609",
+          "start": 0,
+          "username": "stuk_randomdude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065534813382287772",
+    "in_reply_to_user_id": "1617471215001796609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065371299933978923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stuk_randomdude 主播关注一下我新号，谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2065370940838744312",
+        "created_at": "2026-06-12T20:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065534813382287772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617471215001796609",
+              "start": 0,
+              "username": "stuk_randomdude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065534813382287772",
+        "in_reply_to_user_id": "1617471215001796609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065371299933978923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stuk_randomdude 主播关注一下我新号，谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617471215001796609",
+        "conversation_id": "2065370940838744312",
+        "created_at": "2026-06-12T09:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065371299933978923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065371299933978923",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065370940838744312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 我也要死嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "此号不怎么用了，就发点碎碎念负能，关注我另一个号正常更新@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2063583290871926923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4815,
+          "following_count": 491,
+          "like_count": 9278,
+          "listed_count": 8,
+          "media_count": 348,
+          "tweet_count": 4231
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T10:36:22.000Z",
+        "description": "正常人盡量不要找我\n這個帳號就只是用作看黃和亂評論\n真的想聊就私聊問我聯繫方式\n如果還看不出來，我是男的",
+        "id": "1617471215001796609",
+        "location": "某處",
+        "name": "Stuk",
+        "pinned_tweet_id": "2061303538568081620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629528544878686212/P4_GDHqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 176,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1451
+        },
+        "username": "stuk_randomdude",
+        "verified": false
+      }
+    ]
+  }
+}

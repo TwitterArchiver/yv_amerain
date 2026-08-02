@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2052218788205281285",
+    "created_at": "2026-05-07T02:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052218788205281285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yv_amerain/sta…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/yv_amerain/status/2052162462376722557",
+          "start": 122,
+          "url": "https://t.co/9PTRSDcQJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052218788205281285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052162462376722557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求你们帮我转发，我今天睡醒出完整版，唉，我对象出轨，这个事情就是不是一般出轨吧，就是这个剧情比较逆天呀，甚至还反咬我一口，自己当时来找我说喜欢我的，现在还怪我，害得他跟他的小三就是走不到一起了#ntr#男娘#黄毛#认识一天无缝衔接#意淫#反咬 https://t.co/9PTRSDcQJh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69776,
+        "height": 1280,
+        "media_key": "7_2052162414104424448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052162414104424448/pu/img/KVOdvqUWNLJ4mvH7.jpg",
+        "public_metrics": {
+          "view_count": 477
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052162414104424448/pu/vid/avc1/320x710/YDStoEyasdB5_sgu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052162414104424448/pu/vid/avc1/480x1066/IPWSG_jrODJkQJB9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052162414104424448/pu/vid/avc1/576x1280/QQR4mKZSLkvDj7Tq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052162414104424448/pu/pl/a3mWwd2Py4ntGi-T.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052162415631224832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHq-2B0bUAAgpd5.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052162415970951168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHq-2DFbIAAuuxS.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052218788205281285",
+        "created_at": "2026-05-07T02:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052218788205281285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yv_amerain/sta…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/yv_amerain/status/2052162462376722557",
+              "start": 122,
+              "url": "https://t.co/9PTRSDcQJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052218788205281285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052162462376722557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求你们帮我转发，我今天睡醒出完整版，唉，我对象出轨，这个事情就是不是一般出轨吧，就是这个剧情比较逆天呀，甚至还反咬我一口，自己当时来找我说喜欢我的，现在还怪我，害得他跟他的小三就是走不到一起了#ntr#男娘#黄毛#认识一天无缝衔接#意淫#反咬 https://t.co/9PTRSDcQJh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052162414104424448",
+            "3_2052162415631224832",
+            "3_2052162415970951168"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052162462376722557",
+        "created_at": "2026-05-06T23:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T00:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052162462376722557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWEiEqSl4D",
+              "end": 166,
+              "expanded_url": "https://x.com/yv_amerain/status/2052162462376722557/video/1",
+              "media_key": "7_2052162414104424448",
+              "start": 143,
+              "url": "https://t.co/UWEiEqSl4D"
+            },
+            {
+              "display_url": "pic.x.com/UWEiEqSl4D",
+              "end": 166,
+              "expanded_url": "https://x.com/yv_amerain/status/2052162462376722557/video/1",
+              "media_key": "3_2052162415631224832",
+              "start": 143,
+              "url": "https://t.co/UWEiEqSl4D"
+            },
+            {
+              "display_url": "pic.x.com/UWEiEqSl4D",
+              "end": 166,
+              "expanded_url": "https://x.com/yv_amerain/status/2052162462376722557/video/1",
+              "media_key": "3_2052162415970951168",
+              "start": 143,
+              "url": "https://t.co/UWEiEqSl4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052162462376722557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 936,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从他现对象口里面套出来的\n“我当时比较缺爱吧，才喜欢他玩玩，不过我现在喜欢你所以才找理由”（明天有完整版）\n我找到我对象的现女友，而且还是认识一天无缝衔接，直接承认之前全是在钓我，甚至觉得如果能认识今天这个对象早知道就不骗我钓我了，明明知道我有心理问题接触我，甚至现在一直骂我神经病 https://t.co/UWEiEqSl4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "我活不过十八",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4506,
+          "following_count": 451,
+          "like_count": 8414,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 4057
+        },
+        "url": "",
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

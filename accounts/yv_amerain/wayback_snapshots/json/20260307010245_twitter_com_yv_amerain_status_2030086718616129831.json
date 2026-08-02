@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030086715482963968"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2030086718616129831",
+    "created_at": "2026-03-07T01:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T02:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030086718616129831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W9jC92kbJx",
+          "end": 31,
+          "expanded_url": "https://x.com/yv_amerain/status/2030086718616129831/photo/1",
+          "media_key": "3_2030086715482963968",
+          "start": 8,
+          "url": "https://t.co/W9jC92kbJx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030086718616129831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我快没钱吃饭了 https://t.co/W9jC92kbJx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2030086715482963968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCxRHKOaAAAwWZO.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030086715482963968"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2030086718616129831",
+        "created_at": "2026-03-07T01:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T02:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030086718616129831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9jC92kbJx",
+              "end": 31,
+              "expanded_url": "https://x.com/yv_amerain/status/2030086718616129831/photo/1",
+              "media_key": "3_2030086715482963968",
+              "start": 8,
+              "url": "https://t.co/W9jC92kbJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030086718616129831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我快没钱吃饭了 https://t.co/W9jC92kbJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//男娘 想变可爱//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//月亮计划 东方project  gal 日恐还有一些老ip///🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2029948294454206627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 554,
+          "like_count": 7521,
+          "listed_count": 8,
+          "media_count": 331,
+          "tweet_count": 3806
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

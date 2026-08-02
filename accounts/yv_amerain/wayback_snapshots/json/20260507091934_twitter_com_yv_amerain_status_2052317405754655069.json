@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2052317405754655069",
+    "created_at": "2026-05-07T09:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052317405754655069"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052317405754655069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我父母讨厌我，来我家里的朋友，还有现实认识的朋友都知道他们这些人，只是现在不管我，然后偶尔骂我两句，给我点吃饭钱，我能出去玩还有cos，其实都是要饭要来的，我也每天给别人提供情绪价值，我也受够了，认识两年的人现在还有人绿我，你们都下地狱吧，我快活够了，懒得给你们这群傻逼提供情绪价值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052317405754655069",
+        "created_at": "2026-05-07T09:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052317405754655069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052317405754655069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我父母讨厌我，来我家里的朋友，还有现实认识的朋友都知道他们这些人，只是现在不管我，然后偶尔骂我两句，给我点吃饭钱，我能出去玩还有cos，其实都是要饭要来的，我也每天给别人提供情绪价值，我也受够了，认识两年的人现在还有人绿我，你们都下地狱吧，我快活够了，懒得给你们这群傻逼提供情绪价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "王程我恨死你了去死吧傻逼贱人",
+        "pinned_tweet_id": "2052266875074248780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 451,
+          "like_count": 8423,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 4065
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

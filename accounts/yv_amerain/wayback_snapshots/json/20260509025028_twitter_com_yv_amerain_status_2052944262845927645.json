@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052825443066429440"
+      ],
+      "media_source_tweet_id": [
+        "2052825445759087098"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2052944262845927645",
+    "created_at": "2026-05-09T02:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052944262845927645"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "基地絵"
+        },
+        {
+          "end": 33,
+          "start": 20,
+          "tag": "NO_SALVATION"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1941416983742107648",
+          "start": 3,
+          "username": "lh_118242"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9x3IzcXDE",
+          "end": 57,
+          "expanded_url": "https://x.com/lh_118242/status/2052825445759087098/photo/1",
+          "media_key": "3_2052825443066429440",
+          "start": 34,
+          "url": "https://t.co/A9x3IzcXDE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052944262845927645",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052825445759087098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lh_118242: #基地絵 #NO_SALVATION https://t.co/A9x3IzcXDE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1902,
+        "media_key": "3_2052825443066429440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0Z3TfbwAA5noj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052825443066429440"
+          ],
+          "media_source_tweet_id": [
+            "2052825445759087098"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052944262845927645",
+        "created_at": "2026-05-09T02:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052944262845927645"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "基地絵"
+            },
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "NO_SALVATION"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1941416983742107648",
+              "start": 3,
+              "username": "lh_118242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9x3IzcXDE",
+              "end": 57,
+              "expanded_url": "https://x.com/lh_118242/status/2052825445759087098/photo/1",
+              "media_key": "3_2052825443066429440",
+              "start": 34,
+              "url": "https://t.co/A9x3IzcXDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052944262845927645",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052825445759087098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lh_118242: #基地絵 #NO_SALVATION https://t.co/A9x3IzcXDE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052825443066429440"
+          ]
+        },
+        "author_id": "1941416983742107648",
+        "conversation_id": "2052825445759087098",
+        "created_at": "2026-05-08T18:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052825445759087098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "基地絵"
+            },
+            {
+              "end": 18,
+              "start": 5,
+              "tag": "NO_SALVATION"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9x3IzcXDE",
+              "end": 42,
+              "expanded_url": "https://x.com/lh_118242/status/2052825445759087098/photo/1",
+              "media_key": "3_2052825443066429440",
+              "start": 19,
+              "url": "https://t.co/A9x3IzcXDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052825445759087098",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 586,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#基地絵 #NO_SALVATION https://t.co/A9x3IzcXDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4515,
+          "following_count": 455,
+          "like_count": 8440,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 4073
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T08:41:39.000Z",
+        "description": "😴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/c64394b1…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/c64394b1-de7c-4d73-bbc9-174ae9e3f9b5",
+                "start": 0,
+                "url": "https://t.co/m3MJaOhMLA"
+              }
+            ]
+          }
+        },
+        "id": "1941416983742107648",
+        "location": "！",
+        "name": "眔蔴",
+        "pinned_tweet_id": "2015755277606486507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044346694205358080/0R91YaOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 83,
+          "like_count": 4753,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/m3MJaOhMLA",
+        "username": "lh_118242",
+        "verified": false
+      }
+    ]
+  }
+}

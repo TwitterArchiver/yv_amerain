@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2027364022077779968"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2027364044613759079",
+    "created_at": "2026-02-27T12:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027364044613759079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxGFfaP1gw",
+          "end": 67,
+          "expanded_url": "https://x.com/yv_amerain/status/2027364044613759079/video/1",
+          "media_key": "7_2027364022077779968",
+          "start": 44,
+          "url": "https://t.co/cxGFfaP1gw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027364044613759079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好烦这个刘海啊，给我弄成阴湿男鬼了，但是又有一点点好看，原本感觉挺可爱的，长了有点帅呀 https://t.co/cxGFfaP1gw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5526,
+        "height": 1280,
+        "media_key": "7_2027364022077779968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027364022077779968/pu/img/ohVqvSmLxpWqVVx9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027364022077779968/pu/vid/avc1/320x568/5IaQuSUuBJ09AYrt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027364022077779968/pu/vid/avc1/480x852/_GCbF0R7v6lE5h7D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027364022077779968/pu/vid/avc1/720x1280/_jePtdqjSB9HQ3PG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027364022077779968/pu/pl/eUFgonGharx7WBtq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027364022077779968"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2027364044613759079",
+        "created_at": "2026-02-27T12:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027364044613759079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxGFfaP1gw",
+              "end": 67,
+              "expanded_url": "https://x.com/yv_amerain/status/2027364044613759079/video/1",
+              "media_key": "7_2027364022077779968",
+              "start": 44,
+              "url": "https://t.co/cxGFfaP1gw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027364044613759079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦这个刘海啊，给我弄成阴湿男鬼了，但是又有一点点好看，原本感觉挺可爱的，长了有点帅呀 https://t.co/cxGFfaP1gw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ //小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3939,
+          "following_count": 555,
+          "like_count": 7376,
+          "listed_count": 8,
+          "media_count": 318,
+          "tweet_count": 3716
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

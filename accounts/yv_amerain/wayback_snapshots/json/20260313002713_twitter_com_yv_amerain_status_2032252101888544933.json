@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2032252101888544933",
+    "created_at": "2026-03-13T00:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T01:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032252101888544933"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032252101888544933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我原本的计划是出素晴日，海猫和寒蝉之后，然后再出桑丘，不过大家好像很喜欢那个小男娘，还有那个魔裁，所以我就出啦，其实这两个我还算蛮喜欢的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2032252101888544933",
+        "created_at": "2026-03-13T00:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032252101888544933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032252101888544933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我原本的计划是出素晴日，海猫和寒蝉之后，然后再出桑丘，不过大家好像很喜欢那个小男娘，还有那个魔裁，所以我就出啦，其实这两个我还算蛮喜欢的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//我爱做饭//不混厕所//月亮计划 东方project  gal 日恐还有一些老ip///cos//碎碎念//偶尔有情绪和负能//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2032117955727933582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870032251838464/ufY7iT9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4195,
+          "following_count": 415,
+          "like_count": 7558,
+          "listed_count": 8,
+          "media_count": 297,
+          "tweet_count": 3777
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

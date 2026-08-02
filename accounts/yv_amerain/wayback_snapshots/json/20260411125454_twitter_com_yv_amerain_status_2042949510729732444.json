@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2042894190909231588",
+    "created_at": "2026-04-11T12:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042949510729732444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1747146335323844609",
+          "start": 0,
+          "username": "aozn24428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042949510729732444",
+    "in_reply_to_user_id": "1747146335323844609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042894190909231588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozn24428 不刷牙不会不舒服吗，还有舌头😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2042894190909231588",
+        "created_at": "2026-04-11T12:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042949510729732444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1747146335323844609",
+              "start": 0,
+              "username": "aozn24428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042949510729732444",
+        "in_reply_to_user_id": "1747146335323844609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042894190909231588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozn24428 不刷牙不会不舒服吗，还有舌头😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747146335323844609",
+        "conversation_id": "2042894190909231588",
+        "created_at": "2026-04-11T09:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042894190909231588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042894190909231588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃。我看起来很不讲卫生吗。为啥线下和我接触多的男的都不爱刷牙😂卧槽。就那么几个男的给我遇上了\n我只是房间乱了点不怎么喜欢及时把衣服挂上衣架而已。。。是乱不是脏啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian//喜欢的角色是晓山瑞希 sallyface//爱好是cos 废墟探险",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041958345683431426/whKF3uRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4286,
+          "following_count": 431,
+          "like_count": 7819,
+          "listed_count": 7,
+          "media_count": 302,
+          "tweet_count": 3880
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:38:51.000Z",
+        "description": "骚扰私信一律拉黑不管哦｜当朋友圈发 我有很多很多的负面情绪｜转帖40%碎碎念59%cosplay1%组成｜特别好用的🪜（自用！让我赚佣金吧！）蜂鸟VPN ：https://t.co/vm8dSucUSp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 101,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=FraeJTaB",
+                "start": 78,
+                "url": "https://t.co/vm8dSucUSp"
+              }
+            ]
+          }
+        },
+        "id": "1747146335323844609",
+        "location": "你心里❤️",
+        "name": "妹子幸运一点吧",
+        "pinned_tweet_id": "2038547964269051981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879835045579624448/jO2JXuKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 357,
+          "like_count": 31747,
+          "listed_count": 10,
+          "media_count": 1642,
+          "tweet_count": 23337
+        },
+        "username": "aozn24428",
+        "verified": false
+      }
+    ]
+  }
+}

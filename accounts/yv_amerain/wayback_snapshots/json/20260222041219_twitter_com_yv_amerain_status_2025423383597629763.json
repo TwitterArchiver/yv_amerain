@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025423381261365248"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025423383597629763",
+    "created_at": "2026-02-22T04:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025423383597629763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O4ywRmeOn2",
+          "end": 164,
+          "expanded_url": "https://x.com/yv_amerain/status/2025423383597629763/photo/1",
+          "media_key": "3_2025423381261365248",
+          "start": 141,
+          "url": "https://t.co/O4ywRmeOn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025423383597629763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去你妈的，听不懂人话的是谁？我说我无所谓，你爱怎么想怎么想，关我屌事，你他妈说我听不懂人话，操你妈，我他妈凭什么听你的啊？你先告诉我，还有我操你死妈的，整天就是虚拟网络，虚拟这虚拟那，你自己整天tmd讨厌社交互联网就是你的家，别他妈意淫老子，老子他妈现实生活有的是人玩，去你死妈 https://t.co/O4ywRmeOn2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2025423381261365248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu_1YfasAA-WBx.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025423381261365248"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025423383597629763",
+        "created_at": "2026-02-22T04:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025423383597629763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4ywRmeOn2",
+              "end": 164,
+              "expanded_url": "https://x.com/yv_amerain/status/2025423383597629763/photo/1",
+              "media_key": "3_2025423381261365248",
+              "start": 141,
+              "url": "https://t.co/O4ywRmeOn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025423383597629763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去你妈的，听不懂人话的是谁？我说我无所谓，你爱怎么想怎么想，关我屌事，你他妈说我听不懂人话，操你妈，我他妈凭什么听你的啊？你先告诉我，还有我操你死妈的，整天就是虚拟网络，虚拟这虚拟那，你自己整天tmd讨厌社交互联网就是你的家，别他妈意淫老子，老子他妈现实生活有的是人玩，去你死妈 https://t.co/O4ywRmeOn2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 551,
+          "like_count": 7201,
+          "listed_count": 8,
+          "media_count": 307,
+          "tweet_count": 3647
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

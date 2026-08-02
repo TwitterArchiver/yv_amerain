@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025558047486357903",
+    "created_at": "2026-02-22T13:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025558630788157695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025558630788157695",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025558047486357903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 阴阳怪气你妈逼呢，唉，你妈已死了，懂吗？给你妈弄成血雾，懂吗？全家第2天暴毙，老母暴毙是吗？你这杂种，为什么不回应我，回应你的瓜条这些，还在这里阴阳怪气呢，唉，阴阳怪气你妈逼呢，你这种人最欠了，唉，就在你这边一直骂我，恶心我呗，你敢不敢回我？说了私信跟你好好说处理，你不听"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2025558038279774208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBw6Tc-aYAAoWrn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025558047486357903",
+        "created_at": "2026-02-22T13:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025558630788157695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025558630788157695",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025558047486357903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 阴阳怪气你妈逼呢，唉，你妈已死了，懂吗？给你妈弄成血雾，懂吗？全家第2天暴毙，老母暴毙是吗？你这杂种，为什么不回应我，回应你的瓜条这些，还在这里阴阳怪气呢，唉，阴阳怪气你妈逼呢，你这种人最欠了，唉，就在你这边一直骂我，恶心我呗，你敢不敢回我？说了私信跟你好好说处理，你不听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025558038279774208"
+          ]
+        },
+        "author_id": "1976224313339777024",
+        "conversation_id": "2025558047486357903",
+        "created_at": "2026-02-22T13:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025558047486357903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFvpwCGGKh",
+              "end": 70,
+              "expanded_url": "https://x.com/WinbornN94577/status/2025558047486357903/photo/1",
+              "media_key": "3_2025558038279774208",
+              "start": 47,
+              "url": "https://t.co/yFvpwCGGKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025558047486357903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草莓鼻得了MVP🤣论谁的鼻子能让一个人那么恨，你这样我可就要对着你的权威无p照指指点点了哦😋 https://t.co/yFvpwCGGKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3951,
+          "following_count": 553,
+          "like_count": 7309,
+          "listed_count": 8,
+          "media_count": 329,
+          "tweet_count": 3736
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "🚪9999999999999999999999.99",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2019103377612063033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019070778399248384/k14HPoiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 94,
+          "like_count": 3102,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1519
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

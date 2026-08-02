@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867938308942430208"
+      ],
+      "media_source_tweet_id": [
+        "1867938317024866409"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2051184593290821840",
+    "created_at": "2026-05-04T06:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051184593290821840"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 15,
+          "tag": "さいはて駅FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "360270790",
+          "start": 3,
+          "username": "ruuya1124"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sVJaSlAI3I",
+          "end": 50,
+          "expanded_url": "https://x.com/ruuya1124/status/1867938317024866409/photo/1",
+          "media_key": "3_1867938308942430208",
+          "start": 27,
+          "url": "https://t.co/sVJaSlAI3I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051184593290821840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 604
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867938317024866409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruuya1124: #さいはて駅FA\nキス https://t.co/sVJaSlAI3I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1867938308942430208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gew__sbbgAAmu7z.jpg",
+        "width": 1846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867938308942430208"
+          ],
+          "media_source_tweet_id": [
+            "1867938317024866409"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2051184593290821840",
+        "created_at": "2026-05-04T06:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051184593290821840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "さいはて駅FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "360270790",
+              "start": 3,
+              "username": "ruuya1124"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVJaSlAI3I",
+              "end": 50,
+              "expanded_url": "https://x.com/ruuya1124/status/1867938317024866409/photo/1",
+              "media_key": "3_1867938308942430208",
+              "start": 27,
+              "url": "https://t.co/sVJaSlAI3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051184593290821840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 604
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867938317024866409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruuya1124: #さいはて駅FA\nキス https://t.co/sVJaSlAI3I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867938308942430208"
+          ]
+        },
+        "author_id": "360270790",
+        "conversation_id": "1867938317024866409",
+        "created_at": "2024-12-14T14:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T15:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867938317024866409"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "さいはて駅FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVJaSlAI3I",
+              "end": 35,
+              "expanded_url": "https://x.com/ruuya1124/status/1867938317024866409/photo/1",
+              "media_key": "3_1867938308942430208",
+              "start": 12,
+              "url": "https://t.co/sVJaSlAI3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867938317024866409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 52229,
+          "like_count": 2372,
+          "quote_count": 63,
+          "reply_count": 2,
+          "retweet_count": 604
+        },
+        "reply_settings": "everyone",
+        "text": "#さいはて駅FA\nキス https://t.co/sVJaSlAI3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface///亚文化//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 444,
+          "like_count": 8328,
+          "listed_count": 7,
+          "media_count": 326,
+          "tweet_count": 4025
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-22T23:34:12.000Z",
+        "description": "Illustration┊Gamedev┊RPG Maker\n絵本のような温かみのあるタッチで絵を描きます\n生きることで苦しむ男性とホラーが好き\n⚠️ Don't use/repost my art. No AI/Grok.\n🎮 さいはて駅┊黄昏電鐵┊※ThisGameIsNotReal.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vivtako.com",
+                "end": 23,
+                "expanded_url": "https://vivtako.com",
+                "start": 0,
+                "url": "https://t.co/bRVnIEfHE7"
+              }
+            ]
+          }
+        },
+        "id": "360270790",
+        "location": " ✉️ご連絡はお問い合わせフォームから / 🔕FF外",
+        "name": "びぶ🐙COMITIA156｜は09a",
+        "pinned_tweet_id": "2032813230578630856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731312684866650112/7facndSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30614,
+          "following_count": 570,
+          "like_count": 73191,
+          "listed_count": 58,
+          "media_count": 1785,
+          "tweet_count": 37388
+        },
+        "url": "https://t.co/bRVnIEfHE7",
+        "username": "ruuya1124",
+        "verified": true
+      }
+    ]
+  }
+}

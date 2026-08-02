@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2051012854988591594",
+    "created_at": "2026-05-03T18:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051012854988591594"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051012854988591594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的好讨厌我是男生才会发生这种事情，如果是女生的话可以好好做自己，出喜欢的男角色女角色，可是我只能可爱一些才有男孩会喜欢，我真的讨厌男娘，感觉他们大部分好蠢，但是我自己也是....我真的好难过.....我这段时间搞身边女孩还有我也喜欢消肿男角色也是因为有男朋友在，但是离开了我......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2051012854988591594",
+        "created_at": "2026-05-03T18:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051012854988591594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051012854988591594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好讨厌我是男生才会发生这种事情，如果是女生的话可以好好做自己，出喜欢的男角色女角色，可是我只能可爱一些才有男孩会喜欢，我真的讨厌男娘，感觉他们大部分好蠢，但是我自己也是....我真的好难过.....我这段时间搞身边女孩还有我也喜欢消肿男角色也是因为有男朋友在，但是离开了我......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface///亚文化//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050823462986694656/92P7L9wf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 444,
+          "like_count": 8303,
+          "listed_count": 7,
+          "media_count": 326,
+          "tweet_count": 4018
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

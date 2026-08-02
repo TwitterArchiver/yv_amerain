@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2023515051702055163",
+    "created_at": "2026-02-22T08:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025491326935138724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1963914173664137216",
+          "start": 0,
+          "username": "0xshiro0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025491326935138724",
+    "in_reply_to_user_id": "1963914173664137216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023515051702055163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xshiro0 ゆっくり休んで、体に気をつけて、早く回復してほしいですね。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2023515051702055163",
+        "created_at": "2026-02-22T08:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025491326935138724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1963914173664137216",
+              "start": 0,
+              "username": "0xshiro0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025491326935138724",
+        "in_reply_to_user_id": "1963914173664137216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023515051702055163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xshiro0 ゆっくり休んで、体に気をつけて、早く回復してほしいですね。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963914173664137216",
+        "conversation_id": "2023515051702055163",
+        "created_at": "2026-02-16T21:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T22:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023515051702055163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023515051702055163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "諸事情で入院してましたけど、色んな人に肌綺麗！って言われてちょっぴり嬉しかったです*ˊᵕˋ*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3952,
+          "following_count": 552,
+          "like_count": 7259,
+          "listed_count": 8,
+          "media_count": 314,
+          "tweet_count": 3687
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T10:37:21.000Z",
+        "description": "ましろ.️🫧です🫶💭 リプ、DMうぇるかむ*ˊᵕˋ* / 会ったりは出来ません。えっちな話も苦手です🥹 / 女装垢   //INTJ-T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ak5r41d3v6mq8q…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ak5r41d3v6mq8qj?t=Umv6dA&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/EgVhMYV9py"
+              }
+            ]
+          }
+        },
+        "id": "1963914173664137216",
+        "name": "ましろ. 🫧",
+        "pinned_tweet_id": "1973371690123182397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002777928917200897/LjEq0B47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 89,
+          "like_count": 823,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/EgVhMYV9py",
+        "username": "0xshiro0",
+        "verified": false
+      }
+    ]
+  }
+}

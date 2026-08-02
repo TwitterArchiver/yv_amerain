@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048437581466222592"
+      ],
+      "media_source_tweet_id": [
+        "2048437585375035698"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2048468275596840972",
+    "created_at": "2026-04-26T18:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048468275596840972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837864607341232128",
+          "start": 3,
+          "username": "mamon641743"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Am5ReZeljP",
+          "end": 40,
+          "expanded_url": "https://x.com/mamon641743/status/2048437585375035698/photo/1",
+          "media_key": "3_2048437581466222592",
+          "start": 17,
+          "url": "https://t.co/Am5ReZeljP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048468275596840972",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048437585375035698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mamon641743: https://t.co/Am5ReZeljP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048437581466222592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2DIJPawAA2sze.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048437581466222592"
+          ],
+          "media_source_tweet_id": [
+            "2048437585375035698"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2048468275596840972",
+        "created_at": "2026-04-26T18:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048468275596840972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837864607341232128",
+              "start": 3,
+              "username": "mamon641743"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Am5ReZeljP",
+              "end": 40,
+              "expanded_url": "https://x.com/mamon641743/status/2048437585375035698/photo/1",
+              "media_key": "3_2048437581466222592",
+              "start": 17,
+              "url": "https://t.co/Am5ReZeljP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048468275596840972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048437585375035698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mamon641743: https://t.co/Am5ReZeljP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048437581466222592"
+          ]
+        },
+        "author_id": "1837864607341232128",
+        "conversation_id": "2048437585375035698",
+        "created_at": "2026-04-26T16:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048437585375035698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Am5ReZeljP",
+              "end": 23,
+              "expanded_url": "https://x.com/mamon641743/status/2048437585375035698/photo/1",
+              "media_key": "3_2048437581466222592",
+              "start": 0,
+              "url": "https://t.co/Am5ReZeljP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048437585375035698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Am5ReZeljP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4295,
+          "following_count": 437,
+          "like_count": 8108,
+          "listed_count": 7,
+          "media_count": 314,
+          "tweet_count": 3952
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T14:40:53.000Z",
+        "description": "♡       .        ︵ ᅠ:  𝓁𝗂𝗄𝗎𝗇 . \n\n . 𝗌𝗁𝗂𝗈𝗇𝗌 𝗀𝖿   ׅ  ᭸‌꛱    \n  ᅠ ㅤ ㅤ  ᅠᅠ  . 𝓈𝗑 ⁴ .𝒶𝗇𝗒 𝗉𝗋n𝗌 .  .\noff art by ; @ruuya1124\nᅠ ㅤ ㅤ  ᅠᅠ minor  .",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 107,
+                "username": "ruuya1124"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shionbf.straw.page",
+                "end": 23,
+                "expanded_url": "https://shionbf.straw.page/",
+                "start": 0,
+                "url": "https://t.co/OY5e38wkJI"
+              }
+            ]
+          }
+        },
+        "id": "1837864607341232128",
+        "location": "𝓈𝗁𝗂𝗈𝗇''s͟͟  𝗁𝖾𝗮𝗿𝘁 ",
+        "name": "ᅠ ‹ 𝓁iᴋ𝗎𝗇 : 𝓼𝗁𝗂𝗈𝗇𝗌 𝗏𝖺𝗅𝖾𝗇𝗍𝗂𝗇𝖾 ♡",
+        "pinned_tweet_id": "2028940691141775525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033327367523909632/_lzksj5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 755,
+          "like_count": 7527,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/OY5e38wkJI",
+        "username": "mamon641743",
+        "verified": false
+      }
+    ]
+  }
+}

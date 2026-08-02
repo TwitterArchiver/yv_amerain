@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025543026798653441"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025543029441151280",
+    "created_at": "2026-02-22T12:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T13:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025543029441151280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z86ttyLT3Z",
+          "end": 153,
+          "expanded_url": "https://x.com/yv_amerain/status/2025543029441151280/photo/1",
+          "media_key": "3_2025543026798653441",
+          "start": 130,
+          "url": "https://t.co/Z86ttyLT3Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025543029441151280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉，去你妈逼，老子啥时候靠自己吃这个的身份涨到3000fo，我一前夫的时候就已经切割了，傻逼东西，你在幻想什么？还有你别装女的了，可以吗，还经典回顾，我就操你妈，你妈死了，你妈个杂种，唉，别阴阳怪气了，我现在就纯攻击，操你妈的，你妈的逼，装你妈装女的装魔怔了 https://t.co/Z86ttyLT3Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025543026798653441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwspq2acAEw2nu.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025543026798653441"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025543029441151280",
+        "created_at": "2026-02-22T12:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025543029441151280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z86ttyLT3Z",
+              "end": 153,
+              "expanded_url": "https://x.com/yv_amerain/status/2025543029441151280/photo/1",
+              "media_key": "3_2025543026798653441",
+              "start": 130,
+              "url": "https://t.co/Z86ttyLT3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025543029441151280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，去你妈逼，老子啥时候靠自己吃这个的身份涨到3000fo，我一前夫的时候就已经切割了，傻逼东西，你在幻想什么？还有你别装女的了，可以吗，还经典回顾，我就操你妈，你妈死了，你妈个杂种，唉，别阴阳怪气了，我现在就纯攻击，操你妈的，你妈的逼，装你妈装女的装魔怔了 https://t.co/Z86ttyLT3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 552,
+          "like_count": 7291,
+          "listed_count": 8,
+          "media_count": 317,
+          "tweet_count": 3704
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

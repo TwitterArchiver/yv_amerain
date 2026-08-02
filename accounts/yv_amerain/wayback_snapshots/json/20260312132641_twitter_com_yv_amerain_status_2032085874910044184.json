@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2032074478864543877",
+    "created_at": "2026-03-12T13:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032085874910044184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799771405669847040",
+          "start": 0,
+          "username": "hl_yu731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032085874910044184",
+    "in_reply_to_user_id": "1799771405669847040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032074478864543877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hl_yu731 很萌的小雨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6015,
+        "height": 960,
+        "media_key": "13_2032074422941790209",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032074422941790209/img/lQt-TAIFr6xfkvZY.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032074422941790209/vid/avc1/320x426/4CVUchZkk3e-W2IR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032074422941790209/vid/avc1/480x640/M1kmO3dqzKHfWJxk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032074422941790209/vid/avc1/720x960/z-b0joSPVKrc22y_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032074422941790209/pl/sW1JPPb9Q1IUR-6v.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2032074478864543877",
+        "created_at": "2026-03-12T13:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032085874910044184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799771405669847040",
+              "start": 0,
+              "username": "hl_yu731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032085874910044184",
+        "in_reply_to_user_id": "1799771405669847040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032074478864543877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hl_yu731 很萌的小雨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032074422941790209"
+          ]
+        },
+        "author_id": "1799771405669847040",
+        "conversation_id": "2032074478864543877",
+        "created_at": "2026-03-12T12:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032074478864543877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fN3KKrDt41",
+              "end": 29,
+              "expanded_url": "https://x.com/hl_yu731/status/2032074478864543877/video/1",
+              "media_key": "13_2032074422941790209",
+              "start": 6,
+              "url": "https://t.co/fN3KKrDt41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032074478864543877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈小海妖 https://t.co/fN3KKrDt41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//我爱做饭//不混厕所//月亮计划 东方project  gal 日恐还有一些老ip///cos//碎碎念//偶尔有情绪和负能//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2029948294454206627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030870032251838464/ufY7iT9p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4159,
+          "following_count": 415,
+          "like_count": 7538,
+          "listed_count": 8,
+          "media_count": 295,
+          "tweet_count": 3763
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T11:52:14.000Z",
+        "description": "就叫我小雨吧",
+        "id": "1799771405669847040",
+        "location": "未名市",
+        "name": "qq雨",
+        "pinned_tweet_id": "2026332851558600942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027790455153561600/SVELMfSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 74,
+          "like_count": 5166,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2042
+        },
+        "username": "hl_yu731",
+        "verified": false
+      }
+    ]
+  }
+}

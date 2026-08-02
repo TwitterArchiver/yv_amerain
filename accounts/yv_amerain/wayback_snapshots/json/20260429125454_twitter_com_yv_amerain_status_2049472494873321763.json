@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049407162489982976"
+      ],
+      "media_source_tweet_id": [
+        "2049407167372116108"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2049472494873321763",
+    "created_at": "2026-04-29T12:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049472494873321763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028415228053254144",
+          "start": 3,
+          "username": "kyakuzindesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8CBuF87Ff",
+          "end": 46,
+          "expanded_url": "https://x.com/kyakuzindesu/status/2049407167372116108/photo/1",
+          "media_key": "3_2049407162489982976",
+          "start": 23,
+          "url": "https://t.co/T8CBuF87Ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049472494873321763",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049407167372116108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyakuzindesu: ﾊﾞｼﾞ https://t.co/T8CBuF87Ff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2049407162489982976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD09MBbUAAXIUz.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049407162489982976"
+          ],
+          "media_source_tweet_id": [
+            "2049407167372116108"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2049472494873321763",
+        "created_at": "2026-04-29T12:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049472494873321763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028415228053254144",
+              "start": 3,
+              "username": "kyakuzindesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8CBuF87Ff",
+              "end": 46,
+              "expanded_url": "https://x.com/kyakuzindesu/status/2049407167372116108/photo/1",
+              "media_key": "3_2049407162489982976",
+              "start": 23,
+              "url": "https://t.co/T8CBuF87Ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049472494873321763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049407167372116108",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyakuzindesu: ﾊﾞｼﾞ https://t.co/T8CBuF87Ff"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049407162489982976"
+          ]
+        },
+        "author_id": "2028415228053254144",
+        "conversation_id": "2049407167372116108",
+        "created_at": "2026-04-29T08:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049407167372116108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8CBuF87Ff",
+              "end": 28,
+              "expanded_url": "https://x.com/kyakuzindesu/status/2049407167372116108/photo/1",
+              "media_key": "3_2049407162489982976",
+              "start": 5,
+              "url": "https://t.co/T8CBuF87Ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049407167372116108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 489,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "ﾊﾞｼﾞ https://t.co/T8CBuF87Ff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049144233530105856/xv8hJFad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4325,
+          "following_count": 443,
+          "like_count": 8226,
+          "listed_count": 7,
+          "media_count": 317,
+          "tweet_count": 3994
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T10:21:22.000Z",
+        "description": "ここではBL描くよ/絵柄迷走中/☀️が最推し/バジサニ🌻☀️/オモサニ🔪☀️",
+        "id": "2028415228053254144",
+        "location": "バジサニのイチャラブを見守る壁",
+        "name": "客人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036005190986571776/G1iwqdSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 17,
+          "like_count": 257,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 105
+        },
+        "username": "kyakuzindesu",
+        "verified": false
+      }
+    ]
+  }
+}

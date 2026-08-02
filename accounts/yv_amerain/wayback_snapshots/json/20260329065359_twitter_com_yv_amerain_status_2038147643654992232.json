@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038147641528442880"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2038147643654992232",
+    "created_at": "2026-03-29T06:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038147643654992232"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HxNk3WXwKb",
+          "end": 32,
+          "expanded_url": "https://x.com/yv_amerain/status/2038147643654992232/photo/1",
+          "media_key": "3_2038147641528442880",
+          "start": 9,
+          "url": "https://t.co/HxNk3WXwKb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038147643654992232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#素晴らしき日々 https://t.co/HxNk3WXwKb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2038147641528442880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEj0ez0aYAAXYjw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038147641528442880"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2038147643654992232",
+        "created_at": "2026-03-29T06:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038147643654992232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxNk3WXwKb",
+              "end": 32,
+              "expanded_url": "https://x.com/yv_amerain/status/2038147643654992232/photo/1",
+              "media_key": "3_2038147641528442880",
+              "start": 9,
+              "url": "https://t.co/HxNk3WXwKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038147643654992232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々 https://t.co/HxNk3WXwKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（打工中）",
+        "pinned_tweet_id": "2037580224976896151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037582080159461377/C0qPBQbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4348,
+          "following_count": 430,
+          "like_count": 7799,
+          "listed_count": 7,
+          "media_count": 298,
+          "tweet_count": 3854
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

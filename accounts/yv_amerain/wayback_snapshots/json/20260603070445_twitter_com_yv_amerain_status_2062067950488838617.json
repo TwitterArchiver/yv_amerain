@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061815029121576961"
+      ],
+      "media_source_tweet_id": [
+        "2061815039112425500"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2062067950488838617",
+    "created_at": "2026-06-03T07:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062067950488838617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1531491104310276096",
+          "start": 3,
+          "username": "xxx_666__x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F95XBRcEZN",
+          "end": 44,
+          "expanded_url": "https://x.com/xxx_666__x/status/2061815039112425500/photo/1",
+          "media_key": "3_2061815029121576961",
+          "start": 21,
+          "url": "https://t.co/F95XBRcEZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062067950488838617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 487
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061815039112425500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_666__x: 細菌汚染 https://t.co/F95XBRcEZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2061815029121576961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0J2FNacAElKOL.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061815029121576961"
+          ],
+          "media_source_tweet_id": [
+            "2061815039112425500"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2062067950488838617",
+        "created_at": "2026-06-03T07:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062067950488838617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1531491104310276096",
+              "start": 3,
+              "username": "xxx_666__x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F95XBRcEZN",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx_666__x/status/2061815039112425500/photo/1",
+              "media_key": "3_2061815029121576961",
+              "start": 21,
+              "url": "https://t.co/F95XBRcEZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062067950488838617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061815039112425500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_666__x: 細菌汚染 https://t.co/F95XBRcEZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061815029121576961"
+          ]
+        },
+        "author_id": "1531491104310276096",
+        "conversation_id": "2061815039112425500",
+        "created_at": "2026-06-02T14:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061815039112425500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F95XBRcEZN",
+              "end": 28,
+              "expanded_url": "https://x.com/xxx_666__x/status/2061815039112425500/photo/1",
+              "media_key": "3_2061815029121576961",
+              "start": 5,
+              "url": "https://t.co/F95XBRcEZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061815039112425500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 34974,
+          "like_count": 4379,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 487
+        },
+        "reply_settings": "everyone",
+        "text": "細菌汚染 https://t.co/F95XBRcEZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4794,
+          "following_count": 482,
+          "like_count": 9148,
+          "listed_count": 8,
+          "media_count": 351,
+          "tweet_count": 4175
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T04:21:54.000Z",
+        "description": "AI学習.イラスト使用禁止/マロ→ https://t.co/7th7KiWS1E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/kmv76qhg6xg8fn…",
+                "end": 41,
+                "expanded_url": "https://marshmallow-qa.com/kmv76qhg6xg8fn?t=GcLIAR&utm_medium=url_text&utm_source=promotion",
+                "start": 18,
+                "url": "https://t.co/7th7KiWS1E"
+              }
+            ]
+          }
+        },
+        "id": "1531491104310276096",
+        "name": "多分人間",
+        "pinned_tweet_id": "2055698135926939994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939241906178871296/XzSLYTFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78186,
+          "following_count": 39,
+          "like_count": 6674,
+          "listed_count": 441,
+          "media_count": 189,
+          "tweet_count": 6419
+        },
+        "username": "xxx_666__x",
+        "verified": false
+      }
+    ]
+  }
+}

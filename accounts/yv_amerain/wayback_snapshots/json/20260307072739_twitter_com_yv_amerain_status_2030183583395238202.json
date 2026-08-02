@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030183575484825600",
+        "3_2030183579431645184",
+        "3_2030183560523698178"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030183583395238202",
+    "created_at": "2026-03-07T07:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030183583395238202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cPV1mZvNZz",
+          "end": 166,
+          "expanded_url": "https://x.com/yv_amerain/status/2030183583395238202/photo/1",
+          "media_key": "3_2030183575484825600",
+          "start": 143,
+          "url": "https://t.co/cPV1mZvNZz"
+        },
+        {
+          "display_url": "pic.x.com/cPV1mZvNZz",
+          "end": 166,
+          "expanded_url": "https://x.com/yv_amerain/status/2030183583395238202/photo/1",
+          "media_key": "3_2030183579431645184",
+          "start": 143,
+          "url": "https://t.co/cPV1mZvNZz"
+        },
+        {
+          "display_url": "pic.x.com/cPV1mZvNZz",
+          "end": 166,
+          "expanded_url": "https://x.com/yv_amerain/status/2030183583395238202/photo/1",
+          "media_key": "3_2030183560523698178",
+          "start": 143,
+          "url": "https://t.co/cPV1mZvNZz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030183583395238202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了很多菜，还有做布丁的东西，当然是网购直接配送，还有加上加上自己家里有的菜，总共加起来10天可以都靠自己做饭吃，偶尔做做甜食给自己吃，我有平底锅就更好做了，有平底锅，我就能做抹茶千层了，可惜好的平底锅居然要100多，我看看我妈会不会买，我妈估计不买。。我每天基本是一个人在家自己做饭 https://t.co/cPV1mZvNZz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2030183575484825600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCypNJ2bAAAfRpK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030183579431645184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCypNYjasAA--Xv.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1903,
+        "media_key": "3_2030183560523698178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCypMSHaUAIHU-u.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030183575484825600",
+            "3_2030183579431645184",
+            "3_2030183560523698178"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030183583395238202",
+        "created_at": "2026-03-07T07:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030183583395238202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cPV1mZvNZz",
+              "end": 166,
+              "expanded_url": "https://x.com/yv_amerain/status/2030183583395238202/photo/1",
+              "media_key": "3_2030183575484825600",
+              "start": 143,
+              "url": "https://t.co/cPV1mZvNZz"
+            },
+            {
+              "display_url": "pic.x.com/cPV1mZvNZz",
+              "end": 166,
+              "expanded_url": "https://x.com/yv_amerain/status/2030183583395238202/photo/1",
+              "media_key": "3_2030183579431645184",
+              "start": 143,
+              "url": "https://t.co/cPV1mZvNZz"
+            },
+            {
+              "display_url": "pic.x.com/cPV1mZvNZz",
+              "end": 166,
+              "expanded_url": "https://x.com/yv_amerain/status/2030183583395238202/photo/1",
+              "media_key": "3_2030183560523698178",
+              "start": 143,
+              "url": "https://t.co/cPV1mZvNZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030183583395238202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了很多菜，还有做布丁的东西，当然是网购直接配送，还有加上加上自己家里有的菜，总共加起来10天可以都靠自己做饭吃，偶尔做做甜食给自己吃，我有平底锅就更好做了，有平底锅，我就能做抹茶千层了，可惜好的平底锅居然要100多，我看看我妈会不会买，我妈估计不买。。我每天基本是一个人在家自己做饭 https://t.co/cPV1mZvNZz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//不混厕所//月亮计划 东方project  gal 日恐还有一些老ip///cos//碎碎念//低智碎碎念//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2029948294454206627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4008,
+          "following_count": 555,
+          "like_count": 7532,
+          "listed_count": 8,
+          "media_count": 333,
+          "tweet_count": 3809
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

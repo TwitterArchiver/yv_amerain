@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2052266875074248780",
+    "created_at": "2026-05-07T11:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052350642828800467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825860031855865856",
+          "start": 0,
+          "username": "assdent3258"
+        },
+        {
+          "end": 29,
+          "id": "1536018237015887872",
+          "start": 13,
+          "username": "pananan50877461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052350642828800467",
+    "in_reply_to_user_id": "1825860031855865856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052341206760448018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@assdent3258 @pananan50877461 我压抑在哪，我缺爱死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052266875074248780",
+        "created_at": "2026-05-07T11:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052350642828800467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825860031855865856",
+              "start": 0,
+              "username": "assdent3258"
+            },
+            {
+              "end": 29,
+              "id": "1536018237015887872",
+              "start": 13,
+              "username": "pananan50877461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052350642828800467",
+        "in_reply_to_user_id": "1825860031855865856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052341206760448018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@assdent3258 @pananan50877461 我压抑在哪，我缺爱死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825860031855865856",
+        "conversation_id": "2052266875074248780",
+        "created_at": "2026-05-07T10:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052341206760448018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1536018237015887872",
+              "start": 0,
+              "username": "pananan50877461"
+            },
+            {
+              "end": 28,
+              "id": "1857335218673483776",
+              "start": 17,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052341206760448018",
+        "in_reply_to_user_id": "1536018237015887872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052281300694999181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pananan50877461 @yv_amerain 如果他们不性压抑的话也不会做药娘了，本质上是想更加变态的ccb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "都不要烦我了",
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "王程我恨死你了去死吧傻逼贱人",
+        "pinned_tweet_id": "2052266875074248780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 451,
+          "like_count": 8424,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 4066
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T11:38:59.000Z",
+        "description": "",
+        "id": "1825860031855865856",
+        "name": "川和工团CHUD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992761020998459392/1BZ4kLVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 562,
+          "like_count": 22294,
+          "listed_count": 3,
+          "media_count": 1854,
+          "tweet_count": 16280
+        },
+        "username": "assdent3258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T16:11:18.000Z",
+        "description": "",
+        "id": "1536018237015887872",
+        "name": "潘安安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536018312622391297/L9SpZfdP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "pananan50877461",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2056214470020772017",
+    "created_at": "2026-05-18T03:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056214470020772017"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056214470020772017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好讨厌我爹，发现我吃那个抗雄的药，原本有点想断的，然后他开始说男人怎么样，女生怎么样负责什么的，我好难受，不要这样逼我，我成为这样完全是因为你不在意我啊，你不爱我，每天从小我挺正常的每天说我要成为男人男子汉，被女生喜欢，甚至我还是要穷养被家暴，比我妹过得还差， 贱死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2056214470020772017",
+        "created_at": "2026-05-18T03:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056214470020772017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056214470020772017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好讨厌我爹，发现我吃那个抗雄的药，原本有点想断的，然后他开始说男人怎么样，女生怎么样负责什么的，我好难受，不要这样逼我，我成为这样完全是因为你不在意我啊，你不爱我，每天从小我挺正常的每天说我要成为男人男子汉，被女生喜欢，甚至我还是要穷养被家暴，比我妹过得还差， 贱死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4701,
+          "following_count": 458,
+          "like_count": 8812,
+          "listed_count": 7,
+          "media_count": 350,
+          "tweet_count": 4144
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

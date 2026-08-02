@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025429597719068896",
+    "created_at": "2026-02-22T04:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025429597719068896"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025429597719068896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "我每天在本地社团群，然后线下可以一起玩，还有漫展交的朋友也多，深交的话确实有五六个，我肯定不在网上当区，我也不把网络当家，你整天在那意淫我是什么药娘皇帝，我把互联网当家怎么怎么样。去你妈的，我又不在网上当蛆，有钱就很牛逼是吧，看不起别人底层女生喽，你自己装女的装魔怔了，长得又丑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025429597719068896",
+        "created_at": "2026-02-22T04:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025429597719068896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025429597719068896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我每天在本地社团群，然后线下可以一起玩，还有漫展交的朋友也多，深交的话确实有五六个，我肯定不在网上当区，我也不把网络当家，你整天在那意淫我是什么药娘皇帝，我把互联网当家怎么怎么样。去你妈的，我又不在网上当蛆，有钱就很牛逼是吧，看不起别人底层女生喽，你自己装女的装魔怔了，长得又丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3956,
+          "following_count": 552,
+          "like_count": 7212,
+          "listed_count": 8,
+          "media_count": 309,
+          "tweet_count": 3659
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

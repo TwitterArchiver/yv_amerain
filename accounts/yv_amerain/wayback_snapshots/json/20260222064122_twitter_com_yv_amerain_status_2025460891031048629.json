@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025460887138828290"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2025460891031048629",
+    "created_at": "2026-02-22T06:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025460891031048629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DO5RXVQp74",
+          "end": 163,
+          "expanded_url": "https://x.com/yv_amerain/status/2025460891031048629/photo/1",
+          "media_key": "3_2025460887138828290",
+          "start": 140,
+          "url": "https://t.co/DO5RXVQp74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025460891031048629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "一群傻逼啊，你真以为那个叶子是女的呀，压抑了是吧？你知道他长得有多丑吗？一个草莓鼻你自己就想吧，就是很大的鼻子，然后呢他以前是跨，然后学过伪音，然后呢，他想以女孩子的身份跟女生交流，身高1米8了都，比我高一个头，跟他相处两年，我都知道他啥东西，还造谣我骂他父母找不出聊天记录死妈 https://t.co/DO5RXVQp74"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1619,
+        "media_key": "3_2025460887138828290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvh8gxbgAII6YS.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025460887138828290"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2025460891031048629",
+        "created_at": "2026-02-22T06:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025460891031048629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DO5RXVQp74",
+              "end": 163,
+              "expanded_url": "https://x.com/yv_amerain/status/2025460891031048629/photo/1",
+              "media_key": "3_2025460887138828290",
+              "start": 140,
+              "url": "https://t.co/DO5RXVQp74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025460891031048629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "一群傻逼啊，你真以为那个叶子是女的呀，压抑了是吧？你知道他长得有多丑吗？一个草莓鼻你自己就想吧，就是很大的鼻子，然后呢他以前是跨，然后学过伪音，然后呢，他想以女孩子的身份跟女生交流，身高1米8了都，比我高一个头，跟他相处两年，我都知道他啥东西，还造谣我骂他父母找不出聊天记录死妈 https://t.co/DO5RXVQp74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 548,
+          "like_count": 7234,
+          "listed_count": 8,
+          "media_count": 312,
+          "tweet_count": 3674
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

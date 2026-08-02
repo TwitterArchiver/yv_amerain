@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2052162462376722557",
+    "created_at": "2026-05-07T08:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052301932690313488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994754364863647751",
+          "start": 0,
+          "username": "goawp051123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052301932690313488",
+    "in_reply_to_user_id": "1994754364863647751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052301047251845122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goawp051123 我没出完整版，就是他说喜欢我，给我绿了，然后认识了一个新认识一天无缝衔接的，而且我跟他还是认识两年了，谈上3个月给我删了我有点崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2052162462376722557",
+        "created_at": "2026-05-07T08:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052301932690313488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994754364863647751",
+              "start": 0,
+              "username": "goawp051123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052301932690313488",
+        "in_reply_to_user_id": "1994754364863647751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052301047251845122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goawp051123 我没出完整版，就是他说喜欢我，给我绿了，然后认识了一个新认识一天无缝衔接的，而且我跟他还是认识两年了，谈上3个月给我删了我有点崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994754364863647751",
+        "conversation_id": "2052162462376722557",
+        "created_at": "2026-05-07T08:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052301047251845122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052301047251845122",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052162462376722557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 好混乱（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "我活不过十八",
+        "pinned_tweet_id": "2052266875074248780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 451,
+          "like_count": 8422,
+          "listed_count": 9,
+          "media_count": 332,
+          "tweet_count": 4063
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T13:04:45.000Z",
+        "description": "05/重抑/重焦/双向/精分 网蛆罢了不要骂我",
+        "id": "1994754364863647751",
+        "name": "哭哭一直哭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047615133460144128/6svF4t1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 104,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "username": "goawp051123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033592606412996608"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2033592613018951738",
+    "created_at": "2026-03-16T17:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033592613018951738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGx6ieWbZd",
+          "end": 58,
+          "expanded_url": "https://x.com/yv_amerain/status/2033592613018951738/photo/1",
+          "media_key": "3_2033592606412996608",
+          "start": 35,
+          "url": "https://t.co/gGx6ieWbZd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033592613018951738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他太坏了，我操，我后悔买那个魔裁cos了，出了就卖掉，怎么就这样对我 https://t.co/gGx6ieWbZd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2033592606412996608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDjFs3sbgAAq0um.jpg",
+        "width": 1183
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033592606412996608"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2033592613018951738",
+        "created_at": "2026-03-16T17:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033592613018951738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGx6ieWbZd",
+              "end": 58,
+              "expanded_url": "https://x.com/yv_amerain/status/2033592613018951738/photo/1",
+              "media_key": "3_2033592606412996608",
+              "start": 35,
+              "url": "https://t.co/gGx6ieWbZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033592613018951738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他太坏了，我操，我后悔买那个魔裁cos了，出了就卖掉，怎么就这样对我 https://t.co/gGx6ieWbZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//cos都会直接互//我爱做饭//不混厕所//月亮计划 东方project  gal 日恐还有一些老ip//喜欢素晴日///cos//碎碎念//偶尔有情绪和负能//我是一个有心理疾病的人//@ace_sana_ @fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2032119058569863331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033591685574467584/uRjEvdjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 408,
+          "like_count": 7568,
+          "listed_count": 8,
+          "media_count": 293,
+          "tweet_count": 3783
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2044164272926888276",
+    "created_at": "2026-04-14T21:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T22:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044164272926888276"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044164272926888276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爱我的男朋友，我愿意等他到20岁，如果给我坑了，那就陪我一起上路吧，我不想活了，我原本就不想活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2044164272926888276",
+        "created_at": "2026-04-14T21:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T22:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044164272926888276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044164272926888276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱我的男朋友，我愿意等他到20岁，如果给我坑了，那就陪我一起上路吧，我不想活了，我原本就不想活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//闺蜜@ace_sana_ 最好的女孩@fuyunxian好姐姐@lnmng5262080968//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "lnmng5262080968"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041958345683431426/whKF3uRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4278,
+          "following_count": 428,
+          "like_count": 7859,
+          "listed_count": 7,
+          "media_count": 303,
+          "tweet_count": 3887
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

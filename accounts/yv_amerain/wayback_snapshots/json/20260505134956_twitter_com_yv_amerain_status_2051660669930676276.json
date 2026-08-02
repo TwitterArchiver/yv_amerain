@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2051660634664955904",
+        "3_2051660660514385920"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051660669930676276",
+    "created_at": "2026-05-05T13:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051660669930676276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/za4GrGLEii",
+          "end": 164,
+          "expanded_url": "https://x.com/yv_amerain/status/2051660669930676276/photo/1",
+          "media_key": "16_2051660634664955904",
+          "start": 141,
+          "url": "https://t.co/za4GrGLEii"
+        },
+        {
+          "display_url": "pic.x.com/za4GrGLEii",
+          "end": 164,
+          "expanded_url": "https://x.com/yv_amerain/status/2051660669930676276/photo/1",
+          "media_key": "3_2051660660514385920",
+          "start": 141,
+          "url": "https://t.co/za4GrGLEii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051660669930676276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别发我到跨出群了，啥意思吧，我只是说不要就是找我说贴贴，喊妹妹，我亲友好朋友都是女生都没有这样的聊天方式，我就发我男朋友没有了，好希望我是女生，明明说了不在意父母怎么想，我想要正常的安慰，贴贴，妹妹这些好糖，之前就一直不爱说我是男的就是不喜欢你们，还骂我，怪不得我好朋友女孩雷男娘 https://t.co/za4GrGLEii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2051660634664955904",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHj2eiDbcAAh35Z.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHj2eiDbcAAh35Z.mp4"
+          }
+        ],
+        "width": 300
+      },
+      {
+        "height": 1721,
+        "media_key": "3_2051660660514385920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj2gCWacAAGZl4.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2051660634664955904",
+            "3_2051660660514385920"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051660669930676276",
+        "created_at": "2026-05-05T13:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051660669930676276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/za4GrGLEii",
+              "end": 164,
+              "expanded_url": "https://x.com/yv_amerain/status/2051660669930676276/photo/1",
+              "media_key": "16_2051660634664955904",
+              "start": 141,
+              "url": "https://t.co/za4GrGLEii"
+            },
+            {
+              "display_url": "pic.x.com/za4GrGLEii",
+              "end": 164,
+              "expanded_url": "https://x.com/yv_amerain/status/2051660669930676276/photo/1",
+              "media_key": "3_2051660660514385920",
+              "start": 141,
+              "url": "https://t.co/za4GrGLEii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051660669930676276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别发我到跨出群了，啥意思吧，我只是说不要就是找我说贴贴，喊妹妹，我亲友好朋友都是女生都没有这样的聊天方式，我就发我男朋友没有了，好希望我是女生，明明说了不在意父母怎么想，我想要正常的安慰，贴贴，妹妹这些好糖，之前就一直不爱说我是男的就是不喜欢你们，还骂我，怪不得我好朋友女孩雷男娘 https://t.co/za4GrGLEii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//互关和扩列私我//雷部分智力低下的男娘药娘还有网左品客//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface///亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 449,
+          "like_count": 8376,
+          "listed_count": 9,
+          "media_count": 330,
+          "tweet_count": 4038
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

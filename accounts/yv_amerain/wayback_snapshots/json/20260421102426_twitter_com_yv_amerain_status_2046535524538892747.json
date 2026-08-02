@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046228646780661760"
+      ],
+      "media_source_tweet_id": [
+        "2046228655358001555"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2046535524538892747",
+    "created_at": "2026-04-21T10:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046535524538892747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951176580337704962",
+          "start": 3,
+          "username": "mizuenaemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWSG0JGLqC",
+          "end": 40,
+          "expanded_url": "https://x.com/mizuenaemon/status/2046228655358001555/video/1",
+          "media_key": "7_2046228646780661760",
+          "start": 17,
+          "url": "https://t.co/RWSG0JGLqC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046535524538892747",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 571
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046228655358001555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuenaemon: https://t.co/RWSG0JGLqC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1602,
+        "height": 720,
+        "media_key": "7_2046228646780661760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046228646780661760/pu/img/-ohvIkSvbOm2WNVR.jpg",
+        "public_metrics": {
+          "view_count": 6936
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046228646780661760/pu/vid/avc1/320x320/5SJf1KEErLCtohjq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046228646780661760/pu/vid/avc1/540x540/pJOAbbWO6HP5qRGm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046228646780661760/pu/vid/avc1/720x720/doB1DNKc-m16o2qP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046228646780661760/pu/pl/5eTigtPfK55vo5UK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046228646780661760"
+          ],
+          "media_source_tweet_id": [
+            "2046228655358001555"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2046535524538892747",
+        "created_at": "2026-04-21T10:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046535524538892747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951176580337704962",
+              "start": 3,
+              "username": "mizuenaemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWSG0JGLqC",
+              "end": 40,
+              "expanded_url": "https://x.com/mizuenaemon/status/2046228655358001555/video/1",
+              "media_key": "7_2046228646780661760",
+              "start": 17,
+              "url": "https://t.co/RWSG0JGLqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046535524538892747",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 571
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046228655358001555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizuenaemon: https://t.co/RWSG0JGLqC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046228646780661760"
+          ]
+        },
+        "author_id": "1951176580337704962",
+        "conversation_id": "2046228655358001555",
+        "created_at": "2026-04-20T14:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046228655358001555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWSG0JGLqC",
+              "end": 23,
+              "expanded_url": "https://x.com/mizuenaemon/status/2046228655358001555/video/1",
+              "media_key": "7_2046228646780661760",
+              "start": 0,
+              "url": "https://t.co/RWSG0JGLqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046228655358001555",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 20378,
+          "like_count": 2484,
+          "quote_count": 21,
+          "reply_count": 7,
+          "retweet_count": 571
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RWSG0JGLqC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//欧坤呀叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046296580727492609/dZVO_-VW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4281,
+          "following_count": 436,
+          "like_count": 7928,
+          "listed_count": 7,
+          "media_count": 305,
+          "tweet_count": 3903
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:02:15.000Z",
+        "description": "(🎀)🎨 artist  𓏴  dni: proship + sh/edtwt  𓏴  @cafeparede !!\n|| cms : CLOSED 0/2 || ໒꒱ use OK with credits",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "cafeparede"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "613.straw.page",
+                "end": 23,
+                "expanded_url": "http://613.straw.page",
+                "start": 0,
+                "url": "https://t.co/9c28WU0xNq"
+              }
+            ]
+          }
+        },
+        "id": "1951176580337704962",
+        "location": "21 they/she | en/es",
+        "name": "♡ ! cherie",
+        "pinned_tweet_id": "1952521262590263316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039600799538626560/dfrDkArm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3497,
+          "following_count": 474,
+          "like_count": 11606,
+          "listed_count": 7,
+          "media_count": 954,
+          "tweet_count": 7052
+        },
+        "url": "https://t.co/9c28WU0xNq",
+        "username": "mizuenaemon",
+        "verified": false
+      }
+    ]
+  }
+}

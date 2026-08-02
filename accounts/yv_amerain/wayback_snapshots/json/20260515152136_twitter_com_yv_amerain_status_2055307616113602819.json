@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2055067955705139202",
+    "created_at": "2026-05-15T15:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055307616113602819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935330147600863232",
+          "start": 0,
+          "username": "gaolikangzhi211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055307616113602819",
+    "in_reply_to_user_id": "1935330147600863232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055302664909623324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaolikangzhi211 我靠，我一个长发兄弟比较正常啊，就是他带我玩的，他也不喜欢那种氛围啊，我靠了，唉，我操我我主要只想跟就是我那个长发兄弟性格一样的人玩啊，不想跟这些人玩，太诡异了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2055067955705139202",
+        "created_at": "2026-05-15T15:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055307616113602819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935330147600863232",
+              "start": 0,
+              "username": "gaolikangzhi211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055307616113602819",
+        "in_reply_to_user_id": "1935330147600863232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055302664909623324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaolikangzhi211 我靠，我一个长发兄弟比较正常啊，就是他带我玩的，他也不喜欢那种氛围啊，我靠了，唉，我操我我主要只想跟就是我那个长发兄弟性格一样的人玩啊，不想跟这些人玩，太诡异了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935330147600863232",
+        "conversation_id": "2055067955705139202",
+        "created_at": "2026-05-15T15:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055302664909623324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055302664909623324",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055067955705139202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yv_amerain 暴力黑手s就天天开，还发视频给群里的人，进群还要门槛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2055271774389194837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054130028745732096/mmU3HJTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4604,
+          "following_count": 455,
+          "like_count": 8703,
+          "listed_count": 7,
+          "media_count": 347,
+          "tweet_count": 4124
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T13:34:20.000Z",
+        "description": "",
+        "id": "1935330147600863232",
+        "name": "会有天使替我来爱你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047598022717018112/0Bx0A2qQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 68,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "username": "gaolikangzhi211",
+        "verified": false
+      }
+    ]
+  }
+}

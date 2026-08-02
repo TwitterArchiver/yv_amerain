@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2049376999047934361",
+    "created_at": "2026-04-29T06:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049376999047934361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049376999047934361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你是一个喜欢看二偶的宅哥，然后呢，又不会打扮自己，就不要加我了，一股味儿，嘻嘻嘻，依旧见证依旧幻想去日本找日本女友，依旧自己没啥人格魅力没建模认知比较低，依旧喜欢地雷系只知道穿搭，还有一些刻板印象然后这个小众边缘群体这个圈子，别的东西都不知道，就知道你那二次元母人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2049376999047934361",
+        "created_at": "2026-04-29T06:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049376999047934361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049376999047934361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是一个喜欢看二偶的宅哥，然后呢，又不会打扮自己，就不要加我了，一股味儿，嘻嘻嘻，依旧见证依旧幻想去日本找日本女友，依旧自己没啥人格魅力没建模认知比较低，依旧喜欢地雷系只知道穿搭，还有一些刻板印象然后这个小众边缘群体这个圈子，别的东西都不知道，就知道你那二次元母人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049144233530105856/xv8hJFad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 443,
+          "like_count": 8214,
+          "listed_count": 7,
+          "media_count": 317,
+          "tweet_count": 3988
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

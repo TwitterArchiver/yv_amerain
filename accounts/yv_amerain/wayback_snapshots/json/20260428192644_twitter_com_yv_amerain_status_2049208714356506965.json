@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049044241104699392"
+      ],
+      "media_source_tweet_id": [
+        "2049044243726168242"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2049208714356506965",
+    "created_at": "2026-04-28T19:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T20:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049208714356506965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906190701081264128",
+          "start": 3,
+          "username": "_einoie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ATNM1Ervrx",
+          "end": 48,
+          "expanded_url": "https://x.com/_einoie/status/2049044243726168242/photo/1",
+          "media_key": "3_2049044241104699392",
+          "start": 25,
+          "url": "https://t.co/ATNM1Ervrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049208714356506965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049044243726168242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_einoie: 久しぶりに売ってたので https://t.co/ATNM1Ervrx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049044241104699392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-q4YgbAAAAB9d.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049044241104699392"
+          ],
+          "media_source_tweet_id": [
+            "2049044243726168242"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2049208714356506965",
+        "created_at": "2026-04-28T19:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049208714356506965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906190701081264128",
+              "start": 3,
+              "username": "_einoie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATNM1Ervrx",
+              "end": 48,
+              "expanded_url": "https://x.com/_einoie/status/2049044243726168242/photo/1",
+              "media_key": "3_2049044241104699392",
+              "start": 25,
+              "url": "https://t.co/ATNM1Ervrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049208714356506965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049044243726168242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_einoie: 久しぶりに売ってたので https://t.co/ATNM1Ervrx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049044241104699392"
+          ]
+        },
+        "author_id": "1906190701081264128",
+        "conversation_id": "2049044243726168242",
+        "created_at": "2026-04-28T08:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049044243726168242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATNM1Ervrx",
+              "end": 35,
+              "expanded_url": "https://x.com/_einoie/status/2049044243726168242/photo/1",
+              "media_key": "3_2049044241104699392",
+              "start": 12,
+              "url": "https://t.co/ATNM1Ervrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049044243726168242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8288,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりに売ってたので https://t.co/ATNM1Ervrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "神之爱",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049144233530105856/xv8hJFad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 443,
+          "like_count": 8203,
+          "listed_count": 7,
+          "media_count": 316,
+          "tweet_count": 3983
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T03:44:54.000Z",
+        "description": "OMORI中心　16♂︎　🏀☀️推し\nマイペースで描いてます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/107541290",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/107541290",
+                "start": 0,
+                "url": "https://t.co/4canV02rSY"
+              }
+            ]
+          }
+        },
+        "id": "1906190701081264128",
+        "location": "⚠️No AI training.",
+        "name": "えいのいえ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003244872883666945/E-xZtL15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 23,
+          "like_count": 4989,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/4canV02rSY",
+        "username": "_einoie",
+        "verified": false
+      }
+    ]
+  }
+}

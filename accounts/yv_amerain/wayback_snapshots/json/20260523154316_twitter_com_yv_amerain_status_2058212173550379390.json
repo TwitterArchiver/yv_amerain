@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2058186870664970574",
+    "created_at": "2026-05-23T15:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058212173550379390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "136708294",
+          "start": 0,
+          "username": "ningmeng______"
+        },
+        {
+          "end": 28,
+          "id": "1866050038088024064",
+          "start": 16,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058212173550379390",
+    "in_reply_to_user_id": "136708294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058204835141620156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ningmeng______ @123456wwerr 那我还可以继续整。我投入成本已经够多了，我已经把很多东西都卖掉了，找不出来，绝对不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2058186870664970574",
+        "created_at": "2026-05-23T15:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058212173550379390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "136708294",
+              "start": 0,
+              "username": "ningmeng______"
+            },
+            {
+              "end": 28,
+              "id": "1866050038088024064",
+              "start": 16,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058212173550379390",
+        "in_reply_to_user_id": "136708294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058204835141620156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningmeng______ @123456wwerr 那我还可以继续整。我投入成本已经够多了，我已经把很多东西都卖掉了，找不出来，绝对不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136708294",
+        "conversation_id": "2058186870664970574",
+        "created_at": "2026-05-23T15:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058204835141620156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 24,
+              "id": "1857335218673483776",
+              "start": 13,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058204835141620156",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058188470678589796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr @yv_amerain 根本不会立案的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//对不起我之前做的一切对不起......",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2058058056362287463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058158079544627200/Fqgf3dCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4775,
+          "following_count": 474,
+          "like_count": 8954,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 4198
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-24T17:45:44.000Z",
+        "description": "",
+        "id": "136708294",
+        "name": "柠檬不萌",
+        "pinned_tweet_id": "2054695482312773744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019396137086775300/cR1jmGP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 403,
+          "like_count": 3174,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1501
+        },
+        "username": "ningmeng______",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 428,
+          "like_count": 127544,
+          "listed_count": 3,
+          "media_count": 783,
+          "tweet_count": 19183
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

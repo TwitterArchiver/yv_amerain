@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047720153593622528"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2047720156965765569",
+    "created_at": "2026-04-24T16:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047720156965765569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9DVXRzgYlj",
+          "end": 79,
+          "expanded_url": "https://x.com/yv_amerain/status/2047720156965765569/photo/1",
+          "media_key": "3_2047720153593622528",
+          "start": 56,
+          "url": "https://t.co/9DVXRzgYlj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047720156965765569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再去做个黑美甲，然后手背上再纹个六芒星就更好看了，嘿嘿（其实我另一边不是很满意，可能过几天颜色掉成天空蓝就好了 https://t.co/9DVXRzgYlj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1702,
+        "media_key": "3_2047720153593622528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGr2oWJbMAAaXK7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047720153593622528"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2047720156965765569",
+        "created_at": "2026-04-24T16:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047720156965765569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DVXRzgYlj",
+              "end": 79,
+              "expanded_url": "https://x.com/yv_amerain/status/2047720156965765569/photo/1",
+              "media_key": "3_2047720153593622528",
+              "start": 56,
+              "url": "https://t.co/9DVXRzgYlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047720156965765569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再去做个黑美甲，然后手背上再纹个六芒星就更好看了，嘿嘿（其实我另一边不是很满意，可能过几天颜色掉成天空蓝就好了 https://t.co/9DVXRzgYlj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4263,
+          "following_count": 435,
+          "like_count": 8003,
+          "listed_count": 7,
+          "media_count": 311,
+          "tweet_count": 3923
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

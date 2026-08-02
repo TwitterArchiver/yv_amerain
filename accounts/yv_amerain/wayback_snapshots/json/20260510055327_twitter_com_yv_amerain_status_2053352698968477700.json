@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857335218673483776",
+    "conversation_id": "2053136293853601851",
+    "created_at": "2026-05-10T05:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053352698968477700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053352698968477700",
+    "in_reply_to_user_id": "1552602100634251265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053136293853601851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AceChiliYin 我要喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053136249955991553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH40ipYawAEg7ac.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053136255589007361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH40i-XbwAEpBnX.jpg",
+        "width": 1462
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053136256583061504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH40jCEb0AAoDHw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053136256167763968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH40jAha4AA2ENJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857335218673483776",
+        "conversation_id": "2053136293853601851",
+        "created_at": "2026-05-10T05:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053352698968477700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053352698968477700",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053136293853601851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AceChiliYin 我要喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053136249955991553",
+            "3_2053136255589007361",
+            "3_2053136256583061504",
+            "3_2053136256167763968"
+          ]
+        },
+        "author_id": "1552602100634251265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053136293853601851",
+        "created_at": "2026-05-09T15:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053136293853601851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vUwEW5nFE",
+              "end": 30,
+              "expanded_url": "https://x.com/AceChiliYin/status/2053136293853601851/photo/1",
+              "media_key": "3_2053136249955991553",
+              "start": 7,
+              "url": "https://t.co/5vUwEW5nFE"
+            },
+            {
+              "display_url": "pic.x.com/5vUwEW5nFE",
+              "end": 30,
+              "expanded_url": "https://x.com/AceChiliYin/status/2053136293853601851/photo/1",
+              "media_key": "3_2053136255589007361",
+              "start": 7,
+              "url": "https://t.co/5vUwEW5nFE"
+            },
+            {
+              "display_url": "pic.x.com/5vUwEW5nFE",
+              "end": 30,
+              "expanded_url": "https://x.com/AceChiliYin/status/2053136293853601851/photo/1",
+              "media_key": "3_2053136256583061504",
+              "start": 7,
+              "url": "https://t.co/5vUwEW5nFE"
+            },
+            {
+              "display_url": "pic.x.com/5vUwEW5nFE",
+              "end": 30,
+              "expanded_url": "https://x.com/AceChiliYin/status/2053136293853601851/photo/1",
+              "media_key": "3_2053136256167763968",
+              "start": 7,
+              "url": "https://t.co/5vUwEW5nFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053136293853601851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝喝饮料抽烟 https://t.co/5vUwEW5nFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//欧坤呀叫我小雨就好了//雷别人把我当男娘//小雨就是小雨//互关和扩列私我cos会回关//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//亚文化//善意结善缘不要骂我谢谢//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2050901969913753866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051075600979554306/IKtE34pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4515,
+          "following_count": 456,
+          "like_count": 8475,
+          "listed_count": 7,
+          "media_count": 335,
+          "tweet_count": 4079
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "雏草姬喵。叫我小弦 小七哩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjwhhK"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "永雏弦",
+        "pinned_tweet_id": "2040067410619998361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041380620040024064/f6e9WPl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 785,
+          "like_count": 121891,
+          "listed_count": 12,
+          "media_count": 678,
+          "tweet_count": 24104
+        },
+        "url": "https://t.co/rhXAcjwhhK",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

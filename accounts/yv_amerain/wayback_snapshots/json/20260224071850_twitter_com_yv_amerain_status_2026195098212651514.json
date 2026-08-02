@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2026195071373340672"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2026195098212651514",
+    "created_at": "2026-02-24T07:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T08:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026195098212651514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zUX6e1YczP",
+          "end": 23,
+          "expanded_url": "https://x.com/yv_amerain/status/2026195098212651514/video/1",
+          "media_key": "7_2026195071373340672",
+          "start": 0,
+          "url": "https://t.co/zUX6e1YczP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026195098212651514",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/zUX6e1YczP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5619,
+        "height": 1280,
+        "media_key": "7_2026195071373340672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026195071373340672/pu/img/4E8vLnfCM_nmvnb4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026195071373340672/pu/vid/avc1/320x568/pHNHvo_XBItbabA5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026195071373340672/pu/vid/avc1/480x852/2OaV8RTTo3enrxxe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026195071373340672/pu/vid/avc1/720x1280/9tT7clYkllsvJmVQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026195071373340672/pu/pl/TsW9LM-R-G7SzVKS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026195071373340672"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2026195098212651514",
+        "created_at": "2026-02-24T07:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026195098212651514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUX6e1YczP",
+              "end": 23,
+              "expanded_url": "https://x.com/yv_amerain/status/2026195098212651514/video/1",
+              "media_key": "7_2026195071373340672",
+              "start": 0,
+              "url": "https://t.co/zUX6e1YczP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026195098212651514",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zUX6e1YczP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "17//叫我小雨就好了//请资助我谢谢//互关或者加好友请私信我//不混厕//月亮计划 东方project  十二神器 魂系游戏 日恐 主播女孩还有一些老ip//🚪52//cos//碎碎念//低智碎碎念//od自伤蛆//我是一个有心理疾病的人//好闺蜜@ace_sana_ @fuyunxian//小弟@AiXipi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "fuyunxian"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "AiXipi"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "雨ame",
+        "pinned_tweet_id": "2023648247924031678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020946303996526592/cxgDpgDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 554,
+          "like_count": 7287,
+          "listed_count": 8,
+          "media_count": 313,
+          "tweet_count": 3690
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

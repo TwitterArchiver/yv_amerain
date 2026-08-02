@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038964017608433664"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2038964136718266728",
+    "created_at": "2026-03-31T12:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038964136718266728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cXxaoOoLlf",
+          "end": 35,
+          "expanded_url": "https://x.com/yv_amerain/status/2038964136718266728/video/1",
+          "media_key": "13_2038964017608433664",
+          "start": 12,
+          "url": "https://t.co/cXxaoOoLlf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038964136718266728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我下单了虎少的祝福视频 https://t.co/cXxaoOoLlf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22175,
+        "height": 960,
+        "media_key": "13_2038964017608433664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038964017608433664/img/oFHaLv5_ilKV8zt0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038964017608433664/vid/avc1/320x426/DxjoldX6IE4Ts-7g.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038964017608433664/vid/avc1/480x640/N7UBkuj0EqaZY-F_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038964017608433664/vid/avc1/720x960/LwKtJcFQ56wBdoMH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038964017608433664/pl/7tJ5usaQVdMgO4Ju.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038964017608433664"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2038964136718266728",
+        "created_at": "2026-03-31T12:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038964136718266728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXxaoOoLlf",
+              "end": 35,
+              "expanded_url": "https://x.com/yv_amerain/status/2038964136718266728/video/1",
+              "media_key": "13_2038964017608433664",
+              "start": 12,
+              "url": "https://t.co/cXxaoOoLlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038964136718266728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我下单了虎少的祝福视频 https://t.co/cXxaoOoLlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关或者加好友请私信我//cos都会直接互//cos//碎碎念//什么都发//闺蜜@ace_sana_ 开黑小伙伴@fuyunxian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "永雏雨（挂壁版）",
+        "pinned_tweet_id": "2038900694540034342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038867415350878209/siJ576jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4344,
+          "following_count": 429,
+          "like_count": 7792,
+          "listed_count": 7,
+          "media_count": 300,
+          "tweet_count": 3861
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

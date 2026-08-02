@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048238222308982784"
+      ],
+      "media_source_tweet_id": [
+        "2048238233453269409"
+      ]
+    },
+    "author_id": "1857335218673483776",
+    "conversation_id": "2048284825917018286",
+    "created_at": "2026-04-26T06:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048284825917018286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738557273944047616",
+          "start": 3,
+          "username": "kiwii_dh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCQyVyqOYw",
+          "end": 53,
+          "expanded_url": "https://x.com/kiwii_dh/status/2048238233453269409/video/1",
+          "media_key": "13_2048238222308982784",
+          "start": 30,
+          "url": "https://t.co/TCQyVyqOYw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048284825917018286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048238233453269409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiwii_dh: もしもし？☎️👩‍❤️‍💋‍👩 https://t.co/TCQyVyqOYw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4166,
+        "height": 720,
+        "media_key": "13_2048238222308982784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048238222308982784/img/0tgXIozct1e1uBjY.jpg",
+        "public_metrics": {
+          "view_count": 1071
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048238222308982784/vid/avc1/360x270/9BnhU5NzIJAlDoNe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048238222308982784/vid/avc1/480x360/AXk1HaYTLgJy5U2z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048238222308982784/vid/avc1/960x720/6Q7gK1FohHug2AUh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048238222308982784/pl/_C1Ur8c4TLUyFpcF.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048238222308982784"
+          ],
+          "media_source_tweet_id": [
+            "2048238233453269409"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "conversation_id": "2048284825917018286",
+        "created_at": "2026-04-26T06:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048284825917018286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738557273944047616",
+              "start": 3,
+              "username": "kiwii_dh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCQyVyqOYw",
+              "end": 53,
+              "expanded_url": "https://x.com/kiwii_dh/status/2048238233453269409/video/1",
+              "media_key": "13_2048238222308982784",
+              "start": 30,
+              "url": "https://t.co/TCQyVyqOYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048284825917018286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048238233453269409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiwii_dh: もしもし？☎️👩‍❤️‍💋‍👩 https://t.co/TCQyVyqOYw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048238222308982784"
+          ]
+        },
+        "author_id": "1738557273944047616",
+        "conversation_id": "2048238233453269409",
+        "created_at": "2026-04-26T03:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048238233453269409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCQyVyqOYw",
+              "end": 39,
+              "expanded_url": "https://x.com/kiwii_dh/status/2048238233453269409/video/1",
+              "media_key": "13_2048238222308982784",
+              "start": 16,
+              "url": "https://t.co/TCQyVyqOYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048238233453269409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 3610,
+          "like_count": 569,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "もしもし？☎️👩‍❤️‍💋‍👩 https://t.co/TCQyVyqOYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Wuhan, Hubei, China",
+              "geo": {
+                "coordinates": [
+                  114.26667,
+                  30.58333
+                ],
+                "type": "Point"
+              },
+              "locality": "Wuhan",
+              "region": "Hubei"
+            }
+          ]
+        },
+        "description": "17//叫我小雨就好了//互关扩列私我//同好可直接互关//cos//碎碎念//什么都发//最好的朋友@ace_sana_ 最好的女孩@fuyunxian//主推mzk Sallyface//善意结善缘不要骂我谢谢//不见政不魔怔//os不要欺负我和我认识的男孩女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuyunxian"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "因为你很可爱呀",
+        "pinned_tweet_id": "2042313670794092841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046998669145370624/V8pt63t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4288,
+          "following_count": 438,
+          "like_count": 8051,
+          "listed_count": 7,
+          "media_count": 313,
+          "tweet_count": 3935
+        },
+        "username": "yv_amerain",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T13:52:22.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/6420552641?c=3",
+                "end": 23,
+                "expanded_url": "http://pushoong.com/6420552641?c=3",
+                "start": 0,
+                "url": "https://t.co/VUrcLaNivU"
+              }
+            ]
+          }
+        },
+        "id": "1738557273944047616",
+        "location": "프셐위주",
+        "name": "룽✰",
+        "pinned_tweet_id": "1974816436632899654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775507740666081280/G0J2edH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 93,
+          "like_count": 1579,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/VUrcLaNivU",
+        "username": "kiwii_dh",
+        "verified": false
+      }
+    ]
+  }
+}
